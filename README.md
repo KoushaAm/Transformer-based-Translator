@@ -1,5 +1,4 @@
-# **CMPT 413 Final Project**
-## **Efficient English–Cantonese Low-Resource Machine Translation via LoRA + Contrastive Decoding**
+# **Efficient English–Cantonese Low-Resource Machine Translation via LoRA + Contrastive Decoding**
 
 ---
 
