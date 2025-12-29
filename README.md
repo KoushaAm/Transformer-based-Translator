@@ -215,3 +215,14 @@ python main.py -e
 
 All contrastive decoding logic and LoRA integration beyond library calls were implemented by our group.
 
+
+
+## **References**
+
+[1]	K. Y. Hong, L. Han, R. Batista-Navarro, and G. Nenadic, ‘CantonMT: Cantonese-English Neural Machine Translation Looking into Evaluations’, in Proceedings of the 16th Conference of the Association for Machine Translation in the Americas (Volume 2: Presentations), 2024, pp. 133–144.
+
+[2]	E. K.-Y. Liu, ‘Low-Resource Neural Machine Translation: A Case Study of Cantonese’, in Proceedings of the Ninth Workshop on NLP for Similar Languages, Varieties and Dialects, 2022, pp. 28–40.
+
+[3] R. Pei, Y. Liu, P. Lin, F. Yvon, and H. Schütze, “Understanding In-Context Machine Translation for Low-Resource Languages: A Case Study on Manchu,” arXiv (Cornell University), Feb. 2025, doi: https://doi.org/10.48550/arxiv.2502.11862.
+
+[4] J. Waldendorf, B. Haddow, and A. Birch, “Contrastive Decoding Reduces Hallucinations in Large Multilingual Machine Translation Models,” Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 2526–2539, 2024, doi: https://doi.org/10.18653/v1/2024.eacl-long.155.
