@@ -1,0 +1,7 @@
+Jason (Jie Hua Yi) - 301452655 
+
+- Implemented data augmentation and cantonese dictionary word pair construction
+- Performed model training and constructed pipeline for results.
+- Experimented with various hyperparameters for training and decoding
+- Implemented contrastive decoding via logits loop
+- Asssisted with project write-up

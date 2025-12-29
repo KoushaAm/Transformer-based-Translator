@@ -1,0 +1,6002 @@
+[
+  {
+    "index": 0,
+    "src": "I beckoned softly",
+    "tgt": "我輕輕的招手",
+    "pred": "我打緊緊"
+  },
+  {
+    "index": 1,
+    "src": "Don't even buy a Shu Lingxian - back to Enns, outrageous.",
+    "tgt": "買個舒靈咸都唔要-返恩斯，離晒譜。",
+    "pred": "唔好買一張楊龍-去過大埔,好難。"
+  },
+  {
+    "index": 2,
+    "src": "Ah, I have one person who likes it, but I forgot who it is?",
+    "tgt": "吖我有一個人好鍾意𡃉，但係我唔記得咗係邊個？",
+    "pred": "啊,我有個人睇到,但係唔好諗到呢?"
+  },
+  {
+    "index": 3,
+    "src": "My father left after I was born, and my mother raised me as a widow.",
+    "tgt": "我出世之後爸爸就走咗，我媽媽守寡養大我嘅。",
+    "pred": "我父先喺我出生,我媽媽同我同女。"
+  },
+  {
+    "index": 4,
+    "src": "Borrow a trolley for him to touch, it's easy to have no scum.",
+    "tgt": "借部車畀佢揸，好容易渣都冇。",
+    "pred": "俾佢打手,好容易唔好打。"
+  },
+  {
+    "index": 5,
+    "src": "A few years ago, I was a judge on a cooking show called Chopped",
+    "tgt": "幾年前 我喺一個叫 「 Chopped 」 嘅 廚藝節目度做評委",
+    "pred": "幾年前 , 我係個廚師嘅演員"
+  },
+  {
+    "index": 6,
+    "src": "Play three ball games in a row and take a break.",
+    "tgt": "連打三場波，要唞唞。",
+    "pred": "打三個球賽,打一陣。"
+  },
+  {
+    "index": 7,
+    "src": "This question should be chased to the bottom of the sky",
+    "tgt": "呢條數追到天腳底都要追",
+    "pred": "呢個問題應該喺天空下"
+  },
+  {
+    "index": 8,
+    "src": "The disease is shallow, and if the Chinese medicine doctor is uncomfortable, he will see a doctor quickly",
+    "tgt": "病向淺中醫唔舒服就快啲睇醫生",
+    "pred": "疾病好惡,如果中國醫生醫生唔好,佢會見到醫生"
+  },
+  {
+    "index": 9,
+    "src": "In 2018, a total of 126 economies were evaluated and ranked, based on 80 indicators, including IP filing rates, mobile app development, scientific and technical publications, and spending on education.",
+    "tgt": "全球創新指數計算包括知識產權申報率、移動應用開發、科技出版物同教育支出等等在內嘅八十個指標為依據， 2018年總共有126個經濟體系被評估同排名。",
+    "pred": "2018年全數126年,以為80年嘅統計,包括電子書、電子書、電子書、電子書、電子書、電子書、電子書、電子書、電子書、電子書、電子書、電子書"
+  },
+  {
+    "index": 10,
+    "src": "Serving in this company, isn't it? Suddenly, but when it comes, really look at the account, or the outside is business, the time of all kinds of things, it is very realistic that thing.",
+    "tgt": "喺哩間公司裏邊服務，係唔係啊？噉𠻺然之後呢，但係一去到呢，真係睇一睇盤數，或者外邊即係生意啊，各樣嘢嘅時間，就即係好現實嘞嗰樣嘢就。",
+    "pred": "呢間公司食嘢,唔係啊?但係係係呢,但係係就睇到賬,即係喺個個嘢,即係咁樣嘢,即係咁樣嘢,都係好好清楚。"
+  },
+  {
+    "index": 11,
+    "src": "The worst health condition of a person is death",
+    "tgt": "（ 笑聲 ） 一個人最差嘅健康狀況就係死亡",
+    "pred": "人嘅疾病最難嘅疾病"
+  },
+  {
+    "index": 12,
+    "src": "Kazuka Hara (born February 22, 1996) is a Japan entertainer and model.",
+    "tgt": "原風佳（1996年2月22日－ ）係日本嘅藝人、模特兒。",
+    "pred": "楊爺(1996年22月22日,係日本娛樂人。"
+  },
+  {
+    "index": 13,
+    "src": "Sweet German beef broth",
+    "tgt": "香濃甜德式牛肉湯",
+    "pred": "大西洋雞蛋"
+  },
+  {
+    "index": 14,
+    "src": "There are many windmills on the rolling hills, creating a magnificent landscape.",
+    "tgt": "連綿嘅丘陵上有好多座風車，形成壯麗嘅景觀。",
+    "pred": "山山有好多雨水,創造好壯觀嘅景景。"
+  },
+  {
+    "index": 15,
+    "src": "These cow shutters are refreshing",
+    "tgt": "啲牛百葉好爽",
+    "pred": "呢啲豬燈好靚"
+  },
+  {
+    "index": 16,
+    "src": "The report was published in 2008, at the time of the financial tsunami, when the market had lost $25 trillion",
+    "tgt": "報告喺 2008 年發表 亦即係金融海嘯嘅時候 當時市場已經虧損達 2.5 萬億美元",
+    "pred": "報報喺2008年年,經濟危機喺2008年,喺經濟危機被減減咗$50億"
+  },
+  {
+    "index": 17,
+    "src": "Goose bumps",
+    "tgt": "雞皮",
+    "pred": "牛腩"
+  },
+  {
+    "index": 18,
+    "src": "Chess against opponents",
+    "tgt": "棋逢敵手",
+    "pred": "賽賽賽"
+  },
+  {
+    "index": 19,
+    "src": "I hope you don't harass him",
+    "tgt": "我希望你哋唔好騷擾佢",
+    "pred": "我希望你唔好打佢"
+  },
+  {
+    "index": 20,
+    "src": "dryer",
+    "tgt": "乾衣機",
+    "pred": "凍"
+  },
+  {
+    "index": 21,
+    "src": "Still, I have reason to believe that many of you tie your shoes the wrong way.",
+    "tgt": "不過 ， 我有理由相信 你地之中噶好多人 用緊錯誤噶方式綁鞋帶 。",
+    "pred": "所以,我有理由認為你打鞋咁錯。"
+  },
+  {
+    "index": 22,
+    "src": "A year later, the Yangtze River flooded, killing almost 5,500 people",
+    "tgt": "一年後長江泛濫 造成差唔多 5,500 人死亡",
+    "pred": "一年 , 沙沙湖山暴暴暴暴,死亡超過千萬人"
+  },
+  {
+    "index": 23,
+    "src": "Last night, the Shin Kong Cinema in North Point did a big play, did you go to see it?",
+    "tgt": "琴晚北角新光戲院做大戲，你有冇去睇啊？",
+    "pred": "今次喺西沙灣街有大戲,你去睇到?"
+  },
+  {
+    "index": 24,
+    "src": "Maltose is tooth-open.",
+    "tgt": "麥芽糖好黐牙。",
+    "pred": "麻麻係牙齒。"
+  },
+  {
+    "index": 25,
+    "src": "Seeing that all banks have the same working hours",
+    "tgt": "眼見所有銀行嘅上班時間都係一樣",
+    "pred": "睇到各銀行有兩個工作時間"
+  },
+  {
+    "index": 26,
+    "src": "Can you stop your body from declining and keep you from getting old?",
+    "tgt": "能叫停身體別再衰退讓你不老不死嗎？",
+    "pred": "你會打咗個頭痛,使你變咗老?"
+  },
+  {
+    "index": 27,
+    "src": "Don't set a kettle on a table, there will be baking.",
+    "tgt": "唔好擺個水煲上張枱，會有烘。",
+    "pred": "唔好打枱枱,唔好食。"
+  },
+  {
+    "index": 28,
+    "src": "Because of the flight, he could not contact his family.",
+    "tgt": "因為走難，佢聯繫唔到屋企人。",
+    "pred": "因為航班,佢唔會同家人。"
+  },
+  {
+    "index": 29,
+    "src": "Be careful",
+    "tgt": "你小心啲呀",
+    "pred": "好心"
+  },
+  {
+    "index": 30,
+    "src": "Summary",
+    "tgt": "撮寫",
+    "pred": "資料"
+  },
+  {
+    "index": 31,
+    "src": "I was beaten twice for no reason, and I was asked to apologize to him, and of course I was indignant.",
+    "tgt": "我無端端俾人扑咗兩棍，仲要我同佢道歉，條氣梗係唔順。",
+    "pred": "我冇理由,我問佢,係好難。"
+  },
+  {
+    "index": 32,
+    "src": "Pretending to be confused",
+    "tgt": "搏懵",
+    "pred": "無難唔好"
+  },
+  {
+    "index": 33,
+    "src": "The world's first IVF was born in United Kingdom.",
+    "tgt": "世界上第一個試管嬰兒係喺英國出世。",
+    "pred": "世界第一個IVF係美國第一個。"
+  },
+  {
+    "index": 34,
+    "src": "It's a lot of noise here early in the morning",
+    "tgt": "晨早流流喺度嘈之巴閉",
+    "pred": "晚時有好多聲"
+  },
+  {
+    "index": 35,
+    "src": "Unpromising",
+    "tgt": "冇料",
+    "pred": "不動"
+  },
+  {
+    "index": 36,
+    "src": "Imagine they get 150 reviews from others: \"It's great that they can unlock their phones!\"",
+    "tgt": "想像下佢哋獲得 150 個他人評價 話 「 佢哋搾得人哋 解鎖嘅手機好好 ！ 」",
+    "pred": "想像佢哋有100 評價 : 「 佢哋可以控制手機 ! 」"
+  },
+  {
+    "index": 37,
+    "src": "If you don't have a family, you may not understand",
+    "tgt": "未組織家庭嘅你未必明",
+    "pred": "你唔有個家庭,唔知"
+  },
+  {
+    "index": 38,
+    "src": "Words can be poison",
+    "tgt": "文字可以是毒藥",
+    "pred": "文字可以變得毒"
+  },
+  {
+    "index": 39,
+    "src": "My grandparents are brainless and degenerate, and they are still very elf.",
+    "tgt": "我阿爺阿嫲冇腦退化呀，仲好精靈。",
+    "pred": "我老師嘅老師都係腦硬,好大佬。"
+  },
+  {
+    "index": 40,
+    "src": "That's enough",
+    "tgt": "都夠晒",
+    "pred": "咁好"
+  },
+  {
+    "index": 41,
+    "src": "The taxi made a few circles around Xiang Wo Lane in Wan Chai",
+    "tgt": "的士喺灣仔祥和里兜左幾個圈",
+    "pred": "車喺沙龍灣角角角角角角角角角角角角角角角角角角角角角角"
+  },
+  {
+    "index": 42,
+    "src": "Ah, one day shaking his head like this. It's like this, and he shakes his head repeatedly.",
+    "tgt": "啊一日係噉擰頭囖。係噉一尾反覆擰頭囖。",
+    "pred": "啊,一星期打咗頭<0xD0>。係咁,佢打頭喇。"
+  },
+  {
+    "index": 43,
+    "src": "I grew up over there, and my kids grew up over there",
+    "tgt": "我喺嗰邊大 ， 我啲仔又係喺嗰邊大",
+    "pred": "我喺度走咗,我啲仔都喺度"
+  },
+  {
+    "index": 44,
+    "src": "How did you?",
+    "tgt": "你點啊？",
+    "pred": "你點解呢?"
+  },
+  {
+    "index": 45,
+    "src": "You madman still died early",
+    "tgt": "你呢個黐線佬都係早死早著",
+    "pred": "你大佬早早死"
+  },
+  {
+    "index": 46,
+    "src": "play tricks",
+    "tgt": "攪鬼",
+    "pred": "玩技"
+  },
+  {
+    "index": 47,
+    "src": "Then it was like the host invited us to have a drink.",
+    "tgt": "跟住就主人家請我哋去飲啲嘢噉樣囖。",
+    "pred": "所以係係係係我哋邀請我哋去飲飯。"
+  },
+  {
+    "index": 48,
+    "src": "lifetime",
+    "tgt": "一世",
+    "pred": "生活"
+  },
+  {
+    "index": 49,
+    "src": "He couldn't help but weep bitterly, immersed in pain.",
+    "tgt": "佢忍唔住痛哭流涕，沉浸喺痛苦之中。",
+    "pred": "佢唔好幫手,打死痛。"
+  },
+  {
+    "index": 50,
+    "src": "It is also necessary to make similar word decisions",
+    "tgt": "又要做到相似嘅用字決定",
+    "pred": "可以做類似字方案"
+  },
+  {
+    "index": 51,
+    "src": "Okay, retarded exhibitionist",
+    "tgt": "行啦，弱智露體狂",
+    "pred": "好,無禁展會"
+  },
+  {
+    "index": 52,
+    "src": "Tai Wong Temple, Old Market, Yuen Long",
+    "tgt": "元朗舊墟大王廟",
+    "pred": "大埔街,大埔街"
+  },
+  {
+    "index": 53,
+    "src": "Now I'm busy",
+    "tgt": "家陣我好忙",
+    "pred": "所以我好忙"
+  },
+  {
+    "index": 54,
+    "src": "But and a whole set of plays, albeit a comedy and perhaps absurd theme. But light - is oozing a touch of helplessness. Because in a society, when the economy is really sluggish, you can't find anything, you really can't find something to do, so what? It's not that you don't look for them. For example, the supervisor is constantly looking for things to do. But I can't find it. So what? Really do it, he said...",
+    "tgt": "噉但係同埋成套戲呢，儘管係一個喜劇或者荒謬嘅主題。但係淡-即係滲着淡淡嘅無奈啊。因為喺一個社會裏邊，經濟真係低迷嘅時候，揾唔到嘢，真係係揾唔到嘢做，噉點呢？唔係唔揾喎佢哋。譬如嗰個主管就不斷去揾嘢做喎。但係係揾唔到。噉點呢？真係要做哩件事，佢話…",
+    "pred": "但係呢個組組,但係係一個戲,但係係一個戲,但係係一個戲,但係係一個戲,但係係一個戲,但係係一個戲,但係係一個戲,"
+  },
+  {
+    "index": 55,
+    "src": "Yellow",
+    "tgt": "屎黃",
+    "pred": "紅"
+  },
+  {
+    "index": 56,
+    "src": "But this habit can also cause foot odor",
+    "tgt": "但這個習慣也會引起腳臭",
+    "pred": "但係呢個習慣可以影響腳臭"
+  },
+  {
+    "index": 57,
+    "src": "Eye Wall",
+    "tgt": "風眼牆",
+    "pred": "眼角"
+  },
+  {
+    "index": 58,
+    "src": "Big",
+    "tgt": "大頭",
+    "pred": "大"
+  },
+  {
+    "index": 59,
+    "src": "This is how it is.",
+    "tgt": "䟴䟴腳噉樣。",
+    "pred": "呢個係乜嘢。"
+  },
+  {
+    "index": 60,
+    "src": "You don't want to live with them, you can't wash anything clearly.",
+    "tgt": "你唔好同佢哋行埋一齊，有乜嘢事，你水洗都唔清。",
+    "pred": "你唔想同佢哋做嘢,唔好擦嘢。"
+  },
+  {
+    "index": 61,
+    "src": "He wanted me to wait a long time before he was willing to give me some money.",
+    "tgt": "佢要我等好耐先捨得畀番啲錢我。",
+    "pred": "佢想我去做好多錢。"
+  },
+  {
+    "index": 62,
+    "src": "This issue cannot be ignored.",
+    "tgt": "呢個問題不容忽視。",
+    "pred": "呢個問題唔會誤解。"
+  },
+  {
+    "index": 63,
+    "src": "Play time",
+    "tgt": "玩點數",
+    "pred": "玩時間"
+  },
+  {
+    "index": 64,
+    "src": "You're as yellow as a sick cat.",
+    "tgt": "你面黃黃好似隻病貓噉嘅。",
+    "pred": "你係個老鼠嘅仔。"
+  },
+  {
+    "index": 65,
+    "src": "Loose on hand",
+    "tgt": "手頭鬆",
+    "pred": "手手"
+  },
+  {
+    "index": 66,
+    "src": "Hosted by the Faculty of Arts",
+    "tgt": "由文學院主辦",
+    "pred": "由學院學院"
+  },
+  {
+    "index": 67,
+    "src": "Bed",
+    "tgt": "行床",
+    "pred": "手"
+  },
+  {
+    "index": 68,
+    "src": "bedding",
+    "tgt": "被鋪",
+    "pred": "枕"
+  },
+  {
+    "index": 69,
+    "src": "The pen is starting to get a little broken.",
+    "tgt": "哩支筆開始有啲壞壞哋。",
+    "pred": "個紙開始出咗啲埋。"
+  },
+  {
+    "index": 70,
+    "src": "The most important point is that when you start to study mental illness, that is, one out of five people suffers from the disease, you will find that the neural connections in the brain can be very different, but the connections are traceable, and some of the connections are the culprits of mental illness",
+    "tgt": "最重要嘅一點就係 當你開始研究心理病 即係五個人就有一個患上嘅病 你會發覺大腦嘅神經連接方式 可以好唔同 但係連接方式卻係有跡可尋 而且某啲連接方式就係 造成心理病嘅元兇",
+    "pred": "最重要嘅問題係 如果你開始學術嘅疾病 , 係 , 如果你開始學術嘅疾病 , 係 , 因為你開始學術嘅 , 係 , 如果你"
+  },
+  {
+    "index": 71,
+    "src": "Bring - are these for you to eat?",
+    "tgt": "帶俾-哩啲俾你食呀？",
+    "pred": "送-你食乜嘢呀?"
+  },
+  {
+    "index": 72,
+    "src": "Beacon fire year after year",
+    "tgt": "烽火連年",
+    "pred": "年上月"
+  },
+  {
+    "index": 73,
+    "src": "This girl has no ability, but she can use a handbag worth hundreds of thousands to see her real eyes.",
+    "tgt": "呢個女仔冇咩本事但係可以用價值幾十萬一個手袋，見到真係眼赤。",
+    "pred": "呢個女仔冇能力,但係佢可以用咗一張皮幾百蚊去見到佢嘅眼眼。"
+  },
+  {
+    "index": 74,
+    "src": "Well, of course, suicide itself is not a disease",
+    "tgt": "咁當然啦 ， 自殺本身唔係一種病",
+    "pred": "好係,死人嘅死係唔係疾病"
+  },
+  {
+    "index": 75,
+    "src": "He went down to the bar to pick up girls.",
+    "tgt": "佢落酒吧溝仔。",
+    "pred": "佢去枱去咗枱打女。"
+  },
+  {
+    "index": 76,
+    "src": "Get lost",
+    "tgt": "蕩失路",
+    "pred": "落落"
+  },
+  {
+    "index": 77,
+    "src": "That general's record is brilliant.",
+    "tgt": "嗰個將軍嘅戰績好彪炳。",
+    "pred": "呢個總獎好好靚。"
+  },
+  {
+    "index": 78,
+    "src": "The problem is that as long as the economic and political spheres remain separated, the process of automation will raise the two peaks of debt and spare money, exacerbate waste, and deepen social tensions, and I believe this will soon happen in places like China",
+    "tgt": "問題係只要經濟同政治領域一直分離 自動化過程會令 兩座負債同閑錢嘅山峰更加高 加劇浪費 ， 同埋加深社會矛盾 我相信中國呢類地方會好快發生咁嘅事",
+    "pred": "問題係 經濟和經濟體體體體體體體體體體體體係 , 經濟與經濟體體體體體體體體體體體係 , 經濟體體體體體體體體"
+  },
+  {
+    "index": 79,
+    "src": "That day",
+    "tgt": "當天",
+    "pred": "嗰日"
+  },
+  {
+    "index": 80,
+    "src": "The boss invited me to go to the third street restaurant in Sai Ying Pun to eat Western toast and drink milk tea",
+    "tgt": "老闆請我去西營盤第三街間餐廳食西多士飲奶茶",
+    "pred": "個老板請我去左三個街上食香港茶飯"
+  },
+  {
+    "index": 81,
+    "src": "Pour the mold",
+    "tgt": "倒模",
+    "pred": "打水"
+  },
+  {
+    "index": 82,
+    "src": "A bowl of soup all flowed out",
+    "tgt": "碗湯淌晒出嚟",
+    "pred": "一碗飯都打咗"
+  },
+  {
+    "index": 83,
+    "src": "Too lazy to ask you to take me home.",
+    "tgt": "費事要你送我返屋企喇。",
+    "pred": "唔好煩你去我屋企。"
+  },
+  {
+    "index": 84,
+    "src": "Why are you so unhappy? I like the market today, don't you have the goods in hand?",
+    "tgt": "做乜咁唔開心呀？今日冧市，你唔係有貨喺手咓？",
+    "pred": "你咁唔好呀?我睇日嘅市場,唔係你唔好嘅嘢呀?"
+  },
+  {
+    "index": 85,
+    "src": "Walking clips do not shake",
+    "tgt": "走夾唔抖",
+    "pred": "走線唔好"
+  },
+  {
+    "index": 86,
+    "src": "At last",
+    "tgt": "最後",
+    "pred": "先"
+  },
+  {
+    "index": 87,
+    "src": "Come on!",
+    "tgt": "來吖！",
+    "pred": "去嚟!"
+  },
+  {
+    "index": 88,
+    "src": "He originally wanted to help others, but how did he know that he ended up in a mess?",
+    "tgt": "佢原本想幫人，點知最後攪到自己一身潺？",
+    "pred": "佢以前想幫人,但係知佢係喺個亂鬥?"
+  },
+  {
+    "index": 89,
+    "src": "The road in front of the jam is dead and sunny, and it is better to walk.",
+    "tgt": "條路前面jam死曬，行路好過。",
+    "pred": "個車上上山好雨,好好走。"
+  },
+  {
+    "index": 90,
+    "src": "Hey, no, ahh You're going to be back at half-past two.",
+    "tgt": "梗係喇！喂，不如，啊-唔得喎。你一陣兩點半都要殺到返來。",
+    "pred": "嘩,唔係,係,係,係你先喺三個月上嚟。"
+  },
+  {
+    "index": 91,
+    "src": "I have to admit the catastrophe my son caused",
+    "tgt": "我要承認我個仔 造成咗嘅災難",
+    "pred": "我會認為我嘅老師被害"
+  },
+  {
+    "index": 92,
+    "src": "If you think it's crazy, you can read it",
+    "tgt": "如果你覺得太瘋狂 ， 你可以去讀下",
+    "pred": "你覺得好難,你讀到"
+  },
+  {
+    "index": 93,
+    "src": "He likes to play the guitar.",
+    "tgt": "佢幾鍾意彈結他。",
+    "pred": "佢鍾意玩歌。"
+  },
+  {
+    "index": 94,
+    "src": "The hand armor is so long, it's easy to hide dirty things, so let's cut him",
+    "tgt": "手甲咁長，好容易藏住啲污糟嘢㗎，都係剪咗佢啦",
+    "pred": "手腕咁長,好容易打髒嘢,好快打佢"
+  },
+  {
+    "index": 95,
+    "src": "Eason releases new albums every two to three months.",
+    "tgt": "Eason每兩至三個月就出一次新碟。",
+    "pred": "阿斯克將將新輯一月推出新アルバム。"
+  },
+  {
+    "index": 96,
+    "src": "Typhoon Signal No. 8 is very windy, and Rosewood Road in Another Village is now cross-windy and rainy",
+    "tgt": "八號風球好大風，又一村瑰麗路依家橫風橫雨",
+    "pred": "颱風號8大氣,一間村一間村一間村一間路都係走雨"
+  },
+  {
+    "index": 97,
+    "src": "The driver's brother, please hurry up, I lost a mobile phone in Tang Xianli, Tseung Kwan O just now",
+    "tgt": "司機大佬唔該快啲，頭先喺將軍澳唐賢里跌左部手機",
+    "pred": "車仔仔,請幫你去,我喺荃灣灣灣嘅大埔,喺今次失落手機"
+  },
+  {
+    "index": 98,
+    "src": "Biden",
+    "tgt": "拜登",
+    "pred": "賊"
+  },
+  {
+    "index": 99,
+    "src": "Stir-fried beef with kale",
+    "tgt": "芥蘭炒牛肉",
+    "pred": "食雞"
+  },
+  {
+    "index": 100,
+    "src": "Keep saying",
+    "tgt": "說開",
+    "pred": "講話"
+  },
+  {
+    "index": 101,
+    "src": "Wood is the main and only building material that can do both",
+    "tgt": "木頭係主要唯一一種 能夠同時做到以上兩個方法嘅建材",
+    "pred": "木係主體,只有建筑材料都可以做"
+  },
+  {
+    "index": 102,
+    "src": "I think I've seen this",
+    "tgt": "呢個我好似睇過",
+    "pred": "我覺得我睇呢個"
+  },
+  {
+    "index": 103,
+    "src": "One of the particularly comic things is that I was here for a few months taking the 20-year-old's medication formula and was amazed at how my mind changed after taking it",
+    "tgt": "一件特別喜劇性嘅事就係 我有幾個月喺度服食緊 20 歲青年 會用嘅藥物配方 然後對於自己食咗之後 思想出現改變而驚訝",
+    "pred": "個真係嘅話係我喺度去咗咗20歲嘅治療藥 我喺度去咗幾個月 去咗咗咗20歲嘅治療藥 我感到驚覺"
+  },
+  {
+    "index": 104,
+    "src": "I'm so sleepy tonight.",
+    "tgt": "我今晚好鬼屎眼瞓。",
+    "pred": "我今次好忙。"
+  },
+  {
+    "index": 105,
+    "src": "The sea is quite calm.",
+    "tgt": "海面相當平靜。",
+    "pred": "山地好靜。"
+  },
+  {
+    "index": 106,
+    "src": "If I had a life, I would like to do this",
+    "tgt": "如果我有命生存落去 呢樣就係我想做嘅嘢",
+    "pred": "我有生活,我會想做呢"
+  },
+  {
+    "index": 107,
+    "src": "Barge line",
+    "tgt": "駁街線",
+    "pred": "膠牌"
+  },
+  {
+    "index": 108,
+    "src": "It's so big, and I eat podpan candy.",
+    "tgt": "咁大個仲食波板糖。",
+    "pred": "咁大,我食食啤酒。"
+  },
+  {
+    "index": 109,
+    "src": "Who knows which wonton noodles are the best at the Causeway Bay Seaview Table",
+    "tgt": "邊個會知道銅鑼灣海景台邊間雲吞麵最好食",
+    "pred": "邊個知點知大埔灣灣灣大灣觀景圖點有乜嘢食"
+  },
+  {
+    "index": 110,
+    "src": "Those two hours. Go back to school.",
+    "tgt": "嗰兩粒鐘囖。返學校啊。",
+    "pred": "呢兩小時。去學校。"
+  },
+  {
+    "index": 111,
+    "src": "Eating some crab in the afternoon is not very fresh, and now it is a little loose.",
+    "tgt": "晏晝食啲蟹唔係幾新鮮，而家有啲肚腍。",
+    "pred": "晚啲魚都唔好好食,今次好啲好翹。"
+  },
+  {
+    "index": 112,
+    "src": "Heliocentric",
+    "tgt": "日心説",
+    "pred": "紅眼"
+  },
+  {
+    "index": 113,
+    "src": "It is not possible to take echinacea at the same time",
+    "tgt": "就不能同時服用紫錐花",
+    "pred": "同時唔可能用過細菌"
+  },
+  {
+    "index": 114,
+    "src": "It's a bit of a loss to buy a one-way ticket, so why don't you buy a one-day pass?",
+    "tgt": "買單程飛有啲蝕喎，不如買一日pass？",
+    "pred": "買一條車票好多,但係唔買一條日返?"
+  },
+  {
+    "index": 115,
+    "src": "Perfect",
+    "tgt": "完美",
+    "pred": "好"
+  },
+  {
+    "index": 116,
+    "src": "Administrative Officer",
+    "tgt": "政務官",
+    "pred": "行政主管"
+  },
+  {
+    "index": 117,
+    "src": "People have to be careful of that woman, he's very corpse-like.",
+    "tgt": "人哋要小心嗰個女人，佢好姣屍扽篤噉。",
+    "pred": "人哋要幫佢嘅女仔,佢好醜。"
+  },
+  {
+    "index": 118,
+    "src": "There are many more handsome guys who are beautiful than Ronal. And more good balls than Ronaldo.",
+    "tgt": "靚都靚仔過朗拿度喇。又好波過朗拿度。",
+    "pred": "有好多細仔嘅人。有好多好靚嘅人。"
+  },
+  {
+    "index": 119,
+    "src": "So I took out my PDA and said, \"Let's take a look at the itinerary for September 12th.\"",
+    "tgt": "所以我就攞出我部PDA 我話 ： “ 我地睇下九月 12 號嘅行程 ”",
+    "pred": "所以我喺PDA上去, 「 我去咗個PDA , 我話 : 我會去睇下月12 日 」"
+  },
+  {
+    "index": 120,
+    "src": "Bedtime",
+    "tgt": "臨瞓",
+    "pred": "晚"
+  },
+  {
+    "index": 121,
+    "src": "He wasn't in the mood to play.",
+    "tgt": "佢冇乜心機去玩。",
+    "pred": "佢唔好咁心動。"
+  },
+  {
+    "index": 122,
+    "src": "If you compare a person who sleeps enough at night with no sleep but does not sleep but does not move to sleep for one night, you can only save about 110 calories a night",
+    "tgt": "如果你對比一個人夜晚瞓足 同冇瞓但唔郁 瞓覺一晚只能夠慳大概 110 卡路里",
+    "pred": "如果你同夜晚唔睡,唔好睡,唔好食夜就會超過一百蚊"
+  },
+  {
+    "index": 123,
+    "src": "I love going to school to give presentations and sharing secrets and stories with students",
+    "tgt": "我鐘意去學校演講 同埋同學生分享秘密同故事",
+    "pred": "我愛去學校幫學生分享 、 分享嘅故事"
+  },
+  {
+    "index": 124,
+    "src": "Tricks",
+    "tgt": "竅妙",
+    "pred": "手手"
+  },
+  {
+    "index": 125,
+    "src": "They have been filming for a month, but how do you know that now the reversal of pork belly is.",
+    "tgt": "佢哋拍過拖一個月，但係點知而家反轉豬肚就係屎。",
+    "pred": "佢哋喺年上映,但係你知呢個月嘅變化係呢個月嘅變化。"
+  },
+  {
+    "index": 126,
+    "src": "Central Station",
+    "tgt": "中環站",
+    "pred": "中央站"
+  },
+  {
+    "index": 127,
+    "src": "(Applause.) I once took a quiz and there were twenty questions in total",
+    "tgt": "（ 掌聲 ） 有一次我出小測 ， 一共有廿題",
+    "pred": "( 笑聲 ) ( 笑聲 ) 我一陣就開咗一個試試 , 每個問數 有五十個問題"
+  },
+  {
+    "index": 128,
+    "src": "We've driven 140,000 miles.",
+    "tgt": "我地已經行駛左 14 萬英里 。",
+    "pred": "我哋喺咗一萬公里。"
+  },
+  {
+    "index": 129,
+    "src": "Altitude sickness",
+    "tgt": "高原反應",
+    "pred": "高度氣"
+  },
+  {
+    "index": 130,
+    "src": "This teacher has a good reputation.",
+    "tgt": "呢個老師嘅名聲唔錯㗎。",
+    "pred": "呢個教師有好嘅信任。"
+  },
+  {
+    "index": 131,
+    "src": "Civic education",
+    "tgt": "公民教育",
+    "pred": "公教"
+  },
+  {
+    "index": 132,
+    "src": "In my opinion, the so-called preparation is actually no different from going to war",
+    "tgt": "我認為 ， 所謂嘅準備好 其實就同打仗冇分別",
+    "pred": "我嘅看法 , 呢個咁樣嘅準備 其實唔係同戰爭嘅"
+  },
+  {
+    "index": 133,
+    "src": "Liu has been actively involved in promoting environmental protection, including participating in many environmental NGOs in Hong Kong and helping to chair a number of international environmental conferences. From 1988 to 1992, he was a member of the Environmental Division of the Hong Kong Institution of Engineers.",
+    "tgt": "廖秀冬一直積極參與推動環境保護嘅工作，包括參加香港好多個民間環保團體，又幫手主持多個國際環保會議。1988年至1992年，做過香港工程師學會環境分部理事。",
+    "pred": "劉喺香港活動活動,包括活動喺香港、香港大學同香港大學同香港大學同香港大學同香港大學同香港大學同香港大學同香港大學同香港大學同香港大學同香港大學同香港大學同香港大學"
+  },
+  {
+    "index": 134,
+    "src": "The flow is long",
+    "tgt": "流流長",
+    "pred": "流動好長"
+  },
+  {
+    "index": 135,
+    "src": "That's what my grandmother used to talk about",
+    "tgt": "外婆從前也是這樣說話的",
+    "pred": "係我老媽係講嘢"
+  },
+  {
+    "index": 136,
+    "src": "You just want to",
+    "tgt": "你就想",
+    "pred": "你都想"
+  },
+  {
+    "index": 137,
+    "src": "Panic fish",
+    "tgt": "失魂魚",
+    "pred": "凍魚"
+  },
+  {
+    "index": 138,
+    "src": "Don't be so sassy, you don't win every time.",
+    "tgt": "你唔好咁得戚，唔係次次都你贏㗎。",
+    "pred": "唔好咁好好好好好好,你都唔好打。"
+  },
+  {
+    "index": 139,
+    "src": "Barbados",
+    "tgt": "巴巴多斯",
+    "pred": "薩克"
+  },
+  {
+    "index": 140,
+    "src": "Yellow nightclubs",
+    "tgt": "黃色架步",
+    "pred": "紅晚場"
+  },
+  {
+    "index": 141,
+    "src": "In this way, the insurance company will not insure.",
+    "tgt": "呢樣保險公司唔保㗎喎。",
+    "pred": "呢個樣,車公司唔會賠償。"
+  },
+  {
+    "index": 142,
+    "src": "These fish are so fresh that they are worth buying",
+    "tgt": "啲魚幾生猛呀，買得過噃",
+    "pred": "啲魚咁靚,佢哋都唔好買"
+  },
+  {
+    "index": 143,
+    "src": "I'm bad again on this exam.",
+    "tgt": "今次考試我又衰咗喇。",
+    "pred": "呢個考試我好慘。"
+  },
+  {
+    "index": 144,
+    "src": "Million",
+    "tgt": "千祈",
+    "pred": "百萬"
+  },
+  {
+    "index": 145,
+    "src": "You see, this is the same as the world of dictators, the population is increasing by millions, the fish in the sea are sunless, the North Pole ice is melting, and the first TED laureate said that we will get fatter and fatter.",
+    "tgt": "你睇 ， 呢個跟本就系獨裁者嘅天下 人口成百萬咁遞增 海裏面嘅魚無曬 北極啲冰都融埋 先頭嘅TED獲獎得主仲話 我地會越來越肥添 。",
+    "pred": "你睇到,呢個係世界嘅國家,人口減少咗,大山水都變咗,大山水都凍,大山水都凍,大山水都凍,大山水都凍,大山水"
+  },
+  {
+    "index": 146,
+    "src": "The FBI wanted to know where I was going to the toilet because they wanted to know what I was doing",
+    "tgt": "FBI想知道我係邊度上廁所 因為佢地要瞭解我嘅行動",
+    "pred": "FBI想知我去廁所 因為佢哋想知我做乜嘢"
+  },
+  {
+    "index": 147,
+    "src": "They finally lived together.",
+    "tgt": "佢哋終於行埋咗。",
+    "pred": "佢哋終於住咗咗。"
+  },
+  {
+    "index": 148,
+    "src": "This dress is beautiful!",
+    "tgt": "件衫好靚喎！",
+    "pred": "呢條衫好靚!"
+  },
+  {
+    "index": 149,
+    "src": "I've heard it's going to rain!",
+    "tgt": "聽講就嚟會落雨喎！",
+    "pred": "聽到到雨啦!"
+  },
+  {
+    "index": 150,
+    "src": "The cello is really heavy!",
+    "tgt": "大提琴真係好重啊！",
+    "pred": "個碟真係好重!"
+  },
+  {
+    "index": 151,
+    "src": "This kind of exhibition can only be used in Formula 1.",
+    "tgt": "呢種咹展淨係會喺一級方程式賽事上高用到。",
+    "pred": "呢個展會會喺Formula 1 , 可以用於 Formula 1 。"
+  },
+  {
+    "index": 152,
+    "src": "Gangsters",
+    "tgt": "飛仔",
+    "pred": "鬥仔"
+  },
+  {
+    "index": 153,
+    "src": "This kid is stubborn",
+    "tgt": "呢個細路好硬頸嘅",
+    "pred": "呢個仔好惡"
+  },
+  {
+    "index": 154,
+    "src": "I still have to take medication, but my mood is already stable, I can sleep well, and I want to tell others that there is hope for people who have recovered from mental illness and can live well.",
+    "tgt": "我仲要食藥，但情緒已經好穩定，瞓得覺，我好想話畀人知，精神病康復者一樣都有希望，可以好好哋生活。",
+    "pred": "我都唔要藥,但係我嘅心情好高,我想話有啲人都會食病,我想話有啲人都會食得好。"
+  },
+  {
+    "index": 155,
+    "src": "Zhang Renhe (July 1962-), Chinese meteorologist. His research focuses on the East Asian monsoon. He theorized the effects of oceanophysical processes on the coupled tropical ocean climate system. It is proposed that the El Niño phenomenon causes anomalous anticyclones in the northwest Pacific, strengthens southerly winds along the East Asian coast, and increases precipitation over South China.",
+    "tgt": "張人禾（1962年7月－），中國氣象學家。主要研究東亞季風問題。佢用理論說明咗海洋物理過程對熱帶海洋氣候耦合系統嘅影響。提出厄爾尼諾現象造成西北太平洋嘅異常反氣旋，增強東亞沿岸南風，同埋增加華南地區降水量。",
+    "pred": "劉伯(1962年-)香港 meteorologist。佢研究為香港海洋環境環境影響。佢研究為香港海洋環境環境影響。佢研究為香港海洋環境環境影響。"
+  },
+  {
+    "index": 156,
+    "src": "Let's make it all together",
+    "tgt": "湊啱齊頭啦",
+    "pred": "我哋做咗都係"
+  },
+  {
+    "index": 157,
+    "src": "I've got medicine!",
+    "tgt": "我有食藥㗎！",
+    "pred": "我食藥呀!"
+  },
+  {
+    "index": 158,
+    "src": "My father said that when I was a child, I loved to hold hands with him and go shopping.",
+    "tgt": "老豆話我細個嗰陣好鍾意同佢拖住手去行街。",
+    "pred": "我媽媽話我個老師話,我好鍾意同佢去買。"
+  },
+  {
+    "index": 159,
+    "src": "In order to meet the needs of the market, the company tends to diversify its services.",
+    "tgt": "為配合市場需要，公司趨向多元化服務。",
+    "pred": "為市場提供嘅需求,公司會同公司擴增量。"
+  },
+  {
+    "index": 160,
+    "src": "However, Bob Chapman refused",
+    "tgt": "但係 ， Bob Chapman 拒絕",
+    "pred": "但係 Bob Chapman唔好"
+  },
+  {
+    "index": 161,
+    "src": "Will we find out next?",
+    "tgt": "跟住落嚟我哋會發現啲咩 ？",
+    "pred": "我哋先去睇下?"
+  },
+  {
+    "index": 162,
+    "src": "I liked him very much, but I didn't dare to confess it to him.",
+    "tgt": "我好鍾意佢，但係又唔敢向佢表白。",
+    "pred": "我鍾意佢好多,但係唔好唔好認同佢。"
+  },
+  {
+    "index": 163,
+    "src": "Take a picture every once in a while",
+    "tgt": "隔一陣就影張相",
+    "pred": "一陣一陣睇"
+  },
+  {
+    "index": 164,
+    "src": "I'm here to share my photography with you",
+    "tgt": "我喺哩度同大家分享我嘅攝影作品",
+    "pred": "我喺度分享我嘅照片"
+  },
+  {
+    "index": 165,
+    "src": "The hamster you bought died of illness within a week, but I guess it's useless for you to go to the store to complain, and it's likely that the clerk will say that you played him to death.",
+    "tgt": "你買嘅嗰隻倉鼠喺一星期內病死咗，但我諗你去店鋪投訴都冇用，好可能啲店員會話係你玩死咗佢喎。",
+    "pred": "隻狗你喺週前買咗病,但係我覺得唔係用人去店玩,但係我覺得係唔使你去店玩,但係係佢話佢玩死佢。"
+  },
+  {
+    "index": 166,
+    "src": "Happiness is not a given, and we should be grateful for what we have.",
+    "tgt": "幸福唔係必然嘅，我哋應該為我哋擁有嘅嘢而感恩。",
+    "pred": "幸福唔係,我哋會好感謝我哋。"
+  },
+  {
+    "index": 167,
+    "src": "We're used to these occasions",
+    "tgt": "呢啲噉嘅場合我哋見慣㗎啦",
+    "pred": "我哋喺呢啲時間都係用咗"
+  },
+  {
+    "index": 168,
+    "src": "They don't know each other",
+    "tgt": "三唔識七",
+    "pred": "佢哋唔知佢哋"
+  },
+  {
+    "index": 169,
+    "src": "Listen to the music and concentrate on it, why do you turn your head?",
+    "tgt": "聽音樂專心啲啦，頭擰擰噉做乜呀",
+    "pred": "聽歌唱歌,講乜嘢你打頭?"
+  },
+  {
+    "index": 170,
+    "src": "bad",
+    "tgt": "狼胎",
+    "pred": "失"
+  },
+  {
+    "index": 171,
+    "src": "Ah, can't you do it?",
+    "tgt": "吓，攪唔掂咩？",
+    "pred": "啊,唔好做啊?"
+  },
+  {
+    "index": 172,
+    "src": "Man",
+    "tgt": "老友",
+    "pred": "人"
+  },
+  {
+    "index": 173,
+    "src": "OL clothes",
+    "tgt": "OL衫",
+    "pred": "OL衫"
+  },
+  {
+    "index": 174,
+    "src": "So for this reason, I think it's better to build a secure network as much as possible",
+    "tgt": "所以呢個原因我認為 盡可能建立一個安全嘅網絡會比較好",
+    "pred": "所以我覺得 , 我覺得 要建立安全網絡 好多"
+  },
+  {
+    "index": 175,
+    "src": "A document for me to keep a little better",
+    "tgt": "份文件畀我keep好啲",
+    "pred": "我幫我做啲資料"
+  },
+  {
+    "index": 176,
+    "src": "AFTER SO MANY YEARS, THE SCHOOL'S CADET SON HAS CHANGED TO BECOME AN EXPERIENCED POLICE OFFICER.",
+    "tgt": "經過咁多年後，學堂裏面啲CADET仔都變晒做老差骨嘍。",
+    "pred": "咁多年,學校嘅警官仔都係改變,為咗做個專業警官。"
+  },
+  {
+    "index": 177,
+    "src": "The judgment of emergencies and the interaction with customers can all reflect human strengths",
+    "tgt": "對突發事件的判斷、與客戶的交流互動等都能體現人類優勢",
+    "pred": "對消費者嘅影響 、 同顧客嘅行動 可以代表人類嘅力量"
+  },
+  {
+    "index": 178,
+    "src": "When it was my turn, I got up and asked, \"Why do women on TV have to be beautiful, sweet, and simply cooperative?\"",
+    "tgt": "當輪到我果陣 ， 我起身問 ， “ 點解系電視上的女性個性 都要系靚 ， 甜美 ， 單純 仲要有配合度 ？",
+    "pred": "我喺時 , 我去咗 , 問 : 「 你喺TV 會有好靚 , 好靚 , 好似同諧眾 ? ?"
+  },
+  {
+    "index": 179,
+    "src": "He is prone to injury as soon as he does sports.",
+    "tgt": "佢一做親運動就好易受傷。",
+    "pred": "佢喺足球時就會打傷。"
+  },
+  {
+    "index": 180,
+    "src": "Even I'm a girl who has outdone him.",
+    "tgt": "even我係女仔都大力過佢。",
+    "pred": "但係我係個女仔嘅人。"
+  },
+  {
+    "index": 181,
+    "src": "There was an old man who went to Ting Tai Road in Tai Po to eat vegetarian",
+    "tgt": "有個老人去左大埔汀太路食齋",
+    "pred": "有個老師去左西沙灣路食 vegetarian"
+  },
+  {
+    "index": 182,
+    "src": "The beginning of everything is difficult, and it may be true to write an essay, but the beginning of the essay is important",
+    "tgt": "萬事開頭難，寫作文也係如此，但文章嘅開頭很緊要",
+    "pred": "一切都難,真係好難寫文章,但係文章嘅開始係重要"
+  },
+  {
+    "index": 183,
+    "src": "You will listen to him every day when you work under him, unless you quit.",
+    "tgt": "你喺佢手下做嘢就一日都要聽佢話，除非你唔撈啫。",
+    "pred": "你喺佢做咗時,唔好唔好打佢。"
+  },
+  {
+    "index": 184,
+    "src": "Miton",
+    "tgt": "米通",
+    "pred": "麻雀"
+  },
+  {
+    "index": 185,
+    "src": "Of course boys love to play football.",
+    "tgt": "男仔梗係鍾意踢波。",
+    "pred": "所以女仔好鍾意踢球。"
+  },
+  {
+    "index": 186,
+    "src": "Tel Aviv and Abu Dhabi are now discussing testing future networks of such maglev cabins",
+    "tgt": "特拉維夫同阿布扎比宜家討論緊 測試呢種磁懸浮車艙嘅未來網絡",
+    "pred": "越南同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港同香港"
+  },
+  {
+    "index": 187,
+    "src": "I think it should work",
+    "tgt": "我諗應該得",
+    "pred": "我覺得應該做"
+  },
+  {
+    "index": 188,
+    "src": "Even if the heel joint of the prosthetic leg is strong, that is to say",
+    "tgt": "就算義肢腳跟關節好有力都係咁話",
+    "pred": "但係因為細腿骨嘅肋骨好硬,係講話"
+  },
+  {
+    "index": 189,
+    "src": "Sure enough, I'm lying here. Then-",
+    "tgt": "果然喺度吹水啊。跟住-",
+    "pred": "唔好,我喺度喺度度喇。"
+  },
+  {
+    "index": 190,
+    "src": "Bracelet",
+    "tgt": "錶鏈",
+    "pred": "袋"
+  },
+  {
+    "index": 191,
+    "src": "No, if you check your teeth like this, you won't know how many times.",
+    "tgt": "唔係，如果就噉檢查牙齒就唔知卌幾嘅。",
+    "pred": "唔係,你睇咗啲頭頭唔知幾多。"
+  },
+  {
+    "index": 192,
+    "src": "Everywhere is quiet at night",
+    "tgt": "夜晚黑周圍都靜英英",
+    "pred": "每個夜晚都好靜"
+  },
+  {
+    "index": 193,
+    "src": "Develop a work plan",
+    "tgt": "制訂工作計劃",
+    "pred": "設計工作方案"
+  },
+  {
+    "index": 194,
+    "src": "Gluing",
+    "tgt": "起膠",
+    "pred": "插"
+  },
+  {
+    "index": 195,
+    "src": "Being late three times will result in a minor demerit.",
+    "tgt": "遲到三次會記一個小過。",
+    "pred": "有三個日會影響咗個大惡。"
+  },
+  {
+    "index": 196,
+    "src": "Who knows which wonton noodle restaurant on Haley Street, Sai Wan Ho is the best",
+    "tgt": "邊個會知道西灣河海利街邊間雲吞麵最好食",
+    "pred": "邊個知點知荃灣街嘅邊個沙龍灣街係最最"
+  },
+  {
+    "index": 197,
+    "src": "Today is a terrible mother jelly.",
+    "tgt": "今日勁乸凍。",
+    "pred": "今日係好壞媽椰汁。"
+  },
+  {
+    "index": 198,
+    "src": "I can't even drop a button on this dress.",
+    "tgt": "呢件衫啲粒鈕都甩唔到。",
+    "pred": "我唔使打咗呢條衫。"
+  },
+  {
+    "index": 199,
+    "src": "Someone was hiding in the dormitory, and the warden, who thought he was a dormitory.",
+    "tgt": "有人喺宿舍屈蛇屈到舍監都以為佢係宿生𠻹。",
+    "pred": "個人喺屋企上,佢話佢係個屋企。"
+  },
+  {
+    "index": 200,
+    "src": "It turns out that it's really inconvenient without him!",
+    "tgt": "原來冇咗佢真係好唔方便㗎！",
+    "pred": "咁好難佢嘅!"
+  },
+  {
+    "index": 201,
+    "src": "Knock the water inside the water bottle and pick it down.",
+    "tgt": "啲水響個水樽入邊𠺘下𠺘下。",
+    "pred": "放水桶放水。"
+  },
+  {
+    "index": 202,
+    "src": "Why do you say so much?",
+    "tgt": "講咁多做咩",
+    "pred": "你講乜嘢呀?"
+  },
+  {
+    "index": 203,
+    "src": "Is there a minibus to go to Big Horn Mouth Timber Bay\\",
+    "tgt": "有無小巴去大角嘴帝柏海灣",
+    "pred": "有個車車去大埔灣灣灣灣"
+  },
+  {
+    "index": 204,
+    "src": "These appliances are really seafood prices, and they can be flattened in half when the price is reduced.",
+    "tgt": "啲電器真係海鮮價，減價嗰陣可以平成一半。",
+    "pred": "呢啲家電都係好食價,價格都會減減。"
+  },
+  {
+    "index": 205,
+    "src": "He never worked as a clerk in the factory.",
+    "tgt": "佢不嬲都唔係喺廠度做文員。",
+    "pred": "佢都唔係喺廠廠做工。"
+  },
+  {
+    "index": 206,
+    "src": "Why did he say something?",
+    "tgt": "點解距講黎句話 ？",
+    "pred": "佢講乜嘢?"
+  },
+  {
+    "index": 207,
+    "src": "That's right. No kidding.",
+    "tgt": "係嘞。唔好講笑啊。",
+    "pred": "係係。唔係講。"
+  },
+  {
+    "index": 208,
+    "src": "Both of them have been on the left side of the face since the last time they quarreled.",
+    "tgt": "佢哋兩個自從上次吵大鑊之後一直都面左左。",
+    "pred": "佢哋同佢哋喺上面都係喺中間。"
+  },
+  {
+    "index": 209,
+    "src": "One shift",
+    "tgt": "一班",
+    "pred": "一轉"
+  },
+  {
+    "index": 210,
+    "src": "Why are you holding chopsticks to my fingers?",
+    "tgt": "你做乜攞筷子㩋我啲手指？",
+    "pred": "你打手手喺我嘴邊邊邊邊邊?"
+  },
+  {
+    "index": 211,
+    "src": "Bury the fence",
+    "tgt": "埋欄",
+    "pred": "打腳"
+  },
+  {
+    "index": 212,
+    "src": "Christmas",
+    "tgt": "聖誕",
+    "pred": "クリスマス"
+  },
+  {
+    "index": 213,
+    "src": "cartoon",
+    "tgt": "卡通",
+    "pred": "劇"
+  },
+  {
+    "index": 214,
+    "src": "This bridge is so wow.",
+    "tgt": "哩條橋好啊。",
+    "pred": "呢條橋好靚。"
+  },
+  {
+    "index": 215,
+    "src": "I'm always being held by little dolls.",
+    "tgt": "我成日俾細蚊仔陀住。",
+    "pred": "我常常喺個仔嘅仔。"
+  },
+  {
+    "index": 216,
+    "src": "It's so cold, I'm so cold that I'm popsicle.",
+    "tgt": "好凍呀，我凍到變雪條喇。",
+    "pred": "咁熱,我咁熱,我咁熱。"
+  },
+  {
+    "index": 217,
+    "src": "I like to eat fruits such as apples, oranges, bananas.",
+    "tgt": "我鍾意食生果，例如蘋果、橙、香蕉。",
+    "pred": "我鍾意食水果同魚,魚、魚、魚、魚。"
+  },
+  {
+    "index": 218,
+    "src": "There was an old man who went to Shantou Street in Wan Chai to eat vegetarian",
+    "tgt": "有個老人去左灣仔汕頭街食齋",
+    "pred": "有個老師去左沙灣街食 vegetarian"
+  },
+  {
+    "index": 219,
+    "src": "Take and carry",
+    "tgt": "予取予攜",
+    "pred": "走手"
+  },
+  {
+    "index": 220,
+    "src": "In the soft waves of the River Cam",
+    "tgt": "在康河的柔波裡",
+    "pred": "山地風濕"
+  },
+  {
+    "index": 221,
+    "src": "Western Police Station",
+    "tgt": "西區警署",
+    "pred": "香港警察站"
+  },
+  {
+    "index": 222,
+    "src": "Scientists have just discovered in the lab that carbon can be transferred from one pine seedling to another in a test tube",
+    "tgt": "科學家啱啱先喺實驗室發現 喺試管裡邊 ， 碳可以從一個松樹嘅幼苗 傳去另一棵幼苗嗰度",
+    "pred": "科学家喺個學院發現 隻碳可以轉轉到一個碳水嘅塊塊 喺一個測試箱"
+  },
+  {
+    "index": 223,
+    "src": "unit",
+    "tgt": "單位",
+    "pred": "單"
+  },
+  {
+    "index": 224,
+    "src": "However, he also indicated the range of temperatures.",
+    "tgt": "不过佢亦都表示佐温度嘅范围 。",
+    "pred": "但係佢都係認為温度嘅水平。"
+  },
+  {
+    "index": 225,
+    "src": "Significant overruns in infrastructure projects are commonplace.",
+    "tgt": "基建工程大幅超支已經係「家常便飯」。",
+    "pred": "建設工程嘅規模有意義。"
+  },
+  {
+    "index": 226,
+    "src": "Waste",
+    "tgt": "廢",
+    "pred": "好"
+  },
+  {
+    "index": 227,
+    "src": "What is your attitude now?",
+    "tgt": "依家你咩態度呀",
+    "pred": "你哋今次嘅態度呢?"
+  },
+  {
+    "index": 228,
+    "src": "Back aches",
+    "tgt": "腰酸骨痛",
+    "pred": "下痛"
+  },
+  {
+    "index": 229,
+    "src": "Isn't that right?",
+    "tgt": "噉做啱唔啱啊？",
+    "pred": "唔係唔係啊?"
+  },
+  {
+    "index": 230,
+    "src": "Brother Jianghu",
+    "tgt": "江湖大佬",
+    "pred": "老闆"
+  },
+  {
+    "index": 231,
+    "src": "He's not here now, it's not you who left your phone, and I'll ask him to answer your phone when he comes back, okay?",
+    "tgt": "佢而家唔喺度，一唔係你留低你個電話，佢返嚟我叫佢覆你電話，好唔好啊？",
+    "pred": "佢喺度唔係你哋喺度,唔係你喺度,唔係你喺度,我問佢返電話,唔係你哋睇到你嘅電話,好係你哋呢?"
+  },
+  {
+    "index": 232,
+    "src": "But some planets in the solar system may have a lot of liquid water, even more than the Earth, but the water is still trapped under the ice, so it's hard to access, it's hard to use, and it's hard for us to detect whether there's life under the ice",
+    "tgt": "但有啲太陽系嘅星球可能有大量液態水 甚至多過地球 但啲水都係困喺冰層底下 所以好難接近 ， 好難用到 亦都令到我哋好難探測 冰層下面有冇生命",
+    "pred": "但係有啲地球嘅地球 可能有好多水 但係地球嘅水 但係地球嘅水 但係地球嘅水都係無水 但係地球嘅水都係無水 但係地球嘅"
+  },
+  {
+    "index": 233,
+    "src": "The ground is subsided",
+    "tgt": "地面下陷",
+    "pred": "地氣暴"
+  },
+  {
+    "index": 234,
+    "src": "In fact, it is not easy for deaf people to hear what you say clearly after wearing headphones.",
+    "tgt": "其實聾人戴咗耳機之後都唔係好聽得清楚你講咩㗎。",
+    "pred": "其實 , 唔好好好容易聽到啲人聽到佢哋聽到嘅聲音 。"
+  },
+  {
+    "index": 235,
+    "src": "He was the spectacle of the ballroom.",
+    "tgt": "佢係呢間舞廳嘅睇場。",
+    "pred": "佢係個戲場嘅表演。"
+  },
+  {
+    "index": 236,
+    "src": "The road is too narrow and there is no place to avoid traffic.",
+    "tgt": "條路太窄，冇避車嘅地方。",
+    "pred": "路好高,冇路要免車。"
+  },
+  {
+    "index": 237,
+    "src": "Ngau Tau Kok 3rd Street",
+    "tgt": "牛頭角第三街",
+    "pred": "大埔三樓"
+  },
+  {
+    "index": 238,
+    "src": "in a terrible mess",
+    "tgt": "鬼五馬六",
+    "pred": "咁惡"
+  },
+  {
+    "index": 239,
+    "src": "plastics",
+    "tgt": "塑膠",
+    "pred": "塑料"
+  },
+  {
+    "index": 240,
+    "src": "Bite",
+    "tgt": "咬弦",
+    "pred": "凍"
+  },
+  {
+    "index": 241,
+    "src": "A snot in the nose",
+    "tgt": "一涿鼻涕",
+    "pred": "個頭頭"
+  },
+  {
+    "index": 242,
+    "src": "He said very seriously",
+    "tgt": "佢好嚴肅噉講",
+    "pred": "佢話好清楚"
+  },
+  {
+    "index": 243,
+    "src": "Why don't you take those three subjects?",
+    "tgt": "一個sem讀八科啊？噉點解嗰三科唔使考𠸏？",
+    "pred": "你唔使做啲三個題嘢?"
+  },
+  {
+    "index": 244,
+    "src": "Immediately lay down your arms and surrender",
+    "tgt": "立即放低武器投降",
+    "pred": "再快啲打手,打死"
+  },
+  {
+    "index": 245,
+    "src": "The products of this factory are beautiful",
+    "tgt": "呢間工廠嘅產品真正",
+    "pred": "呢間廠嘅產品好靚"
+  },
+  {
+    "index": 246,
+    "src": "In United States, even a broken rotten gamble is expected to turn over",
+    "tgt": "喺美國 連一個破咗產嘅爛賭二都翻身有望",
+    "pred": "喺美國 , 但係一啲壞爛泥嘅惡渣 會會繼續"
+  },
+  {
+    "index": 247,
+    "src": "If you don't want to be said to be an airport, take two more dumplings!",
+    "tgt": "唔想俾人話係飛機場，攝多兩隻餃子啦！",
+    "pred": "你唔想講到一個巴士,去兩個蚊子!"
+  },
+  {
+    "index": 248,
+    "src": "His daughter is not familiar.",
+    "tgt": "佢個女唔熟性。",
+    "pred": "佢女仔唔好好親。"
+  },
+  {
+    "index": 249,
+    "src": "Idlely",
+    "tgt": "閒閒地",
+    "pred": "好似"
+  },
+  {
+    "index": 250,
+    "src": "It's this little blue key that you can ride your bike to the city",
+    "tgt": "就係呢條細嘅藍色鎖匙 你可以踩單車去市區",
+    "pred": "呢個大紅燈可以搭車去城市"
+  },
+  {
+    "index": 251,
+    "src": "I don't have time to talk about the benefits of eating fruits and vegetables this time, but I want to make it clear that the most important thing is that the vegetables themselves are not the ingredients in the vegetables, but the vegetables themselves",
+    "tgt": "今次無時間講食蔬果有乜好處 但我想講清楚 ， 最重要係蔬菜本身 唔係蔬菜入面嘅成份 ， 係菜本身",
+    "pred": "我今次唔會講食食水 但係我想做好重要嘅嘢 但係佢哋嘅食物 都唔係佢哋嘅食材 但係佢哋嘅食物"
+  },
+  {
+    "index": 252,
+    "src": "For example, insulated gloves and insulated rubber mats",
+    "tgt": "例如絕緣手套及絕緣膠蓆",
+    "pred": "例如 防水鞋 、 防水鞋"
+  },
+  {
+    "index": 253,
+    "src": "But if it's 300 million people in the United States",
+    "tgt": "但系如果係美國嘅三億人",
+    "pred": "但係喺美國 有 300 萬人"
+  },
+  {
+    "index": 254,
+    "src": "There was an old man who went to Wing Tai Road in Chai Wan to eat vegetarian",
+    "tgt": "有個老人去左柴灣永泰道食齋",
+    "pred": "有個老師去左沙灣灣路食 vegetarian"
+  },
+  {
+    "index": 255,
+    "src": "Shop heads",
+    "tgt": "鋪頭",
+    "pred": "賣頭"
+  },
+  {
+    "index": 256,
+    "src": "That day, what my brother bought back was not Eason Chan, but Miriam Yeung's plate.",
+    "tgt": "嗰日，阿哥買返嚟嘅竟然唔係陳奕迅，而係楊千嬅嘅碟。",
+    "pred": "嗰個日,我老師買咗咗咗個錢唔係阿阿阿阿阿,但係阿阿阿阿阿阿阿,但係阿阿阿阿阿阿阿。"
+  },
+  {
+    "index": 257,
+    "src": "Why is there no one at home?",
+    "tgt": "點解屋企冇人嘅？",
+    "pred": "房子有冇人啊?"
+  },
+  {
+    "index": 258,
+    "src": "These children are very well-behaved, and they understand everything as soon as they learn.",
+    "tgt": "呢啲細路仔都幾精乖，學乜嘢都一學就識。",
+    "pred": "呢啲女仔好好好,佢哋讀到嘢都講得。"
+  },
+  {
+    "index": 259,
+    "src": "We can go a little higher and hang the transportation system like our power grid",
+    "tgt": "我哋可以行高啲 將運輸系統懸掛 就好似我哋嘅供電網咁",
+    "pred": "我哋可以去啲少少 , 用交通系統同我哋嘅電線"
+  },
+  {
+    "index": 260,
+    "src": "In 2010, there were fewer than 2 billion people online",
+    "tgt": "喺 2010 年 全球有唔到 20 億人口 上網",
+    "pred": "2010年 , 有幾多蚊網"
+  },
+  {
+    "index": 261,
+    "src": "It's important to me, and maybe it's a piece of cake for others.",
+    "tgt": "對我嚟講呢件事好緊要，可能其他人當係小菜一碟。",
+    "pred": "我係我,或者係人嘅餅。"
+  },
+  {
+    "index": 262,
+    "src": "conflict",
+    "tgt": "拗撬",
+    "pred": "爭爭"
+  },
+  {
+    "index": 263,
+    "src": "After this report, a lot of people asked me, \"Jim, why aren't you angry?\"",
+    "tgt": "呢一則報導之後 ， 好多人問我 「 Jim ， 乜你唔嬲嗎 ？ 」",
+    "pred": "呢個報報 , 好多人問我 : 「 Jim , 你唔好笑 ? ?"
+  },
+  {
+    "index": 264,
+    "src": "Burned",
+    "tgt": "身焮",
+    "pred": "凍"
+  },
+  {
+    "index": 265,
+    "src": "These jewels demonstrate exquisite craftsmanship.",
+    "tgt": "呢啲珠寶展示咗精美嘅製作技藝。",
+    "pred": "呢啲棉衣實施好高品質嘅手工藝。"
+  },
+  {
+    "index": 266,
+    "src": "Go left and turn into Washington, United States",
+    "tgt": "去左一轉美國華盛頓",
+    "pred": "去返美國,美國"
+  },
+  {
+    "index": 267,
+    "src": "I'm not tired at all",
+    "tgt": "我一啲都唔癐",
+    "pred": "我都唔好咁忙"
+  },
+  {
+    "index": 268,
+    "src": "Crushed silver",
+    "tgt": "碎銀",
+    "pred": "落銀"
+  },
+  {
+    "index": 269,
+    "src": "It must be so",
+    "tgt": "實情係噉嘅",
+    "pred": "唔好咁"
+  },
+  {
+    "index": 270,
+    "src": "\"Gone. 」",
+    "tgt": "「走喇。」",
+    "pred": "「 我哋。 」"
+  },
+  {
+    "index": 271,
+    "src": "But when I cleaned up, I had to hide it in a dark and wet place, so that no one would know that I was menstruating",
+    "tgt": "但係收拾嗰時 就要收埋係又黑又濕嘅地方 咁樣就無人知道我月經嚟咗",
+    "pred": "但係我整咗咗啲黑水嘅地方 我會見到咗個黑水嘅地方 但係唔知我係生理"
+  },
+  {
+    "index": 272,
+    "src": "Oh, no. No, it doesn't matter, it's just for me to win.",
+    "tgt": "哦，唔鍾意。唔係啊，冇乜所謂啊，主要係俾我𡃉啫。",
+    "pred": "係啊。唔係啊,係唔係啊,係我唔係<0xD0>。"
+  },
+  {
+    "index": 273,
+    "src": "Wet weather can easily make clothes fluffy.",
+    "tgt": "潮濕嘅天氣好容易令衣物發毛。",
+    "pred": "濕雨可以使衫靚。"
+  },
+  {
+    "index": 274,
+    "src": "Very anxious",
+    "tgt": "猴擒",
+    "pred": "好痛"
+  },
+  {
+    "index": 275,
+    "src": "Let's do it together",
+    "tgt": "一起行動啦",
+    "pred": "我哋做咗嘢"
+  },
+  {
+    "index": 276,
+    "src": "I want to go to work because I want to develop my career or I want to have a cup of coffee.",
+    "tgt": "我要返工 ， 因為我想發展自己嘅事業 ， 或者想飲杯咖啡 。",
+    "pred": "我想去做工作 因為我想做個咖啡 , 我想做咖啡 。"
+  },
+  {
+    "index": 277,
+    "src": "In the twelfth case, at the first meeting of each term, there is a clear list.",
+    "tgt": "喺第十二則，每屆任期嘅首次會議嗰度係有清晰列明。",
+    "pred": "兩個年會,兩個年會前,有一個詳列。"
+  },
+  {
+    "index": 278,
+    "src": "Garbage guy",
+    "tgt": "垃圾佬",
+    "pred": "惡人"
+  },
+  {
+    "index": 279,
+    "src": "Hong Kong Park is a good place to go, and I just went there with my family",
+    "tgt": "香港公園算係好去處，至啱冚家一齊去",
+    "pred": "香港公園係好嘅場,我同家人去"
+  },
+  {
+    "index": 280,
+    "src": "The taxi made a few laps around the village of Foheng in Landi",
+    "tgt": "的士喺藍地福亨村里兜左幾個圈",
+    "pred": "車喺沙灣沙灣區有幾個車"
+  },
+  {
+    "index": 281,
+    "src": "Silence is Cambridge tonight",
+    "tgt": "沉默是今晚的康橋",
+    "pred": "聲聲係Cambridge"
+  },
+  {
+    "index": 282,
+    "src": "Please come back and line up, and wait for me to count the number of people before we can go.",
+    "tgt": "請大家過返嚟排隊，等我點齊人數就可以出發。",
+    "pred": "請先去去,請我去算咗我哋嘅數量。"
+  },
+  {
+    "index": 283,
+    "src": "The human brain is very good at forgetting things",
+    "tgt": "人嘅大腦好擅長唔記得嘢",
+    "pred": "人類腦好好好"
+  },
+  {
+    "index": 284,
+    "src": "Wow. How turtle wave qigong.",
+    "tgt": "嘩。點樣龜波氣功。",
+    "pred": "好啊。點魚噴水。"
+  },
+  {
+    "index": 285,
+    "src": "We're ready.",
+    "tgt": "我哋經已準備定當。",
+    "pred": "我哋好準備。"
+  },
+  {
+    "index": 286,
+    "src": "Scolding",
+    "tgt": "苛罵",
+    "pred": "膠"
+  },
+  {
+    "index": 287,
+    "src": "Suppresses the growth of odor-causing fungi",
+    "tgt": "遏止引起臭味的真菌滋生",
+    "pred": "抑制花粉嘅菌"
+  },
+  {
+    "index": 288,
+    "src": "The data you'll see later is of that type and quality",
+    "tgt": "你哋遲啲睇到嘅數據 都係咁嘅類型同埋質素",
+    "pred": "你睇到之後 係呢個種類 , 品質"
+  },
+  {
+    "index": 289,
+    "src": "What do you ask for, just say it.",
+    "tgt": "你有咩要求，即管講出嚟。",
+    "pred": "你問乜嘢,就講。"
+  },
+  {
+    "index": 290,
+    "src": "In the winter of 2001-2002, I walked across Afghanistan and saw this is what I saw",
+    "tgt": "喺 2001 到 2002 年嘅冬天 我徒步橫越阿富汗 我睇到嘅係咁樣嘅景象",
+    "pred": "2001年年 我喺香港 睇到呢個係我睇到"
+  },
+  {
+    "index": 291,
+    "src": "You treat your classmates well",
+    "tgt": "你好好招呼你嘅同學",
+    "pred": "你好好講班人"
+  },
+  {
+    "index": 292,
+    "src": "He worked as a gentleman at a night school to support his family.",
+    "tgt": "佢喺一間夜校做先生嚟幫補家計。",
+    "pred": "佢喺夜晚學做個女仔,幫佢幫家人。"
+  },
+  {
+    "index": 293,
+    "src": "Are you sure you still have to order food? There's no food outside",
+    "tgt": "你確定仲要叫飯？出面都無曬餸",
+    "pred": "你好想買食嘢?唔係食"
+  },
+  {
+    "index": 294,
+    "src": "Don't be undecided, hurry up and decide!",
+    "tgt": "你唔好舉棋不定，快啲決定啦！",
+    "pred": "唔好唔好咁錯,要決定啦!"
+  },
+  {
+    "index": 295,
+    "src": "Just by looking at him, I think he should be a rich man.",
+    "tgt": "就憑佢呢一身打扮，我覺得佢應該係有錢人家。",
+    "pred": "睇佢就諗佢會係好富人。"
+  },
+  {
+    "index": 296,
+    "src": "(I haven't been paying attention either.) Wow, that's so good!)",
+    "tgt": "（我都冇留意過。嘩，實在太正嚹！）",
+    "pred": "( 我唔係唔好講得。 )"
+  },
+  {
+    "index": 297,
+    "src": "First of all, I shouted a ribeye steak, and my boyfriend ordered a sirloin steak, how do you know that it will be sold out if you are unlucky.",
+    "tgt": "首先我嗌咗個肉眼牛扒，男朋友就嗌咗個西冷牛扒，點知唔好彩就賣晒。",
+    "pred": "第一個,我叫咗個雞蛋,朋友買咗個雞蛋,點知你唔好好鍾意買。"
+  },
+  {
+    "index": 298,
+    "src": "Reunification of East and West Germany",
+    "tgt": "東西德統一",
+    "pred": "東國同西方"
+  },
+  {
+    "index": 299,
+    "src": "That fat thing",
+    "tgt": "嗰件肥嘢",
+    "pred": "嗰啲血嘢"
+  },
+  {
+    "index": 300,
+    "src": "He works in front of the computer every night, and he is sharp-eyed",
+    "tgt": "佢晚晚對住電腦做嘢，做到金睛火眼",
+    "pred": "佢喺電腦上都係好眼"
+  },
+  {
+    "index": 301,
+    "src": "Just now I went to borrow a book and met a teacher who taught you English.",
+    "tgt": "頭先我去拉記借書，碰到教你英文嘅老師。",
+    "pred": "所以我去買書俾個師生講英文。"
+  },
+  {
+    "index": 302,
+    "src": "Don't you say?",
+    "tgt": "你話係唔係呀？",
+    "pred": "唔好講呀?"
+  },
+  {
+    "index": 303,
+    "src": "Today I saw the strip girl, so good, I wanted to wet him.",
+    "tgt": "今日我見到條女，咁𨶙正，我好想扑濕佢。",
+    "pred": "今日我睇個細仔,好好,想打佢。"
+  },
+  {
+    "index": 304,
+    "src": "There are eyes to see",
+    "tgt": "有眼睇",
+    "pred": "有眼睇"
+  },
+  {
+    "index": 305,
+    "src": "Pick a number from one to ten.",
+    "tgt": "喺一至十揀個數字。",
+    "pred": "選一個號。"
+  },
+  {
+    "index": 306,
+    "src": "It was a local snake who told us to come to this restaurant for dinner.",
+    "tgt": "就係個地頭蟲叫我哋嚟呢間酒樓食飯嘅。",
+    "pred": "係個香港佬話我哋去呢間餐廳食飯。"
+  },
+  {
+    "index": 307,
+    "src": "In 1995, President Kang Xianyang retired and Li Xiangli took over as the principal, and on the basis of the glory of Pei Ching over the past century, he was determined to improve the academic standards of teachers and students of his alma mater, support the professional development of teachers, and publish the Journal of Pei Ching. Encourage collaboration between teachers and students to develop research-based courses in various subjects, and advocate the use of information technology to support teaching and learning, and establish an online learning platform for various subjects.",
+    "tgt": "1995年，康顯揚校長榮休，李祥立接任校長，並喺培正百年輝煌嘅基礎上，銳意提高母校師生嘅學術水平，支持教師專業發展，出版《培正學報》；鼓勵師生合作，開展各科嘅研究型課程，並提倡利用資訊科技輔助教學，建立各科嘅網上學習平臺。",
+    "pred": "1995年,主席劉德榮,繼續繼續,劉德榮繼續,以為大學學學學學學學學學學學學學學學學學學學學學學學學學學學學學"
+  },
+  {
+    "index": 308,
+    "src": "So what we have to do is to regain what the masses think is the idea of a government that will defend our interests and to restore the sense of unity and the forgotten purpose of the state",
+    "tgt": "所以我哋要做嘅係 收復大眾覺得 呢個就係會 保衛我哋利益嘅政府嘅想法 同埋回復團結嘅意識 同已經被遺忘嘅 立國宗旨",
+    "pred": "所以我哋要做嘅嘢 就係 喺我哋嘅經濟 將我哋嘅信念 同 我哋嘅信念 同 我哋嘅信念 同 我哋嘅信念 同 我哋嘅"
+  },
+  {
+    "index": 309,
+    "src": "Walk running to the big toe",
+    "tgt": "行運行到腳趾公",
+    "pred": "走緊大腳"
+  },
+  {
+    "index": 310,
+    "src": "He's holding his breath, and you're sorry for him",
+    "tgt": "佢好翳㗎喇，你仲諦佢",
+    "pred": "佢打手,你唔好唔好佢"
+  },
+  {
+    "index": 311,
+    "src": "Saikyo pork ramen",
+    "tgt": "西京豚肉拉麵",
+    "pred": "小雞餅"
+  },
+  {
+    "index": 312,
+    "src": "I've learned a lot this year.",
+    "tgt": "我今年學識咗好多嘢。",
+    "pred": "我今次學咗好多。"
+  },
+  {
+    "index": 313,
+    "src": "There was an Abel who lost his wallet on Chuk Kok Road in Sai Kung",
+    "tgt": "有個亞伯喺西貢竹角路唔見左個銀包",
+    "pred": "有個阿亞喺荃灣灣路失咗個銀"
+  },
+  {
+    "index": 314,
+    "src": "How do I know?",
+    "tgt": "我點知嘅 ？",
+    "pred": "我知乜嘢呀?"
+  },
+  {
+    "index": 315,
+    "src": "Clamps",
+    "tgt": "夾鉗",
+    "pred": "燈"
+  },
+  {
+    "index": 316,
+    "src": "As I said earlier, this book has its advantages, but it also has its disadvantages.",
+    "tgt": "噉正如頭先講呢，就哩一本書呢𠻺有佢嘅好處，但係亦都有不足之處嘅。",
+    "pred": "我講過之後,呢本書有優劣,但係都係有劣劣。"
+  },
+  {
+    "index": 317,
+    "src": "If you can't find a house to move, you really have to squat on the street.",
+    "tgt": "再搵唔到屋搬就真係要踎街喇。",
+    "pred": "你唔好去屋企,真係好唔好走街。"
+  },
+  {
+    "index": 318,
+    "src": "I also learned to laugh \"hehe\", just like Chewbacca's laugh in Star Wars",
+    "tgt": "我仲學識咗 「 呵呵笑 」 就好似楚巴卡喺 《 星球大戰 》 裏面咁笑",
+    "pred": "我都學著 「 好似阿伯伯嘅笑聲 」"
+  },
+  {
+    "index": 319,
+    "src": "playing card",
+    "tgt": "啤牌",
+    "pred": "打牌"
+  },
+  {
+    "index": 320,
+    "src": "Cargo office",
+    "tgt": "貨辦",
+    "pred": "車場"
+  },
+  {
+    "index": 321,
+    "src": "Hair is completely white",
+    "tgt": "頭髮白晒",
+    "pred": "髮都係白色"
+  },
+  {
+    "index": 322,
+    "src": "intellectual property",
+    "tgt": "知識產權",
+    "pred": "社會權"
+  },
+  {
+    "index": 323,
+    "src": "People with a little common sense don't feed chocolate to dogs, right?",
+    "tgt": "有少少常識嘅人都唔會餵朱古力俾狗食啦下話？",
+    "pred": "人哋有啲人唔食咖啡,係唔好食貓呀?"
+  },
+  {
+    "index": 324,
+    "src": "One, two, three, four, five",
+    "tgt": "一、二、三、四、五",
+    "pred": "兩個,三兩三"
+  },
+  {
+    "index": 325,
+    "src": "You cut down the room to see if there's anyone left.",
+    "tgt": "你睄下間房有冇人啦。",
+    "pred": "你睇到樓邊邊度睇到有冇人。"
+  },
+  {
+    "index": 326,
+    "src": "You stole my wallet!",
+    "tgt": "你偷咗我個銀包！",
+    "pred": "你俾我手手呀!"
+  },
+  {
+    "index": 327,
+    "src": "My uncle said that being a good person is more important than making a lot of money.",
+    "tgt": "我阿叔話做人行正路比賺好多錢更加重要。",
+    "pred": "我老爺話好人係好重要。"
+  },
+  {
+    "index": 328,
+    "src": "I hate that others take the subway next to a handrail",
+    "tgt": "至憎人搭地鐵挨住條扶手",
+    "pred": "我唔好對人去車車上"
+  },
+  {
+    "index": 329,
+    "src": "Heal without medicine",
+    "tgt": "不藥而癒",
+    "pred": "無醫療"
+  },
+  {
+    "index": 330,
+    "src": "Squeeze it down!",
+    "tgt": "擠低得喇！",
+    "pred": "打緊喇!"
+  },
+  {
+    "index": 331,
+    "src": "Shave",
+    "tgt": "剃鬚",
+    "pred": "食"
+  },
+  {
+    "index": 332,
+    "src": "Akashi-yaki has a higher egg content than takoyaki. In addition, Akashi-yaki is known as kombu broth, so some people say that it's \"takoyaki with soup that you can drink\". Sauces will also be provided for diners to eat with Akashi and dried dishes.",
+    "tgt": "明石燒嘅雞蛋含量高過章魚燒。另外，明石燒會跟昆布高湯，所以又有人話明石燒係「有得飲湯嘅章魚燒」。舖頭亦會提供醬料，俾食客抆落明石燒乾食。",
+    "pred": "梨菜係梨菜嘅,同小魚係係梨菜,同小菜都係食。同小菜都係食咗食。"
+  },
+  {
+    "index": 333,
+    "src": "Come on",
+    "tgt": "好心",
+    "pred": "去"
+  },
+  {
+    "index": 334,
+    "src": "I think it's okay, actually. He may be a long time ago, like a few years ago, maybe ten years ago, and their pronunciation is a lot more standard I think.",
+    "tgt": "噉我覺得都幾好喎其實。佢可能即係比起以前好耐，譬如幾年之前，或者十年之前呢，佢哋嗰個發音呢係標準咗好多我覺得。",
+    "pred": "我覺得好好,係係。佢係幾多歲,幾多歲,幾多嘅英文都係好標準。"
+  },
+  {
+    "index": 335,
+    "src": "I imagine that the North American birch and the yellow fir would have an underground exchange, but the red cypress would not",
+    "tgt": "我設想北美白樺同黃杉會喺地底有交流 但紅崖柏就冇",
+    "pred": "我覺得美國白皮 、 藍皮 會係underground exchange 但係藍皮唔會唔會"
+  },
+  {
+    "index": 336,
+    "src": "Finally home",
+    "tgt": "終於翻到屋企啦",
+    "pred": "最後家"
+  },
+  {
+    "index": 337,
+    "src": "What else?",
+    "tgt": "重有呢？",
+    "pred": "乜嘢?"
+  },
+  {
+    "index": 338,
+    "src": "The Hong Kong delegation sent about 580 athletes to compete in 36 events",
+    "tgt": "香港代表團派出約五百八十名運動員出戰三十六個比賽項目",
+    "pred": "香港國際會議會通知一百萬人參加36個賽事"
+  },
+  {
+    "index": 339,
+    "src": "Has a screw loose. How can you squat in Shaolin Temple, how can you squat for so many years?",
+    "tgt": "黐線。你少林寺你點可以點踎，點踎咁多年啊？食榖種啊佢？",
+    "pred": "有冇隻螺釘。你喺洛洛寺寺邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊"
+  },
+  {
+    "index": 340,
+    "src": "Antique pineapple shrimp",
+    "tgt": "古味菠蘿蝦仁",
+    "pred": "古香菜"
+  },
+  {
+    "index": 341,
+    "src": "This hypothesis can be confirmed with an MRI scan of the brain.",
+    "tgt": "呢個假設可以用腦部核磁共振掃描加以證實。",
+    "pred": "呢個問題可以證明於腦嘅MRI scan。"
+  },
+  {
+    "index": 342,
+    "src": "Life in China is even more difficult than in North Korea because I don't have freedom",
+    "tgt": "點知中國嘅生活比北韓仲艱難 因為我無自由",
+    "pred": "中國生活都係唔好難嘅 因為我唔會自由"
+  },
+  {
+    "index": 343,
+    "src": "And these such bad ideas can deceive people! As the so-called bridge is not afraid of the old, the most important thing is to suffer!",
+    "tgt": "仲有呢啲噉嘅屎橋都可以呃到人嘅！正所謂橋唔怕舊，最緊要受喎！",
+    "pred": "而啲咁惡嘅嘢可以惡化人!咁叫人唔好唔好咁難!咁多嘅嘢係好重要嘅!"
+  },
+  {
+    "index": 344,
+    "src": "choose",
+    "tgt": "揀",
+    "pred": "選擇"
+  },
+  {
+    "index": 345,
+    "src": "Jump the gun",
+    "tgt": "偷步",
+    "pred": "打彈"
+  },
+  {
+    "index": 346,
+    "src": "This shirt is a good color.",
+    "tgt": "呢件恤衫啲色水幾好啊。",
+    "pred": "呢條衫好色。"
+  },
+  {
+    "index": 347,
+    "src": "Rock Rock Rock",
+    "tgt": "岩岩巉巉",
+    "pred": "Rock Rock Rock Rock"
+  },
+  {
+    "index": 348,
+    "src": "When he released the list, my classmate called me back to my lab.",
+    "tgt": "佢放榜嘅時候，噉我同學呢打電話呢返來我實驗室喎。",
+    "pred": "佢頒獎,我個學生叫我去我嘅大學。"
+  },
+  {
+    "index": 349,
+    "src": "\"Why don't you know for a long time?",
+    "tgt": "「 乜你唔知有排咩 ？",
+    "pred": "「 你唔知過幾多時間?"
+  },
+  {
+    "index": 350,
+    "src": "It must be broken again",
+    "tgt": "實係又衰咗啦",
+    "pred": "再唔會變"
+  },
+  {
+    "index": 351,
+    "src": "Favorites",
+    "tgt": "最喜愛",
+    "pred": "Favorite"
+  },
+  {
+    "index": 352,
+    "src": "Day shifts",
+    "tgt": "日更",
+    "pred": "日轉"
+  },
+  {
+    "index": 353,
+    "src": "Extracurricular activities",
+    "tgt": "課外活動",
+    "pred": "學校活動"
+  },
+  {
+    "index": 354,
+    "src": "This dish is salty and uneatable",
+    "tgt": "呢碟餸鹹赧赧，冇辦法食",
+    "pred": "呢個菜好好吃,好食"
+  },
+  {
+    "index": 355,
+    "src": "Thank you, my student",
+    "tgt": "謝謝你，我的學生",
+    "pred": "謝我,我嘅學生"
+  },
+  {
+    "index": 356,
+    "src": "He walked into the classroom.",
+    "tgt": "佢䠋吓䠋吓噉行入嚟課室。",
+    "pred": "佢喺教室度走咗。"
+  },
+  {
+    "index": 357,
+    "src": "I love Cantonese and don't cook winter melon.",
+    "tgt": "我愛廣東話，唔識煲冬瓜。",
+    "pred": "我好鍾意粵語,唔食冬瓜。"
+  },
+  {
+    "index": 358,
+    "src": "Chen Rong, Secretary-General of the Political Committee, has about 20 or 30 members, and the main people are:",
+    "tgt": "政委會祕書長陳融，委員有大概20、30人到，主要人士有：",
+    "pred": "劉伯,政治委員會有20 萬30 人, 主人都係:"
+  },
+  {
+    "index": 359,
+    "src": "Wash the garment",
+    "tgt": "洗乾淨件衫",
+    "pred": "洗手"
+  },
+  {
+    "index": 360,
+    "src": "Tomorrow is the holiday, I don't know if there are many people at Lido Bay Beach in Tsuen Wan?",
+    "tgt": "聽日係假期，唔知道荃灣嘅麗都灣泳灘多唔多人？",
+    "pred": "明天係日,我唔知荃灣灣灣灣街有好多人啊?"
+  },
+  {
+    "index": 361,
+    "src": "Today's weather is good, and the snake cake is finished outside the Hu Chung swimming pool in Tsuen King Wai.",
+    "tgt": "今日天氣好，荃景圍胡忠游泳池出面打晒蛇餅。",
+    "pred": "今日天气好,沙龍灣水池池池池池池。"
+  },
+  {
+    "index": 362,
+    "src": "In the summer a bit of a student will look for a job.",
+    "tgt": "喺暑假有啲學生會搵工。",
+    "pred": "暑假啲學生會睇到個工作。"
+  },
+  {
+    "index": 363,
+    "src": "No matter how hard he struggled, he couldn't make it",
+    "tgt": "不管他多努力掙扎也不可能逹標",
+    "pred": "唔係咁難咁苦,佢唔好做"
+  },
+  {
+    "index": 364,
+    "src": "So every time I read a book, I put a second book for comparison",
+    "tgt": "所以我每次睇書 都會擺第二本書做比較",
+    "pred": "所以我讀書 , 我把第二冊同同同相"
+  },
+  {
+    "index": 365,
+    "src": "Come along",
+    "tgt": "一齊嚟",
+    "pred": "走去"
+  },
+  {
+    "index": 366,
+    "src": "You've been lied to, aren't you?",
+    "tgt": "你俾人呃啊你，係唔係啊？",
+    "pred": "你唔好講,唔係你啊?"
+  },
+  {
+    "index": 367,
+    "src": "Puff bags",
+    "tgt": "鼓氣袋",
+    "pred": "麻袋"
+  },
+  {
+    "index": 368,
+    "src": "He still gave up",
+    "tgt": "孻屘佢都係放棄咗",
+    "pred": "佢都係好打咗"
+  },
+  {
+    "index": 369,
+    "src": "Have you ever seen one?",
+    "tgt": "你哋有冇見過 ？",
+    "pred": "你有冇見到一個?"
+  },
+  {
+    "index": 370,
+    "src": "In the middle of the board is a 3x3 end area, and the four sides will be followed by a 6x3 area. The second square to the left of each area from the mantissa is the starting point, and the center is the end point.",
+    "tgt": "棋盤中間係一個3*3大小嘅終點區域，四邊會接一個6*3嘅區域。每個區域嘅左邊由尾數起第二格係起點，中心為終點。",
+    "pred": "個班係三三3,兩個層係三個層,兩個層係一個三個層,兩個層係第二個中心。第二個層係第二個層,第二個層係第二個中心。"
+  },
+  {
+    "index": 371,
+    "src": "For this game, he really put a lot of effort into preparation.",
+    "tgt": "為咗呢場波，佢真係落足工夫去做準備。",
+    "pred": "呢個遊戲,佢真係做得好多準備。"
+  },
+  {
+    "index": 372,
+    "src": "Competent",
+    "tgt": "有料到",
+    "pred": "專業"
+  },
+  {
+    "index": 373,
+    "src": "Deviate from the original intention",
+    "tgt": "偏離初心",
+    "pred": "執法"
+  },
+  {
+    "index": 374,
+    "src": "Things are approaching, and I can't keep a word",
+    "tgt": "件事逼到埋身，我唔出聲都唔得",
+    "pred": "嘢都講咗,我唔好寫字"
+  },
+  {
+    "index": 375,
+    "src": "It takes a year for these seedlings to bear fruit.",
+    "tgt": "呢啲幼苗要用一年時間先至有果實。",
+    "pred": "呢啲菜仔要一年。"
+  },
+  {
+    "index": 376,
+    "src": "Senior brother, don't boast like that! Don't dare to be a fool! I still learned something after hitting the board!",
+    "tgt": "師兄，千祈唔好咁誇！唔敢當！我都係撞過板先學到嘢㗎！",
+    "pred": "老師,唔好好咁呀!唔好好好好好好好好好好好好呀!我喺課課下課嚟講嘢!"
+  },
+  {
+    "index": 377,
+    "src": "It's okay to cut the line in a minibus, scare me!",
+    "tgt": "架小巴咁cut線都有嘅，嚇春我吖！",
+    "pred": "唔好喺車車上打線,唔好啊!"
+  },
+  {
+    "index": 378,
+    "src": "Across the sea",
+    "tgt": "過海的",
+    "pred": "落頭"
+  },
+  {
+    "index": 379,
+    "src": "Bu Bu sound",
+    "tgt": "卜卜聲",
+    "pred": "大氣聲"
+  },
+  {
+    "index": 380,
+    "src": "This handbag costs 3,000 yuan, which is so expensive.",
+    "tgt": "呢個手袋要三千蚊，好貴啊。",
+    "pred": "呢條皮價錢幾多,咁多。"
+  },
+  {
+    "index": 381,
+    "src": "How many brands of rice are you cooking tonight?",
+    "tgt": "今晚煮幾多嘜米啊？",
+    "pred": "你晚食乜嘢嘢食?"
+  },
+  {
+    "index": 382,
+    "src": "Walk",
+    "tgt": "行得",
+    "pred": "走"
+  },
+  {
+    "index": 383,
+    "src": "His tail ends with a whirlwind-shaped eyeball, which is made of a 1986 terrorist game card",
+    "tgt": "佢條尾最後有一個旋風形嘅眼球 係由 1986 年恐怖分子遊戲卡所整成",
+    "pred": "佢頭頭頭係一個紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅紅"
+  },
+  {
+    "index": 384,
+    "src": "Shanghai Tang (song), the theme song of the 1980 Hong Kong TVB TV series \"Shanghai Tang\".",
+    "tgt": "上海灘 (歌)，1980年香港無綫電視劇《上海灘》主題曲。",
+    "pred": "香港星(歌)喺1980年香港TVB TV series「香港星星」嘅主題歌。"
+  },
+  {
+    "index": 385,
+    "src": "More than a dozen friends",
+    "tgt": "十幾兜友",
+    "pred": "幾多朋友"
+  },
+  {
+    "index": 386,
+    "src": "while",
+    "tgt": "當",
+    "pred": "一陣"
+  },
+  {
+    "index": 387,
+    "src": "He is a very reserved man, and he rarely says what he thinks.",
+    "tgt": "佢份人好含蓄，有咩諗法都好少講出嚟。",
+    "pred": "佢好貴人,都唔知佢諗。"
+  },
+  {
+    "index": 388,
+    "src": "I'm tired today, and my whole body is soft",
+    "tgt": "今日好癐，成身軟瀨瀨",
+    "pred": "今日我好痛,我個頭好濕"
+  },
+  {
+    "index": 389,
+    "src": "What kind of bus do I need to take to go to the Buddhist Pearl School on Shengtian Street, Qin Shek Village, Sha Tin?",
+    "tgt": "請問我想去沙田秦石邨盛田街佛教明珠學校要搭乜嘢車先去到",
+    "pred": "我需要去沙龍灣路大埔路有乜嘢車去去"
+  },
+  {
+    "index": 390,
+    "src": "You are such a cannon, who believes you!",
+    "tgt": "你咁鬼大炮，邊個信你吖！",
+    "pred": "你咁無咁勁,你認為你!"
+  },
+  {
+    "index": 391,
+    "src": "Otherwise, watch the preliminary round, and come back immediately after watching it. Or just watch the finals.",
+    "tgt": "一係就睇初賽，睇完即刻鼠返來。一係就淨係睇決賽。",
+    "pred": "但係,睇完完完完,就睇完完完完,就係睇完完。或者睇完完完。"
+  },
+  {
+    "index": 392,
+    "src": "If you just say one word, say you're going to marry him, right away...",
+    "tgt": "如果你只要講一句，話你會嫁俾佢，即刻…",
+    "pred": "你咁講一句,話你就係去做佢,就係..."
+  },
+  {
+    "index": 393,
+    "src": "stand",
+    "tgt": "企立",
+    "pred": "推"
+  },
+  {
+    "index": 394,
+    "src": "Empty stomach",
+    "tgt": "空肚",
+    "pred": "凍肚"
+  },
+  {
+    "index": 395,
+    "src": "Record",
+    "tgt": "實錄",
+    "pred": "報"
+  },
+  {
+    "index": 396,
+    "src": "Sweet and sour potpourri stuffed lychee",
+    "tgt": "甜酸百花釀荔枝",
+    "pred": "甜甜甜甜甜甜甜"
+  },
+  {
+    "index": 397,
+    "src": "There's a Baskin Robbins in my hometown behind the counter, and they pack ice cream in these oversized, five-gallon pails",
+    "tgt": "我家鄉有一間 Baskin Robbins 喺櫃台後面 ， 佢哋將雪糕 裝喺呢啲超大 、 五加侖裝嘅紙桶裏面",
+    "pred": "我屋企喺屋企上邊有個大佬嘅紅豆,佢哋喺呢啲小豆仔嘅屋企打火粉,五蚊粉"
+  },
+  {
+    "index": 398,
+    "src": "Handsome guy",
+    "tgt": "靚仔",
+    "pred": "好靚仔"
+  },
+  {
+    "index": 399,
+    "src": "Hong Kong's core values will be completely lost",
+    "tgt": "香港既核心價值將會全面沉淪",
+    "pred": "香港嘅核心價值會被落落"
+  },
+  {
+    "index": 400,
+    "src": "This toy is made of glue.",
+    "tgt": "呢個玩具係用膠造嘅。",
+    "pred": "呢個玩具係喺皮。"
+  },
+  {
+    "index": 401,
+    "src": "Interestingly, the takeaway lane claimed more lives than a shooting on the road",
+    "tgt": "有趣嘅係 外賣車道比馬路槍擊所奪去嘅生命仲多",
+    "pred": "好似 , 路場嘅停車嘅停車 將多住幾人 喺路上"
+  },
+  {
+    "index": 402,
+    "src": "The ship entered the shore",
+    "tgt": "架船埋岸嘞",
+    "pred": "船落落街"
+  },
+  {
+    "index": 403,
+    "src": "Is there a post office near Hong Kong Tim Hei Building?",
+    "tgt": "香港仔添喜大廈附近有無郵局？",
+    "pred": "喺香港荃灣街有個郵局?"
+  },
+  {
+    "index": 404,
+    "src": "Where are you buried in those things?",
+    "tgt": "嗰啲嘢你柄埋喺邊度？",
+    "pred": "你喺啲嘢落埋呢啲嘢?"
+  },
+  {
+    "index": 405,
+    "src": "That \"I\" keeps trying.",
+    "tgt": "那個 “ 我 ” ， 不斷地嘗試 。",
+    "pred": "呢個 \"我」好做。"
+  },
+  {
+    "index": 406,
+    "src": "He manipulated a document and caused the company to lose a lot of money.",
+    "tgt": "佢喺份文件度做手腳，搞到公司蝕大錢。",
+    "pred": "佢喺件資料使公司減咗好多錢。"
+  },
+  {
+    "index": 407,
+    "src": "On January 27, 2015, Sun Pegasus announced on Facebook that it had terminated the contract with · Lan Bao in the · train of Jose, and Chen Zhikang temporarily took over as head coach until the end of the season.",
+    "tgt": "2015年1月27日，太陽飛馬喺facebook宣佈同荷西·列卡度·蘭保解約，由陳志康暫代主教練一職直到季尾 。",
+    "pred": "今年27月27號,Sun Pegasus宣布喺Facebook , 將佢哋喺「 」 嘅賽賽賽 , 劉伯同劉伯同劉伯同劉伯同劉伯同劉伯同劉"
+  },
+  {
+    "index": 408,
+    "src": "Big order",
+    "tgt": "大單",
+    "pred": "大價"
+  },
+  {
+    "index": 409,
+    "src": "(Applause) Thank you",
+    "tgt": "（ 鼓掌 ） 多謝",
+    "pred": "( 笑聲 ) 謝謝你"
+  },
+  {
+    "index": 410,
+    "src": "Five minutes ago, I walked along Lung Kong Road in Kowloon City and saw a TV interview with Aunt Six",
+    "tgt": "我五分鐘前行過九龍城龍崗道見到電視台訪問六姑姐",
+    "pred": "五分鐘 我喺香港街睇咗一張TV話"
+  },
+  {
+    "index": 411,
+    "src": "If you want to have a stable retirement, you need to plan ahead.",
+    "tgt": "想有安穩嘅退休生活，就要未雨綢繆。",
+    "pred": "你想要有穩定嘅投資,要準備先。"
+  },
+  {
+    "index": 412,
+    "src": "At last",
+    "tgt": "尾",
+    "pred": "先"
+  },
+  {
+    "index": 413,
+    "src": "tigress",
+    "tgt": "老虎乸",
+    "pred": "失落"
+  },
+  {
+    "index": 414,
+    "src": "Where to eat tonight's meal, I don't know yet.",
+    "tgt": "今晚餐飯去邊度食，我都仲未有着落。",
+    "pred": "晚食到乜嘢,我唔知。"
+  },
+  {
+    "index": 415,
+    "src": "This way of meeting changed me",
+    "tgt": "咁樣嘅開會方式改變咗我",
+    "pred": "呢個方式變咗我"
+  },
+  {
+    "index": 416,
+    "src": "drizzle",
+    "tgt": "霎",
+    "pred": "摳"
+  },
+  {
+    "index": 417,
+    "src": "That's how I became an entrepreneur. 」",
+    "tgt": "我就係咁成為企業家 。 」",
+    "pred": "係我係個創業嘅嘢。"
+  },
+  {
+    "index": 418,
+    "src": "I have four toilet paper holders in my house for toilet paper.",
+    "tgt": "我屋企有四個廁紙座裝廁紙。",
+    "pred": "我屋企有四個廁紙紙。"
+  },
+  {
+    "index": 419,
+    "src": "Eighty-eight years ago, with a long and frustrating history, Bill Longley and Charles Martin attempted to capture the first underwater color photographs",
+    "tgt": "早喺 88 年前就有 一段漫長又令人沮喪嘅歷史 Bill Longley 同 Charles Martin 嘗試拍低第一張水底彩色相片",
+    "pred": "八年 , 以著一年 , 以為一年 , 美國同Charles Martin 同 Charles Martin 想 captur 第一個水色照片"
+  },
+  {
+    "index": 420,
+    "src": "No, I don't. None of them expected it. None of them had time to talk about these things.",
+    "tgt": "冇啊。佢哋都諗唔到𡃉喇。佢哋都唔得閒諗𡃉嚹哩啲嘢。",
+    "pred": "唔係。唔係。唔係佢哋都會講呢啲嘢。"
+  },
+  {
+    "index": 421,
+    "src": "Not at all",
+    "tgt": "完全唔係咁",
+    "pred": "唔係"
+  },
+  {
+    "index": 422,
+    "src": "We haven't encountered any storms yet",
+    "tgt": "我們還有什麼風浪未遇過",
+    "pred": "我哋未經過過幾颱"
+  },
+  {
+    "index": 423,
+    "src": "A few stairs",
+    "tgt": "幾級樓梯",
+    "pred": "幾間樓"
+  },
+  {
+    "index": 424,
+    "src": "I went to Guangzhou first.",
+    "tgt": "先排我去咗廣州。",
+    "pred": "我去香港先。"
+  },
+  {
+    "index": 425,
+    "src": "Good thing he finally came to me.",
+    "tgt": "好在佢卒之嚟搵我。",
+    "pred": "好嘢佢就係我。"
+  },
+  {
+    "index": 426,
+    "src": "Hearts are on the line",
+    "tgt": "心掛掛",
+    "pred": "紅旗喺門"
+  },
+  {
+    "index": 427,
+    "src": "Black lipstick isn't that big of a road, and not many people will buy it.",
+    "tgt": "黑色唇膏唔係咁大路，冇乜人會買。",
+    "pred": "黑紅色唔係咁大,唔多人買。"
+  },
+  {
+    "index": 428,
+    "src": "It's not a lie to just reply to the water tail, okay, don't buy it",
+    "tgt": "淨翻啲水尾都唔謊好啦，唔好買喇",
+    "pred": "唔係講水嘴,唔好,唔買"
+  },
+  {
+    "index": 429,
+    "src": "My dream is to travel the world.",
+    "tgt": "我嘅夢想係環遊世界。",
+    "pred": "我嘅夢想係旅行世界。"
+  },
+  {
+    "index": 430,
+    "src": "Today I understand that I have been in it for many years;",
+    "tgt": "今天纔明白，我也在其中混了多年；",
+    "pred": "今日我知道我幾年都係過咗。"
+  },
+  {
+    "index": 431,
+    "src": "I'm going to hand in the report tomorrow, and I'm going to work hard tonight.",
+    "tgt": "聽日要交報告，今晚要搏殺嘞。",
+    "pred": "我今次要手手,我今次要工作。"
+  },
+  {
+    "index": 432,
+    "src": "I envy you for having such a responsible child, don't worry about it.",
+    "tgt": "好羨慕你有個咁有交帶嘅仔，唔使令人操心。",
+    "pred": "我唔好俾你做咁個人,唔好好諗。"
+  },
+  {
+    "index": 433,
+    "src": "They will jump up and down",
+    "tgt": "佢哋會上下跳",
+    "pred": "佢哋會打到走"
+  },
+  {
+    "index": 434,
+    "src": "These springs are pretty clear.",
+    "tgt": "啲泉水幾清喎。",
+    "pred": "呢啲春節好清晰。"
+  },
+  {
+    "index": 435,
+    "src": "never",
+    "tgt": "絕不",
+    "pred": "未"
+  },
+  {
+    "index": 436,
+    "src": "Children's personal affairs",
+    "tgt": "兒女私情",
+    "pred": "幼兒嘅生活"
+  },
+  {
+    "index": 437,
+    "src": "This photo was taken by us in Taiwan",
+    "tgt": "呢張相係我哋喺台灣影嘅",
+    "pred": "呢個照片喺香港嘅上發"
+  },
+  {
+    "index": 438,
+    "src": "The most important thing is that the room is cool until he is so dark and so dark",
+    "tgt": "最重要嘅係 ， 整到佢有咁黑得咁黑 亦都要整到間房涼爽",
+    "pred": "最重要嘅嘢係佢咁靜,咁暗咁暗"
+  },
+  {
+    "index": 439,
+    "src": "Funding for small and medium-sized enterprises",
+    "tgt": "資助中小企",
+    "pred": "投資多層層"
+  },
+  {
+    "index": 440,
+    "src": "These people are all from Macau.",
+    "tgt": "呢幾個人都喺澳門嚟㗎。",
+    "pred": "呢啲人都係喺香港。"
+  },
+  {
+    "index": 441,
+    "src": "Golfing is an expensive sport.",
+    "tgt": "打高爾夫球係一種好貴嘅運動。",
+    "pred": "球賽係好高級嘅競技。"
+  },
+  {
+    "index": 442,
+    "src": "The number of points in this game is certainly not low.",
+    "tgt": "呢場士哥數字肯定唔低。",
+    "pred": "呢個遊戲嘅數量真係唔高。"
+  },
+  {
+    "index": 443,
+    "src": "Drink the bridal wine",
+    "tgt": "飲新婦酒",
+    "pred": "飲酒"
+  },
+  {
+    "index": 444,
+    "src": "The four groups will publish their data in November this year",
+    "tgt": "四個小組會喺今年十一月 刊登佢哋嘅數據",
+    "pred": "今年兩個組會公布咗佢哋嘅數據"
+  },
+  {
+    "index": 445,
+    "src": "When I looked for other treatments, I got to know them better",
+    "tgt": "當我搵其他治療嘅時候 我對佢哋了解深咗",
+    "pred": "我睇過其他治療 , 我會知佢哋"
+  },
+  {
+    "index": 446,
+    "src": "lifetime",
+    "tgt": "一世",
+    "pred": "生活"
+  },
+  {
+    "index": 447,
+    "src": "Hong Kong foot",
+    "tgt": "香港腳",
+    "pred": "香港腳"
+  },
+  {
+    "index": 448,
+    "src": "He's so bold! See if he's afraid of our brother first!",
+    "tgt": "哈！佢咁大膽㗇我哋！睇佢怕唔怕我哋大佬先！",
+    "pred": "佢咁好硬!睇到我哋老師先!"
+  },
+  {
+    "index": 449,
+    "src": "Hand board",
+    "tgt": "打手板",
+    "pred": "手板"
+  },
+  {
+    "index": 450,
+    "src": "This midfield volley was quite close.",
+    "tgt": "呢吓中場抽射都幾近磅。",
+    "pred": "呢個球場球賽好緊。"
+  },
+  {
+    "index": 451,
+    "src": "obscenity",
+    "tgt": "鹹濕",
+    "pred": "惡"
+  },
+  {
+    "index": 452,
+    "src": "Lee Sin Yi (1999- ) was 17 years old and charged with two counts of rioting when he participated in the Mong Kok riots on New Year's Day in 2016. Originally, she was supposed to be tried by the district court, but he didn't show up in January 2017, so the court confiscated her 3,000 yuan bail and released the warrant. He is now wanted by the police.",
+    "tgt": "李倩怡（英語：Lee Sin Yi，1999年－）17歲果時因為參加2016年年初一旺角騷亂果單野，政府告佢兩條暴動罪。原本佢應該係區院審嘅，不過佢她係2017年1月冇出現，所以法庭就充公左佢果三千蚊保釋金，同埋出埋窩輪。佢宜家俾警察通緝緊。",
+    "pred": "劉英( ) (2002) , 年10歲 , 佢喺2016年 年 , 佢喺2018年 年 , 佢喺2018年 年 , 佢喺2018年 年"
+  },
+  {
+    "index": 453,
+    "src": "Hopefully tomorrow",
+    "tgt": "希望在明天吖嘛",
+    "pred": "明天會好願意"
+  },
+  {
+    "index": 454,
+    "src": "Sports injuries",
+    "tgt": "運動創傷",
+    "pred": "競技傷"
+  },
+  {
+    "index": 455,
+    "src": "Ah Shuifen people are very honest and don't steal",
+    "tgt": "阿水份人好老實擔屎都唔偷食",
+    "pred": "阿阿阿人好誠,唔好賣"
+  },
+  {
+    "index": 456,
+    "src": "You're last-touch now.",
+    "tgt": "你而家last-touch喎。",
+    "pred": "你今次就係先喇。"
+  },
+  {
+    "index": 457,
+    "src": "Mom was in charge of feeding her",
+    "tgt": "老媽負責餵她",
+    "pred": "媽媽係畀佢畀佢"
+  },
+  {
+    "index": 458,
+    "src": "According to \"The Academic Contributions of Contemporary Neo-Confucianism\" published by Professor Tsai Renhou of Tunghai University in Taiwan in the Hong Kong \"Sing Pao\" issue on June 1, 2005, it can be divided into the following five points:",
+    "tgt": "根據臺灣東海大學榮譽教授蔡仁厚喺2005年6月1號香港《成報》發表嘅「當代新儒家的學術貢獻」，可以分為以下五點：",
+    "pred": "由《現代宗教學會》喺香港《現代宗教學會》出版於2005年1月1號《現代宗教學會》出版於香港《現代宗教學會》出版於香港《現代宗教學會》出版於"
+  },
+  {
+    "index": 459,
+    "src": "Today does not know tomorrow",
+    "tgt": "今日唔知聽日事",
+    "pred": "今日唔知"
+  },
+  {
+    "index": 460,
+    "src": "Tonight, the company will draw a big draw, and the first prize is a cash prize of 100,000 yuan!",
+    "tgt": "今晚公司尾禡大抽獎，頭獎係十萬蚊現金獎喎！",
+    "pred": "今天呢個公司會舉出大獎,第一個獎係一百萬蚊!"
+  },
+  {
+    "index": 461,
+    "src": "Stream of consciousness is a narrative technique of modernist literature.",
+    "tgt": "意識流係一種現代主義文學嘅敍述手法。",
+    "pred": "傳統嘅記憶係現代嘅歷史技術。"
+  },
+  {
+    "index": 462,
+    "src": "What does it mean to be sincere?",
+    "tgt": "點先叫有誠意？",
+    "pred": "有乜嘢話講得好笑?"
+  },
+  {
+    "index": 463,
+    "src": "To use an analogy",
+    "tgt": "打個譬喻",
+    "pred": "用電子"
+  },
+  {
+    "index": 464,
+    "src": "Tomorrow morning",
+    "tgt": "聽朝",
+    "pred": "日夜"
+  },
+  {
+    "index": 465,
+    "src": "The power of the government should be given by the people.",
+    "tgt": "政府嘅權力應該由人民賦予。",
+    "pred": "政府嘅權利應該畀人嘅。"
+  },
+  {
+    "index": 466,
+    "src": "Don't hesitate to advise",
+    "tgt": "不吝指教",
+    "pred": "唔好唔好講"
+  },
+  {
+    "index": 467,
+    "src": "District Councils",
+    "tgt": "區議會",
+    "pred": "市議院"
+  },
+  {
+    "index": 468,
+    "src": "This is a headache for me.",
+    "tgt": "呢件事搞到我好頭痛。",
+    "pred": "呢個係我嘅頭痛。"
+  },
+  {
+    "index": 469,
+    "src": "With so few resources, there is always a trade-off between speed and quality.",
+    "tgt": "資源咁少，速度同質素之間總要有所取捨。",
+    "pred": "咁多資源,都係有啲量產嘅。"
+  },
+  {
+    "index": 470,
+    "src": "I will find a lot of cronies to help at the first time",
+    "tgt": "第一時間會搵好多親信嚟幫手",
+    "pred": "我先會搵好多人幫手"
+  },
+  {
+    "index": 471,
+    "src": "Fade in",
+    "tgt": "褪入",
+    "pred": "落落"
+  },
+  {
+    "index": 472,
+    "src": "Baby ghost",
+    "tgt": "娃鬼",
+    "pred": "老鼠鬼"
+  },
+  {
+    "index": 473,
+    "src": "That's right you answered",
+    "tgt": "你噉答包冇錯",
+    "pred": "咁啱你講"
+  },
+  {
+    "index": 474,
+    "src": "Every morning",
+    "tgt": "每朝",
+    "pred": "每晚"
+  },
+  {
+    "index": 475,
+    "src": "I eat things that are too oily, maybe too sweet, and I get sick to my stomach.",
+    "tgt": "我食太油或者太甜嘅嘢會反胃。",
+    "pred": "我食嘢好食,或者唔好食,就食咗肚肚。"
+  },
+  {
+    "index": 476,
+    "src": "For me, creating a society of abundance does not mean that everyone in the world can enjoy a luxurious life, but that it is about creating the possibility of life",
+    "tgt": "對我來講 ， 創造富足嘅社會 唔係話要世界上 每個人都享受奢華生活 而係要創造出生活嘅可能性",
+    "pred": "我 , 建立一個社會嘅社會 唔係話 , 我喺世界 可以享受一啲美好嘅生活 但係係 為創造生活嘅空間 而係 因為創造生活嘅空間"
+  },
+  {
+    "index": 477,
+    "src": "Traveling to get married is not that troublesome.",
+    "tgt": "旅行結婚冇咁麻煩。",
+    "pred": "旅行去婚禮唔係好好難。"
+  },
+  {
+    "index": 478,
+    "src": "In the past few months, the economy has been sluggish, and several factories have been fighting.",
+    "tgt": "呢幾個月經濟不景，有幾間工廠𢫏斗喇。",
+    "pred": "以前幾年經濟變咗,幾個企業都會打鬥。"
+  },
+  {
+    "index": 479,
+    "src": "Change can happen at any time",
+    "tgt": "變幻隨時都會出現",
+    "pred": "變成時間會发生"
+  },
+  {
+    "index": 480,
+    "src": "My alarm clock will say it too, brother.",
+    "tgt": "我嘅鬧鐘都識講喇，大佬。",
+    "pred": "我警鐘都講得好,老闆。"
+  },
+  {
+    "index": 481,
+    "src": "early",
+    "tgt": "早日",
+    "pred": "早"
+  },
+  {
+    "index": 482,
+    "src": "Bring the event to a climax",
+    "tgt": "將活動推向高潮",
+    "pred": "帶到場嘅活動去熱鬧"
+  },
+  {
+    "index": 483,
+    "src": "Align with the needs and expectations of local communities",
+    "tgt": "切合當地社區的需求和期望",
+    "pred": "同本地嘅需求 同需求 同需求"
+  },
+  {
+    "index": 484,
+    "src": "You will have retribution for doing so many yin things.",
+    "tgt": "你做埋咁多陰質嘢會有報應㗎。",
+    "pred": "你會有啲嘢做咁多嘢。"
+  },
+  {
+    "index": 485,
+    "src": "Look at the sedation point",
+    "tgt": "睇定啲",
+    "pred": "睇到埋頭"
+  },
+  {
+    "index": 486,
+    "src": "The bed was not long enough, so I had to sleep in hiding.",
+    "tgt": "張牀唔夠長，我唯有屈住瞓。",
+    "pred": "床唔好好,所以我去埋埋埋埋。"
+  },
+  {
+    "index": 487,
+    "src": "healthy",
+    "tgt": "健",
+    "pred": "健康"
+  },
+  {
+    "index": 488,
+    "src": "refund",
+    "tgt": "回水",
+    "pred": "賠償"
+  },
+  {
+    "index": 489,
+    "src": "Why are you so in English?",
+    "tgt": "乜你啲英文咁屎皮㗎。",
+    "pred": "你咁英文呀?"
+  },
+  {
+    "index": 490,
+    "src": "The news that has come out recently has not been so good.",
+    "tgt": "近日傳嚟嘅消息都唔係咁好。",
+    "pred": "呢個消息喺今次都唔好咁好。"
+  },
+  {
+    "index": 491,
+    "src": "His jewelry was well received by the public.",
+    "tgt": "佢設計嘅珠寶得到大眾嘅青睞。",
+    "pred": "佢嘅jewelry好受眾。"
+  },
+  {
+    "index": 492,
+    "src": "I'd love to visit the ducks, my husband hasn't lived with me for a long time, it's so depressing!",
+    "tgt": "我好想幫襯吓鴨吧，我老公好耐冇同我行埋喇，好苦悶啊！",
+    "pred": "我好鍾意去過狗,我女朋友都唔好經過我,好難啊!"
+  },
+  {
+    "index": 493,
+    "src": "Too long, completely. I'll give you back the card first.",
+    "tgt": "太耐嚹，完全。我俾返張card你先。",
+    "pred": "好久,我先畀你先。"
+  },
+  {
+    "index": 494,
+    "src": "Each of them was attentive to their homework",
+    "tgt": "佢哋個個都好專心噉做緊功課",
+    "pred": "佢哋每個都好耐心嘅工作"
+  },
+  {
+    "index": 495,
+    "src": "The so-called three feet above the head has gods, but in fact, the streets are full of gods",
+    "tgt": "所謂舉頭三尺有神靈，其實通街都係神仙",
+    "pred": "咁叫三腳嘅三腳係人,但係因為街都係人"
+  },
+  {
+    "index": 496,
+    "src": "The developer sent people to the old area to take over the flats, and the residents who had evicted them said they wanted to cry without tears.",
+    "tgt": "發展商派人去舊區收樓，畀佢哋趕走嘅住户表示欲哭無淚。",
+    "pred": "設計公司叫人去舊區去,佢哋都話佢哋唔會笑。"
+  },
+  {
+    "index": 497,
+    "src": "These factors are negative for the market.",
+    "tgt": "呢啲因素對市場好不利。",
+    "pred": "呢啲因素係影響市場。"
+  },
+  {
+    "index": 498,
+    "src": "Does anyone know how to get to Hoi Yue Street in Quarry Bay?",
+    "tgt": "有無人知道鰂魚涌海裕街係點去㗎",
+    "pred": "有冇人知點去沙沙灣街邊度去邊度?"
+  },
+  {
+    "index": 499,
+    "src": "Because it should be - if some people are not used to it, it may ○",
+    "tgt": "因為應該-如果有啲人唔慣嘅話，可能會○",
+    "pred": "因為係-如果有啲人唔係用,會係 ○"
+  },
+  {
+    "index": 500,
+    "src": "You come to my store tomorrow, and I'll find a guy to follow up with you.\"",
+    "tgt": "你聽日過嚟我舖頭，我揾個夥記同你跟進下吖。",
+    "pred": "你明天去我店,我會找個女同你。"
+  },
+  {
+    "index": 501,
+    "src": "On the contrary, they always sacrifice money to help others",
+    "tgt": "相反 ， 佢哋總係犧牲金錢去幫其他人",
+    "pred": "咁樣 , 佢哋都會犧牲錢 幫人幫人"
+  },
+  {
+    "index": 502,
+    "src": "It's okay, don't try again",
+    "tgt": "唔緊要㗎，咪再試過",
+    "pred": "唔好,唔好試"
+  },
+  {
+    "index": 503,
+    "src": "entrance",
+    "tgt": "入口",
+    "pred": "門"
+  },
+  {
+    "index": 504,
+    "src": "That's the case with these schools, which have been using the same teaching methods for many years",
+    "tgt": "哩啲學校就係噉 ， 噉多年黎 仲係用緊同樣嘅教學方法",
+    "pred": "呢啲學校係呢啲學院嘅問題 , 呢啲學院 都係用咗兩個學術方法"
+  },
+  {
+    "index": 505,
+    "src": "Could obesity just be a reaction to something more threatening?",
+    "tgt": "肥胖會唔會只係一樣 對更有威脅嘅嘢嘅反應呢 ？ 例如隱性病 咁我哋需唔需要擔心呢 ？",
+    "pred": "有冇疾病咁難嘅反应?"
+  },
+  {
+    "index": 506,
+    "src": "Ah, I'm sorry. I'm mistaken, Twenty-Three came to nag that.",
+    "tgt": "吖啊，對唔住。我記錯，廿三來𡃉嗰個。",
+    "pred": "哎啊。我唔好啊。三三五就嚟<0xD0>。"
+  },
+  {
+    "index": 507,
+    "src": "Lin Lin went to the tea restaurant and shouted regular meals.",
+    "tgt": "林林去親茶餐廳都嗌常餐。",
+    "pred": "Lin Lin去咖啡廳,講到常客餐廳。"
+  },
+  {
+    "index": 508,
+    "src": "Election shady",
+    "tgt": "選舉黑幕",
+    "pred": "議會大鬧"
+  },
+  {
+    "index": 509,
+    "src": "It's a bit of a store, so those are affected.",
+    "tgt": "有啲門市啊，噉嗰啲都係受到影響啊。",
+    "pred": "有啲店,所以啲都係影響。"
+  },
+  {
+    "index": 510,
+    "src": "Tang Jishan (1896-1967), a native of Guangdong, was a famous tea merchant in Shanghai, China in the 1930s, and was known as the \"King of Tea\".",
+    "tgt": "唐季珊（1896年—1967），廣東人，1930年代中國上海著名茶葉商人，有「茶葉大王」之譽。",
+    "pred": "石田(1960年)係香港人,喺香港嘅咖啡店,係香港嘅咖啡店,係《龍馬》。"
+  },
+  {
+    "index": 511,
+    "src": "Wow, but you don't go in, you don't know how to win.",
+    "tgt": "嘩但你唔入去你唔知𡃉喎。",
+    "pred": "嘩,但係你唔好去,唔知點打。"
+  },
+  {
+    "index": 512,
+    "src": "He was the hero who led us to win this game.",
+    "tgt": "佢係帶領我哋贏呢場波嘅英雄。",
+    "pred": "佢係我哋打咗呢個賽賽。"
+  },
+  {
+    "index": 513,
+    "src": "Children will be charged half the fee",
+    "tgt": "小童收半費",
+    "pred": "女仔會支付三個錢"
+  },
+  {
+    "index": 514,
+    "src": "Note: The Braille characters representing the finals sz, om, and op were removed when it was revised in 1990. The finals eu, em, and ep do not exist in this braille scheme.",
+    "tgt": "註：代表韻母sz、om、op嘅點字係1990年修訂嗰陣刪除咗。韻母eu、em、ep並唔存在喺呢個點字方案之中。",
+    "pred": "Note::紅色字嘅字樣係,係,係,係,係,係,係,係,係,係,係,係,係,係,係,係,係,係,係,係,"
+  },
+  {
+    "index": 515,
+    "src": "After I went to Hong Kong, my Hong Kong friends talked to me: \"You must understand that being a singer in Hong Kong is different from being a singer in Chinese mainland. 」",
+    "tgt": "我嚟咗香港之後呢，香港啲朋友就同我講話：「你千祈要明白呀，你喺香港做歌手呢，同喺中國大陸做歌手係唔同㗎。」",
+    "pred": "我去香港朋友講話 : 「 你應該知道香港嘅歌手 係係香港嘅歌手 。 」"
+  },
+  {
+    "index": 516,
+    "src": "Take a phone and charge it.",
+    "tgt": "攞部手機去叉電。",
+    "pred": "打電話畀佢哋。"
+  },
+  {
+    "index": 517,
+    "src": "The new sprouts arched the dirt out.",
+    "tgt": "新出嘅豆芽將泥土都拱起晒出嚟。",
+    "pred": "新膠頭喺度落落。"
+  },
+  {
+    "index": 518,
+    "src": "Is there anything about you keeping your head down so much today?",
+    "tgt": "今日你咁耷頭耷腦有乜嘢啊？",
+    "pred": "今日有冇乜嘢咁多啊?"
+  },
+  {
+    "index": 519,
+    "src": "Elderly",
+    "tgt": "長者",
+    "pred": "老師"
+  },
+  {
+    "index": 520,
+    "src": "Looks like it's going to rain today.",
+    "tgt": "睇嚟今日會落雨喎。",
+    "pred": "睇到今次都會雨。"
+  },
+  {
+    "index": 521,
+    "src": "The company outsourced the entire IT department.",
+    "tgt": "呢間公司將成個IT部外判咗。",
+    "pred": "公司喺電腦課課。"
+  },
+  {
+    "index": 522,
+    "src": "pier",
+    "tgt": "橋墩",
+    "pred": "腳"
+  },
+  {
+    "index": 523,
+    "src": "I don't remember.",
+    "tgt": "我唔記得咗嘍。",
+    "pred": "我唔記得。"
+  },
+  {
+    "index": 524,
+    "src": "The baton pounced on his head.",
+    "tgt": "支警棍兜嘢扑落佢個頭。",
+    "pred": "佢頭頭打咗佢頭。"
+  },
+  {
+    "index": 525,
+    "src": "Squat down all the way with your hands over your head",
+    "tgt": "全部踎低，雙手擺喺頭",
+    "pred": "打手打到頭頭"
+  },
+  {
+    "index": 526,
+    "src": "Better",
+    "tgt": "掂過",
+    "pred": "好"
+  },
+  {
+    "index": 527,
+    "src": "My little sister asked me to go to Wuzhou Road in Pingche for lunch and afternoon tea",
+    "tgt": "細妹約左我去坪輋嘅五洲路食晏飲下午茶",
+    "pred": "個女朋友去荃灣街食下午茶"
+  },
+  {
+    "index": 528,
+    "src": "few",
+    "tgt": "少",
+    "pred": "幾"
+  },
+  {
+    "index": 529,
+    "src": "Why would you be with some inappropriate people?",
+    "tgt": "點解你會同埋啲唔三唔四嘅人一齊㗎？",
+    "pred": "你有冇有冇人嘅人?"
+  },
+  {
+    "index": 530,
+    "src": "We'll go to the law firm tomorrow to sign a divorce.",
+    "tgt": "我哋聽日上律師樓簽紙離婚。",
+    "pred": "我哋明天去法院公司簽約離婚。"
+  },
+  {
+    "index": 531,
+    "src": "I went in for dinner, and at the beginning the staff kept introducing lobster and star spots, and I didn't listen to him and called other side dishes, and his appearance changed 180 degrees, and it became very bad.",
+    "tgt": "我入去食晚飯，一開始伙記就猛介紹龍蝦同星斑，我唔聽佢支笛，叫其他小菜，佢啲面口就一百八十度轉變，變到好差。",
+    "pred": "我去餐廳,之後佢喺後面就講咗紅星、紅星、紅星、紅星,我唔聽佢,佢嘅印象變咗 180 , 佢嘅印象變咗 180 , 佢"
+  },
+  {
+    "index": 532,
+    "src": "If you haven't been to Wai Yip Street in Kwun Tong, you really need to find a time to take a walk",
+    "tgt": "如果未去過觀塘嘅偉業街就真係要搵個時間去行吓",
+    "pred": "你唔去沙龍灣街,好需要去去走路"
+  },
+  {
+    "index": 533,
+    "src": "Warmer",
+    "tgt": "暖衲衲",
+    "pred": "熱"
+  },
+  {
+    "index": 534,
+    "src": "He's the one on the left",
+    "tgt": "佢就係左邊嗰個人",
+    "pred": "佢喺左邊"
+  },
+  {
+    "index": 535,
+    "src": "I'd rather miss the day and night a little longer",
+    "tgt": "情願錯過白天黑夜拉長一點",
+    "pred": "我唔好過夜,夜晚好多"
+  },
+  {
+    "index": 536,
+    "src": "Pick it up",
+    "tgt": "摟上",
+    "pred": "打出"
+  },
+  {
+    "index": 537,
+    "src": "He's out of control with anger now, don't mess with him.",
+    "tgt": "佢而家火遮眼，唔好惹佢。",
+    "pred": "佢今次係失控,唔好打佢。"
+  },
+  {
+    "index": 538,
+    "src": "This watermelon is small",
+    "tgt": "呢隻西瓜好細個",
+    "pred": "呢個水魚好細"
+  },
+  {
+    "index": 539,
+    "src": "3.14159265358979 … Reggie Watts: If we're going to do something, we're going to make a decision",
+    "tgt": "3.14159265358979 … Reggie Watts ︰ 如果我哋打算去做啲乜嘢 我哋就要做一個決定",
+    "pred": "3.14159265358979: 我哋要做嘢 , 我哋會做嘢"
+  },
+  {
+    "index": 540,
+    "src": "Stupid",
+    "tgt": "傻人",
+    "pred": "唔好"
+  },
+  {
+    "index": 541,
+    "src": "I can't sleep,",
+    "tgt": "我橫豎睡不着，",
+    "pred": "我唔好食,"
+  },
+  {
+    "index": 542,
+    "src": "Eat white powder",
+    "tgt": "食白粉",
+    "pred": "食白粉"
+  },
+  {
+    "index": 543,
+    "src": "His parents couldn't find him when they played gongs.",
+    "tgt": "佢父母打鑼都搵唔到佢。",
+    "pred": "佢哋媽媽唔會見到佢哋。"
+  },
+  {
+    "index": 544,
+    "src": "false",
+    "tgt": "假",
+    "pred": "不錯"
+  },
+  {
+    "index": 545,
+    "src": "I'll do it if I have more.",
+    "tgt": "畀多啲我都得啩。",
+    "pred": "我有啲都唔好做。"
+  },
+  {
+    "index": 546,
+    "src": "Defensive design in software engineering is called defensive programming. The famous Murphy's Law shows why defensive design is necessary. Defensive design is the opposite of contract design.",
+    "tgt": "軟件工程中嘅防禦式設計叫做防禦性編程。著名嘅梅菲定律表明咗點解要搞防禦式設計。防禦式設計係同契約式設計相反嘅一種設計方式。",
+    "pred": "軟軟設計係簡稱軟體設計。美國學術說 , 簡稱 打擊設計係同合同設計 。"
+  },
+  {
+    "index": 547,
+    "src": "I'll expose your bad stuff to the world!",
+    "tgt": "我會將你嘅衰嘢公諸於世！",
+    "pred": "我會影響你嘅惡嘢,我會影響世界!"
+  },
+  {
+    "index": 548,
+    "src": "I overheard him talking to a woman on the phone.",
+    "tgt": "我無意中聽到佢同一個女人傾電話。",
+    "pred": "我聽到佢喺手機口聽到佢。"
+  },
+  {
+    "index": 549,
+    "src": "I went to the law firm with him and signed a deed.",
+    "tgt": "我同佢上律師樓簽咗張契。",
+    "pred": "我同佢同佢同佢簽證。"
+  },
+  {
+    "index": 550,
+    "src": "Fight landlords",
+    "tgt": "鬥地主",
+    "pred": "打賊"
+  },
+  {
+    "index": 551,
+    "src": "Wow, what a playground for the new school!",
+    "tgt": "嘩，新學校嘅操場幾大呀！",
+    "pred": "嘩,新學校係好大樓呀!"
+  },
+  {
+    "index": 552,
+    "src": "New phenomenon",
+    "tgt": "新現象",
+    "pred": "舊現象"
+  },
+  {
+    "index": 553,
+    "src": "I don't know if I'll be asked to change",
+    "tgt": "唔知會唔會叫我換呢",
+    "pred": "我唔知唔知我會會變咗"
+  },
+  {
+    "index": 554,
+    "src": "Horse pavement",
+    "tgt": "馬路面",
+    "pred": "馬仔"
+  },
+  {
+    "index": 555,
+    "src": "Private space travel companies are not only offering near-space travel, but also Martian immigration services in the future",
+    "tgt": "私人太空旅行公司 依架唔只提供近太空旅行 亦可能喺將來提供火星移民服務",
+    "pred": "公共空間旅行公司唔係提供遠距離旅行,但係同未來經濟服務"
+  },
+  {
+    "index": 556,
+    "src": "This head is our head, and we guarantee that we will not be deceived when we buy something",
+    "tgt": "呢頭係我地頭嚟㗎，買嘢呢擔保唔會畀人呃秤",
+    "pred": "呢個頭係我哋頭,我哋會為我哋買嘢唔好"
+  },
+  {
+    "index": 557,
+    "src": "Get a breath of fresh air.",
+    "tgt": "呼吸新鮮空氣。",
+    "pred": "打氣啲氣。"
+  },
+  {
+    "index": 558,
+    "src": "These distractions actually help us solve problems and help us be more creative",
+    "tgt": "呢啲干擾其實幫梗我哋解決問題 幫我哋更有創意",
+    "pred": "呢啲壓力都幫我哋解決問題 幫我哋做更多思考"
+  },
+  {
+    "index": 559,
+    "src": "Okay, here's another one -- I really spent a little bit of time shepherding.",
+    "tgt": "好的 , 這是另一個 -- 我真的用了一點時間去牧羊 。",
+    "pred": "好係,呢個個 --我真係好食咗好多時間食咗啲嘢。"
+  },
+  {
+    "index": 560,
+    "src": "The Chinese language of Singapore is Mara spoken.",
+    "tgt": "新加坡嘅國語係馬拉話。",
+    "pred": "香港語言係香港語言。"
+  },
+  {
+    "index": 561,
+    "src": "Glue the address in the envelope.",
+    "tgt": "將寫好地址嘅唎保黏喺信封度。",
+    "pred": "喺郵箱打咗個地址。"
+  },
+  {
+    "index": 562,
+    "src": "Three Kingdoms",
+    "tgt": "三國",
+    "pred": "三國"
+  },
+  {
+    "index": 563,
+    "src": "widely known",
+    "tgt": "街知巷聞",
+    "pred": "廣泛"
+  },
+  {
+    "index": 564,
+    "src": "I know there's a ghost behind it.",
+    "tgt": "我清楚背後有鬼。",
+    "pred": "我知呢度有個惡狼。"
+  },
+  {
+    "index": 565,
+    "src": "It was originally called Wuyang No. 1 Primary School, referred to as Wuyang One Elementary School. Wuyang New Town, where the school is located, is a newly developed residential area. Wuyang No. 1, No. 2 and No. 3 Primary Schools are supporting primary schools built by the developer, Donghua Industrial. In 1987, the school building was handed over to the Dongshan District Education Bureau and began to enroll students.",
+    "tgt": "原先叫做五羊第一小學，簡稱五羊一小。學校所在嘅五羊新城係新開發嘅住宅區。五羊第一、第二、第三小學係發展商東華實業興建嘅配套小學。1987年，校舍移交畀東山區教育局，開始招收學生。",
+    "pred": "呢個係叫 Wuyang 1 大學,係由田田二大學,係一個新興建學校。喺1987年,學校係為建校嘅設計。喺1987年,學校係為建校嘅設計,喺"
+  },
+  {
+    "index": 566,
+    "src": "His child took the first place in the exam",
+    "tgt": "佢嘅仔考到第一名喎",
+    "pred": "佢個仔先入學"
+  },
+  {
+    "index": 567,
+    "src": "A TV is off, and only snowflakes come out.",
+    "tgt": "部電視軭咗，淨係出雪花。",
+    "pred": "一TV出嚟,有雪花出嚟。"
+  },
+  {
+    "index": 568,
+    "src": "Win the hearts of your parents",
+    "tgt": "博取父母嘅歡心",
+    "pred": "贏你父母嘅心"
+  },
+  {
+    "index": 569,
+    "src": "We humans have actually looked at other places, but we may not have bothered to look for them, but after we searched, we didn't find any living things, and the earth is the only place where we know that there is life",
+    "tgt": "我哋人類其實有睇過其他地方 不過可能冇畀心機搵喇 但係我哋搵咗之後都冇發現有生物 地球係我哋知道唯一有生命嘅地方",
+    "pred": "我哋人類都係睇到其他地方 但係我哋都唔會睇到其他地方 但係我哋知有啲生活 , 但係我哋知有生活嘅場所"
+  },
+  {
+    "index": 570,
+    "src": "Sharp teeth and sharp mouth",
+    "tgt": "牙尖嘴利",
+    "pred": "尖嘴"
+  },
+  {
+    "index": 571,
+    "src": "wheels",
+    "tgt": "車轆",
+    "pred": "車"
+  },
+  {
+    "index": 572,
+    "src": "I just don't think I've seen enough.",
+    "tgt": "即係嫌自己見嘅嘢唔夠多。",
+    "pred": "我都唔知我睇得得。"
+  },
+  {
+    "index": 573,
+    "src": "Eaves snake",
+    "tgt": "簷蛇",
+    "pred": "白鼠"
+  },
+  {
+    "index": 574,
+    "src": "I take it for you.",
+    "tgt": "我將佢當成你。",
+    "pred": "我俾你嚟。"
+  },
+  {
+    "index": 575,
+    "src": "Attentive",
+    "tgt": "讕殷勤",
+    "pred": "不動"
+  },
+  {
+    "index": 576,
+    "src": "In my opinion",
+    "tgt": "計我話",
+    "pred": "我看法"
+  },
+  {
+    "index": 577,
+    "src": "There was an Abel who lost his wallet on Bauhinia South Road, Yuen Long",
+    "tgt": "有個亞伯喺元朗紫荊南路唔見左個銀包",
+    "pred": "有個阿蘭喺西沙灣西路有個阿蘭"
+  },
+  {
+    "index": 578,
+    "src": "When I was away, I asked you to look at my wife, and you actually took the opportunity to hook up with my sister-in-law!",
+    "tgt": "我唔喺度時叫你睇住我老婆，你竟然趁機會勾義嫂！",
+    "pred": "我去咗,我問你睇我個女,你真係會同我同女朋友去咗!"
+  },
+  {
+    "index": 579,
+    "src": "My brother lives in Quarry Bay",
+    "tgt": "我阿哥住喺鰂魚涌逸意居",
+    "pred": "我老師住喺沙龍灣"
+  },
+  {
+    "index": 580,
+    "src": "The man and the old dog cry for little things!",
+    "tgt": "男人老狗小小事就喊！",
+    "pred": "老仔同老仔鬧啲嘢!"
+  },
+  {
+    "index": 581,
+    "src": "Rich people know, educated people know",
+    "tgt": "有錢人知道 ， 受過教育嘅人都知道",
+    "pred": "富人知,教人知"
+  },
+  {
+    "index": 582,
+    "src": "The yeller was not reluctant, and twitched one hand away",
+    "tgt": "吼人唔垂意，將個手抽捎咗走",
+    "pred": "個頭唔好好好難,打一手"
+  },
+  {
+    "index": 583,
+    "src": "The mountain roads are rugged",
+    "tgt": "山路崎嶇",
+    "pred": "山路好深"
+  },
+  {
+    "index": 584,
+    "src": "publish",
+    "tgt": "發佈",
+    "pred": "刊"
+  },
+  {
+    "index": 585,
+    "src": "He was puffed up.",
+    "tgt": "佢充闊佬。",
+    "pred": "佢打咗咗。"
+  },
+  {
+    "index": 586,
+    "src": "I would like to know the philosophy of life of Denmark.",
+    "tgt": "我想知道丹麥人嘅生活哲學。",
+    "pred": "我會想知香港嘅歷史。"
+  },
+  {
+    "index": 587,
+    "src": "Ka, yes. Actually, that's why I feel very stuffy, actually.",
+    "tgt": "喀，係呀。其實所以我都覺得好悶𡃉其實。",
+    "pred": "係。係啊。其實我好唔好好好好好好好好。"
+  },
+  {
+    "index": 588,
+    "src": "My parents have worked hard for so many years, and now they can finally see the moon and enjoy the blessings.",
+    "tgt": "我父母辛苦咗咁多年，而家終於守得雲開見月明，可以享吓清福喇。",
+    "pred": "我媽媽媽好多年,今次佢哋會見到太陽,好鍾意祝愿。"
+  },
+  {
+    "index": 589,
+    "src": "Back in the day",
+    "tgt": "想當年",
+    "pred": "晚"
+  },
+  {
+    "index": 590,
+    "src": "I'll bet you a hundred bucks, and I'll get there first.",
+    "tgt": "我同你輸賭一百蚊，我會到嗰度先。",
+    "pred": "我俾你幾百蚊,我先去。"
+  },
+  {
+    "index": 591,
+    "src": "I want to buy a sofa, please help me with my eyes",
+    "tgt": "我想買套梳化，唔該你同我幫吓眼",
+    "pred": "我想買枱,請我幫我心"
+  },
+  {
+    "index": 592,
+    "src": "The future of studying BBA is bright.",
+    "tgt": "讀BBA前途一片光明。",
+    "pred": "學士學士嘅未來好靚。"
+  },
+  {
+    "index": 593,
+    "src": "When I explore them from above, I like to look for roads and highways that build space",
+    "tgt": "當我從高空探索佢哋 我鍾意搵建構空間嘅大馬路同高速公路",
+    "pred": "我睇到佢哋 , 我鍾意睇到車車 、 樓 、 樓 、 樓 、 樓 、 樓 、 樓 、 樓 等空間"
+  },
+  {
+    "index": 594,
+    "src": "This time, I was looking for him to be so virtuous",
+    "tgt": "呢一次係要搵佢啲咁有道行嘅先攪得嘞",
+    "pred": "呢次我諗佢咁好心"
+  },
+  {
+    "index": 595,
+    "src": "There are so many people in the pool, don't be afraid of not being able to get married.",
+    "tgt": "個池咁多人，唔使怕嫁唔出嘅。",
+    "pred": "有啲人喺場度有好多人,唔好唔好去婚。"
+  },
+  {
+    "index": 596,
+    "src": "Every day when you go to and from work, you have to go through this dark slope, don't say it's not hard.",
+    "tgt": "每日返工放工都要過呢段暗斜，都咪話唔辛苦。",
+    "pred": "你去工作,你會去做咗呢個黑洞,唔好好好。"
+  },
+  {
+    "index": 597,
+    "src": "The embryo is implanted into the uterus",
+    "tgt": "將胚胎植入子宮",
+    "pred": "個細胞被移植到頭骨"
+  },
+  {
+    "index": 598,
+    "src": "Preparation of a document",
+    "tgt": "擬一份文件",
+    "pred": "準備資料"
+  },
+  {
+    "index": 599,
+    "src": "Xiaoxiang",
+    "tgt": "瀟湘",
+    "pred": "白石"
+  },
+  {
+    "index": 600,
+    "src": "I put this experience into practice well in my personal life",
+    "tgt": "我將呢個經驗好好咁實踐喺個人生活",
+    "pred": "我喺自己生活嘅生活 我將呢個過程 做得好"
+  },
+  {
+    "index": 601,
+    "src": "Now the quadcopter is like in a viscous fluid",
+    "tgt": "依家四旋翼就好似喺粘性流體度",
+    "pred": "而家隻機係咁似一顆泥水"
+  },
+  {
+    "index": 602,
+    "src": "You can't do this porcelain.",
+    "tgt": "呢啲瓷器你唔掂得。",
+    "pred": "你唔使做呢個瓷磚。"
+  },
+  {
+    "index": 603,
+    "src": "If you want to improve, you have to listen more, do more and ask more",
+    "tgt": "如果要想進步就要多聽多做多問",
+    "pred": "你想改善,要聽得多,講更多"
+  },
+  {
+    "index": 604,
+    "src": "He then attended a briefing session with a Hong Kong business delegation",
+    "tgt": "他其後與香港商貿代表團參與簡介會",
+    "pred": "佢之後同香港企業團體會出席"
+  },
+  {
+    "index": 605,
+    "src": null,
+    "tgt": "氈",
+    "pred": "無"
+  },
+  {
+    "index": 606,
+    "src": "troublesome",
+    "tgt": "茶煲",
+    "pred": "難"
+  },
+  {
+    "index": 607,
+    "src": "Even everyone knows the fact that small businesses are the engine of economic development.",
+    "tgt": "即使每個人都知道 小型企業喺經濟發展嘅引擎 呢個事實 。",
+    "pred": "但係大家都知經濟發展嘅實力。"
+  },
+  {
+    "index": 608,
+    "src": "Take a summer job",
+    "tgt": "打暑期工",
+    "pred": "去暑期工作"
+  },
+  {
+    "index": 609,
+    "src": "Actress",
+    "tgt": "女優",
+    "pred": "女優"
+  },
+  {
+    "index": 610,
+    "src": "It is",
+    "tgt": "就係",
+    "pred": "係"
+  },
+  {
+    "index": 611,
+    "src": "We were last found in the Solomon Islands, a few kilometers away from us at the time",
+    "tgt": "我哋最後一次發現係 喺距離我哋當時幾公里嘅所羅門群島",
+    "pred": "我哋喺西亞島上喺我哋喺時候 幾公里 喺我哋"
+  },
+  {
+    "index": 612,
+    "src": "wok",
+    "tgt": "鑊",
+    "pred": "食"
+  },
+  {
+    "index": 613,
+    "src": "(Voice) (Laughter) Speaker: You have to understand that when you are grading students' homework, you have to read it quickly",
+    "tgt": "（ JAWS 發聲 ） （ 笑聲 ） 講者 ： 你要明白 ， 當你批改學生功課 您要快速咁讀",
+    "pred": "( 講話 ) ( 講話 ) 你會知道 如果學員學會學會 , 你會讀得好快啲"
+  },
+  {
+    "index": 614,
+    "src": "Sorry, I can't help you",
+    "tgt": "唔好意思，幫唔到你手",
+    "pred": "唔好,我唔使幫你"
+  },
+  {
+    "index": 615,
+    "src": "He is very quali.",
+    "tgt": "佢好高quali。",
+    "pred": "佢好好精。"
+  },
+  {
+    "index": 616,
+    "src": "I see that there are still three more hours before lunch, don't eat an egg tart to dry.",
+    "tgt": "我見仲有三個鐘先至放lunch，咪食件蛋撻晾下肚囉。",
+    "pred": "我睇到食食咗三個小時,唔食啲雞食。"
+  },
+  {
+    "index": 617,
+    "src": "This brand is my family's first choice.",
+    "tgt": "呢隻牌子係我屋企人嘅首選。",
+    "pred": "呢個品牌係我家族第一個選擇。"
+  },
+  {
+    "index": 618,
+    "src": "Climbing mountains and wading through water",
+    "tgt": "攀山涉水",
+    "pred": "走山走水"
+  },
+  {
+    "index": 619,
+    "src": "I mentioned renewable energy",
+    "tgt": "我提過可再生能源",
+    "pred": "我記得高氣"
+  },
+  {
+    "index": 620,
+    "src": "Cook the vegetables",
+    "tgt": "煮菜",
+    "pred": "烹食水"
+  },
+  {
+    "index": 621,
+    "src": "We have to go through the hardships ourselves",
+    "tgt": "我們要親身經歷艱難",
+    "pred": "我哋要去過好難嘅嘢"
+  },
+  {
+    "index": 622,
+    "src": "intimidate",
+    "tgt": "靠害",
+    "pred": "失意"
+  },
+  {
+    "index": 623,
+    "src": "Don't put it!",
+    "tgt": "捉住！唔好放啊！",
+    "pred": "唔好做呀!"
+  },
+  {
+    "index": 624,
+    "src": "Looking to the future",
+    "tgt": "展望未來",
+    "pred": "睇到未來"
+  },
+  {
+    "index": 625,
+    "src": "Who's Longmen's best friend?",
+    "tgt": "龍門最好既朋友係邊個呀？咪係龍門柱囉",
+    "pred": "個老師最啱人?"
+  },
+  {
+    "index": 626,
+    "src": "The more you talk about it, the more you go too far",
+    "tgt": "你都越講越離譜嘅",
+    "pred": "你講嘢都好多,多啲都走咗"
+  },
+  {
+    "index": 627,
+    "src": "Bring Arwen over for dinner on Saturday.",
+    "tgt": "星期六叫埋阿文嚟食飯啦。",
+    "pred": "晚上去阿伯食飯。"
+  },
+  {
+    "index": 628,
+    "src": "Don't quit your job to travel, then you put it back for a month, and then treat it as your own summer vacation.",
+    "tgt": "咪自己辭職去旅行囖，噉你放返一個月噉樣，跟住當係自己放自己暑假。",
+    "pred": "唔好唔好去旅行,再去咗一週,再去旅行,再去旅遊。"
+  },
+  {
+    "index": 629,
+    "src": "Like this photo: a busy street undergoing construction",
+    "tgt": "好似哩幅相咁 ： 一條繁忙嘅街道進行緊施工",
+    "pred": "似呢個照片 : 一個忙碌街開工"
+  },
+  {
+    "index": 630,
+    "src": "Xiao Ming is very smart and understands everything",
+    "tgt": "明仔好叻嘅，乜都識",
+    "pred": "劉伯好聰明,講都好懂"
+  },
+  {
+    "index": 631,
+    "src": "Little son, don't play!",
+    "tgt": "僆仔，咪玩嘢喎！",
+    "pred": "老仔,唔好玩!"
+  },
+  {
+    "index": 632,
+    "src": "I told you to go and see those Chinese medicine practitioners -- those -- what are you talking about? Buy some porcelain again, and talk - and talk about what Guanyin said ah, those like this, naughty, naughty, kiu3 - tell us to buy ah. Then buy those Hainan pearls, buy porcelain, buy those - naughty, those what? those medicines, make those, Chinese medicine make those medicines. Let you eat it. And what is the cure, what is the disease, what is the disease, what is the cure, what is the case, what is the case, what is the case?",
+    "tgt": "叫你去睇嗰啲中醫嗰啲-嗰啲呢，又話講乜又話講物。又買啲瓷器啊，又話-又話乜嘢觀音話乜啊嗰啲噉嘅呢，誒，誒，kiu3-叫我哋買啊。噉又買嗰啲海南珍珠吖，又買瓷器吖，又買嗰啲-誒，嗰啲乜嘢呀？嗰啲成藥啊，製成嗰啲，中醫製成嗰啲成藥。叫你啲人食啊。又話乜嘢醫乜嘢病醫乜嘢病，誒，點樣點樣噉嗰啲呢。",
+    "pred": "我問你去睇啲Chinese醫學人 -- 呢啲 -- 呢啲 -- 你哋睇到啲中國醫生嘅藥師 -- 呢啲 -- 呢啲 -- 呢啲 -- 呢啲 --"
+  },
+  {
+    "index": 633,
+    "src": "They",
+    "tgt": "佢哋",
+    "pred": "佢哋"
+  },
+  {
+    "index": 634,
+    "src": "Second-hand landlords",
+    "tgt": "包租婆",
+    "pred": "第二個人"
+  },
+  {
+    "index": 635,
+    "src": "His hair was combed.",
+    "tgt": "佢啲頭髮梳嘞𡃈噉。",
+    "pred": "佢髮骨好翹。"
+  },
+  {
+    "index": 636,
+    "src": "He helped me find a way to change careers",
+    "tgt": "佢幫我搭路轉行",
+    "pred": "佢幫我找個方法去變業"
+  },
+  {
+    "index": 637,
+    "src": "simultaneously",
+    "tgt": "一面",
+    "pred": "同時"
+  },
+  {
+    "index": 638,
+    "src": "It's easy to talk about a person who accidentally breaks his nose.",
+    "tgt": "容乜易一個唔小心仆崩咗個鼻㗎。",
+    "pred": "好容易講個人唔好講佢嘅人。"
+  },
+  {
+    "index": 639,
+    "src": "I promise you",
+    "tgt": "我應承你",
+    "pred": "我願意你"
+  },
+  {
+    "index": 640,
+    "src": "A long shot",
+    "tgt": "凍過水",
+    "pred": "一長拍"
+  },
+  {
+    "index": 641,
+    "src": "The younger brother adopted a stray dog at Tai Man Street in Chai Wan",
+    "tgt": "細佬喺柴灣泰民街收養左一隻流浪狗",
+    "pred": "老師喺荃灣街推推咗個大佬"
+  },
+  {
+    "index": 642,
+    "src": "Why are you so homogeneous!",
+    "tgt": "乜咁齊人呀！",
+    "pred": "你咁精精呀!"
+  },
+  {
+    "index": 643,
+    "src": "The police followed!",
+    "tgt": "走鬼啊！差佬嚟緊喇！",
+    "pred": "警察同警察講!"
+  },
+  {
+    "index": 644,
+    "src": "In short, I must do my best!",
+    "tgt": "總之我一定要做到最好！",
+    "pred": "啱啱,我要做最好!"
+  },
+  {
+    "index": 645,
+    "src": "I don't understand, what does that mean?",
+    "tgt": "我都唔明，咩意思？",
+    "pred": "我唔識,點解呢?"
+  },
+  {
+    "index": 646,
+    "src": "Latest",
+    "tgt": "最新",
+    "pred": "最期"
+  },
+  {
+    "index": 647,
+    "src": "Isolate the man's body smells of foxes, he really doesn't go well, and he smells like to vomit",
+    "tgt": "隔離嗰男人ㄧ身臭狐味，真係頂佢唔順，聞到想嘔",
+    "pred": "毀咗個人嘅頭髮嘅血味,真係唔好好,佢真係好好好,真係好好好,真係好好好,真係好好好,真係好好好食"
+  },
+  {
+    "index": 648,
+    "src": "Do more exercise, and the meat will not be so greasy.",
+    "tgt": "做多啲運動，啲肉至冇咁婄㗎。",
+    "pred": "做啲嘢,食唔好咁好。"
+  },
+  {
+    "index": 649,
+    "src": "Before I knew it, another three years had passed",
+    "tgt": "唔經唔覺又過咗三年",
+    "pred": "我知咗,三年就係"
+  },
+  {
+    "index": 650,
+    "src": "He said his name was a high school graduate",
+    "tgt": "佢話名係中學畢業",
+    "pred": "佢話佢係學校教師"
+  },
+  {
+    "index": 651,
+    "src": "As Easter approaches, kindergartens like to teach students to work with Easter eggs.",
+    "tgt": "臨近復活節，幼稚園最鍾意教學生整復活蛋做勞作。",
+    "pred": "如臘月開始,學校好鍾意教學生做臘肉。"
+  },
+  {
+    "index": 652,
+    "src": "Male and female chorus",
+    "tgt": "男女合唱",
+    "pred": "女同女"
+  },
+  {
+    "index": 653,
+    "src": "This customer wants to return the goods, can you help him?",
+    "tgt": "呢位顧客想退貨，你可唔可以幫下佢？",
+    "pred": "呢個客戶想返價錢,可以幫佢呀?"
+  },
+  {
+    "index": 654,
+    "src": "In any case, he was asked to put down three thousand dollars",
+    "tgt": "幾大都要佢放低三千蚊",
+    "pred": "呢個情況 佢問咗三百蚊"
+  },
+  {
+    "index": 655,
+    "src": "Haven't seen it?",
+    "tgt": "未見過？",
+    "pred": "唔見到啊?"
+  },
+  {
+    "index": 656,
+    "src": "This crime was given to me by you, and I have not done it.",
+    "tgt": "呢個罪名係你哋安畀我嘅，我冇做過。",
+    "pred": "呢個犯罪畀我畀我,我唔係做。"
+  },
+  {
+    "index": 657,
+    "src": "I'm going fishing with you.",
+    "tgt": "我同埋你一齊去釣魚。",
+    "pred": "我同你去釣。"
+  },
+  {
+    "index": 658,
+    "src": "Today they cut a roast pig to celebrate the opening of the new mall.",
+    "tgt": "今日佢哋切燒豬嚟慶祝新商場開幕。",
+    "pred": "今日佢哋打咗啲茶仔,祝新市場開門。"
+  },
+  {
+    "index": 659,
+    "src": "This shop is a neighborhood business.",
+    "tgt": "呢間士多係做街坊生意。",
+    "pred": "呢間店係街業嘅。"
+  },
+  {
+    "index": 660,
+    "src": "But if you ask me if it's expensive? I said expensive.",
+    "tgt": "噉但係一隻你問我貴唔貴呢？我話貴。",
+    "pred": "但係你問我唔係錢?我話唔好。"
+  },
+  {
+    "index": 661,
+    "src": "His name is C-A-R-R-I-E Naughty.",
+    "tgt": "佢叫C-A-R-R-I-E𡃉喎。",
+    "pred": "佢個字係C-A-R-R-I-E好翹。"
+  },
+  {
+    "index": 662,
+    "src": "If you force me again, we'll break up!",
+    "tgt": "你再逼我嘅話，我哋就一拍兩散！",
+    "pred": "你將我嚟,我會打咗!"
+  },
+  {
+    "index": 663,
+    "src": "Time is very peugeot",
+    "tgt": "時間好弗",
+    "pred": "時間好大車"
+  },
+  {
+    "index": 664,
+    "src": "You're really sorry to blow the steering wheel before you get to the top of the mountain.",
+    "tgt": "你真係虧，未上到山頂就爆軚。",
+    "pred": "你真係唔好好好難打車車。"
+  },
+  {
+    "index": 665,
+    "src": "My early canvases were things you didn't expect, like frying food as a canvas",
+    "tgt": "我早期嘅畫布都係啲你諗唔到嘅嘢 就好似用煎炸食物做畫布咁",
+    "pred": "我早啲嘅文章係嘢你唔鍾意,似食嘢咁樣"
+  },
+  {
+    "index": 666,
+    "src": "I like girls who are a little shorter.",
+    "tgt": "我鍾意身材矮細啲嘅女仔。",
+    "pred": "我鍾意女仔咁細。"
+  },
+  {
+    "index": 667,
+    "src": "Campaign funding",
+    "tgt": "競選經費",
+    "pred": "戰場資金"
+  },
+  {
+    "index": 668,
+    "src": "What was the number of that draw?",
+    "tgt": "嗰次攪珠號碼係乜啊？",
+    "pred": "呢個展覽係咩數?"
+  },
+  {
+    "index": 669,
+    "src": "geezer",
+    "tgt": "老鬼",
+    "pred": "鼓手"
+  },
+  {
+    "index": 670,
+    "src": "I confessed to him, waiting for his good news.",
+    "tgt": "我同佢表白咗啦，等緊佢嘅佳音。",
+    "pred": "我問佢,睇到佢好消息。"
+  },
+  {
+    "index": 671,
+    "src": "It's cold this morning, so put on an extra layer of clothing!",
+    "tgt": "今朝冷，著多一件衫啦！",
+    "pred": "今次好冷,把啲衣服嚟嚟啲衫!"
+  },
+  {
+    "index": 672,
+    "src": "You just had a dental sacrifice at the hotel, no wonder you're sick now.",
+    "tgt": "你頭先喺酒店打牙祭，唔怪得而家病咗。",
+    "pred": "你喺酒店有啲醫療養,唔好怪你今次食咗。"
+  },
+  {
+    "index": 673,
+    "src": "Bottom tone",
+    "tgt": "音底",
+    "pred": "尾聲"
+  },
+  {
+    "index": 674,
+    "src": "Ronghua sausage, appreciated by every family!",
+    "tgt": "榮華臘腸，家家讚賞！",
+    "pred": "石榴餅,好鍾意每個人嘅家庭!"
+  },
+  {
+    "index": 675,
+    "src": "Eat a handful of water",
+    "tgt": "食住條水",
+    "pred": "食手水"
+  },
+  {
+    "index": 676,
+    "src": "Eliminate diesel taxis",
+    "tgt": "淘汰柴油的士",
+    "pred": "取消汽車車"
+  },
+  {
+    "index": 677,
+    "src": "Thank you (applause.)",
+    "tgt": "多謝 （ 掌聲 ）",
+    "pred": "謝你 ( 笑聲 )"
+  },
+  {
+    "index": 678,
+    "src": "However, after a while, Picard began to wonder \"Did we wronged Qurifus?\"",
+    "tgt": "不過 ， 過咗一段時間 ， 皮卡爾開始懷疑 「 我哋係唔係冤枉咗屈里弗斯 ？ 」",
+    "pred": "但係 , 我哋喺時 , 我哋開始諗 : 我哋唔係唔係唔係唔係唔係唔係唔係唔係唔係錯過 ?"
+  },
+  {
+    "index": 679,
+    "src": "Have you ever tried to ride a car to sleep next to the opposite sex who doesn't understand?",
+    "tgt": "有冇試過搭車俾唔識既異性挨住瞓",
+    "pred": "你無想搭車去睇到兩個女仔去睇到佢哋唔知?"
+  },
+  {
+    "index": 680,
+    "src": "Money Turtle",
+    "tgt": "金錢龜",
+    "pred": "錢魚"
+  },
+  {
+    "index": 681,
+    "src": "Eat three servings a day",
+    "tgt": "每日食三份菜",
+    "pred": "食三個餐"
+  },
+  {
+    "index": 682,
+    "src": "You're insane!",
+    "tgt": "你痴線嘅！",
+    "pred": "你好惡啊!"
+  },
+  {
+    "index": 683,
+    "src": "An umbrella",
+    "tgt": "擔遮",
+    "pred": "一扇"
+  },
+  {
+    "index": 684,
+    "src": "Is it okay not to go?",
+    "tgt": "可唔可以唔去？",
+    "pred": "唔好去啊?"
+  },
+  {
+    "index": 685,
+    "src": "Up a creek without a paddle",
+    "tgt": "大鑊",
+    "pred": "冇腳腳"
+  },
+  {
+    "index": 686,
+    "src": "When the class was transferred, they were talking about the teacher's bad words.",
+    "tgt": "轉堂嘅時候，佢哋喺度高談闊論緊老師嘅壞話。",
+    "pred": "學校喺度返咗,佢哋講咗教師嘅好句。"
+  },
+  {
+    "index": 687,
+    "src": "This guy is too proud.",
+    "tgt": "條友牙擦得滯。",
+    "pred": "呢個人好好勁。"
+  },
+  {
+    "index": 688,
+    "src": "He's sat here and teased him.",
+    "tgt": "佢成朝坐咗喺度吽吽逗逗咁款。",
+    "pred": "佢喺度喺度打咗佢。"
+  },
+  {
+    "index": 689,
+    "src": "The student said that he knew that Pak Fai Road was in Yuen Long, but he did not know if there was a minibus passing there",
+    "tgt": "學生話佢知百花路係喺元朗，但係唔知有冇小巴經嗰度",
+    "pred": "學生話佢知大埔路係喺大埔,但係唔知有個車車返"
+  },
+  {
+    "index": 690,
+    "src": "There was an Abel who lost his wallet at Bamboo Tao Trail in Yuen Long",
+    "tgt": "有個亞伯喺元朗竹桃徑唔見左個銀包",
+    "pred": "有個阿蘭喺沙田灣路有個阿蘭"
+  },
+  {
+    "index": 691,
+    "src": "Would you really do that?",
+    "tgt": "唔通你真係會咁做喎？",
+    "pred": "你真係做嘢啊?"
+  },
+  {
+    "index": 692,
+    "src": "It's always up to me to watch over and help",
+    "tgt": "總係由我嚟守護同幫助",
+    "pred": "我都係好忙我睇到,幫助"
+  },
+  {
+    "index": 693,
+    "src": "Usual",
+    "tgt": "如常",
+    "pred": "無法"
+  },
+  {
+    "index": 694,
+    "src": "Kill and eat",
+    "tgt": "殺食",
+    "pred": "食食"
+  },
+  {
+    "index": 695,
+    "src": "River of Fish Balls",
+    "tgt": "魚蛋河",
+    "pred": "魚球"
+  },
+  {
+    "index": 696,
+    "src": "Middle-class people",
+    "tgt": "中中哋",
+    "pred": "大層人"
+  },
+  {
+    "index": 697,
+    "src": "Twill fleece",
+    "tgt": "斜紋絨",
+    "pred": "皮皮"
+  },
+  {
+    "index": 698,
+    "src": "Panic fish",
+    "tgt": "失魂魚",
+    "pred": "凍魚"
+  },
+  {
+    "index": 699,
+    "src": "In 1908, over Siberia near the Tunguska region -- for Dan Aykroyd's supporters who also watched \"Ghost Hunting\" -- when Dan Aykroyd spoke of the biggest cross-dimensional rift since the 1909 Siberian bombing -- he said the wrong date, but it didn't affect (laughs).",
+    "tgt": "喺 1908 年 ， 西伯利亞上空 近通古斯卡地區 — — 對於係丹 ． 艾克羅伊德支持者 同時睇過 《 捉鬼特工隊 》 嘅人來講 當丹 ． 艾克羅伊德講到 1909 年西伯利亞爆炸以來 最大嘅交叉維度裂縫 — — 佢講錯咗日期 ， 不過冇影響 （ 笑 ）",
+    "pred": "1908年 , 喺香港地區 , 因為鄧克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克克"
+  },
+  {
+    "index": 700,
+    "src": "Wooden plush toys are not allowed to move, laugh, or croak",
+    "tgt": "木頭公仔唔准郁，唔准笑，唔准呱呱叫",
+    "pred": "木仔仔唔好要打,笑,唔好打,打笑,打笑"
+  },
+  {
+    "index": 701,
+    "src": "State bonds",
+    "tgt": "國家債券",
+    "pred": "政府債"
+  },
+  {
+    "index": 702,
+    "src": "convenient",
+    "tgt": "便",
+    "pred": "方便"
+  },
+  {
+    "index": 703,
+    "src": "The boss said to increase my salary next month",
+    "tgt": "老闆話下個月加我人工",
+    "pred": "個老板話我明年嘅錢"
+  },
+  {
+    "index": 704,
+    "src": "I don't have the money to go to a high-end Western restaurant, so I can only stay at home and prepare a civilian version of a candlelight dinner.",
+    "tgt": "冇錢去高級西餐廳，唯有留喺屋企準備平民版嘅燭光晚餐啦。",
+    "pred": "我唔好錢去過大西洋酒店,所以我可以去屋企做個大燈宴。"
+  },
+  {
+    "index": 705,
+    "src": "head",
+    "tgt": "頭",
+    "pred": "頭"
+  },
+  {
+    "index": 706,
+    "src": "Yes, Eliza straight straight straight way, tired, very important, not mentally winning. I think it's a bit tiring to go to camp.",
+    "tgt": "係啊，Eliza直程直程呢，攰到呢，好緊要好緊要，冇精神噉囖。我諗係去camp令到係會攰啲𡃉。",
+    "pred": "係,阿阿直直直,好重要,唔係精神力打。我覺得好難去打工。"
+  },
+  {
+    "index": 707,
+    "src": "Png Eng Huat (born 9 December 1961) is a Singapore-born Workers' Party (PKK) politician, businessman, and of Quanzhang descent. On 26 May 2012, he became a Member of Parliament for Singapore, representing the Hougang Single Constituency.",
+    "tgt": "方榮發（Png Eng Huat，1961年12月9日—）係星加坡工人黨政治人物、商人，泉漳裔。2012年5月26號開始，成為星加坡國會議員，代表後港單選區。",
+    "pred": "石林(1961年9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月9月"
+  },
+  {
+    "index": 708,
+    "src": "Whoa",
+    "tgt": "嗍",
+    "pred": "邊個"
+  },
+  {
+    "index": 709,
+    "src": "The results are very close, and the difference between the lowest and highest is only a few points.",
+    "tgt": "大家成績好接近，最低同最高都係差幾分啫。",
+    "pred": "結果好緊,最長嘅差差都係幾多。"
+  },
+  {
+    "index": 710,
+    "src": "Wow",
+    "tgt": "譁",
+    "pred": "嘩"
+  },
+  {
+    "index": 711,
+    "src": "Roller coaster carousel",
+    "tgt": "過山車 迴旋木馬",
+    "pred": "車車車"
+  },
+  {
+    "index": 712,
+    "src": "The black dog steals the food, and the white dog is the disaster",
+    "tgt": "黑狗偷食，白狗當災",
+    "pred": "黑狗撈食嘢,白狗係災"
+  },
+  {
+    "index": 713,
+    "src": "He doesn't like to eat fish, he is afraid of getting stuck in the bones.",
+    "tgt": "佢唔鍾意食魚，怕鯁魚骨。",
+    "pred": "佢唔鍾意食魚,唔好好鍾意食魚。"
+  },
+  {
+    "index": 714,
+    "src": "Openness",
+    "tgt": "開揚",
+    "pred": "開心"
+  },
+  {
+    "index": 715,
+    "src": "I don't roar",
+    "tgt": "我唔吼斗",
+    "pred": "我唔好食"
+  },
+  {
+    "index": 716,
+    "src": "Hong Kong should continue to enhance its competitiveness.",
+    "tgt": "香港應該不斷增強競爭力。",
+    "pred": "香港應該繼續提升國際競爭。"
+  },
+  {
+    "index": 717,
+    "src": "Sending a film to the police will be pulled by the ICAC",
+    "tgt": "向差佬派片會俾廉署拉㗎",
+    "pred": "送咗個電影畀警察畀警察嘅電影"
+  },
+  {
+    "index": 718,
+    "src": "This is my argument about capitalism",
+    "tgt": "呢個就係我對資本主義嘅爭論",
+    "pred": "呢個係我嘅意見 我嘅意見"
+  },
+  {
+    "index": 719,
+    "src": "Inherit the family business",
+    "tgt": "繼承家業",
+    "pred": "推動家庭業"
+  },
+  {
+    "index": 720,
+    "src": "Don't wear a face or face for what you are.",
+    "tgt": "你咩身份咪戴咩頭面囉。",
+    "pred": "唔好穿臉,臉唔好。"
+  },
+  {
+    "index": 721,
+    "src": "In fact, the sexual expression we are moving towards again may be the same as we saw in the African savannah a million years ago, because it is the same sexual expression that we can see today in hunter-gatherer societies",
+    "tgt": "而事實上 ， 我地再次邁向嘅性表現 可能就好似我地一百萬年前喺非洲嘅草原見過嘅 因為呢種性表現就好似我哋 今日喺狩獵同採集性嘅社會裡面可以睇看到嘅",
+    "pred": "其實 , 我哋喺美國嘅大西洋 嘅 sexual expression 係 因為我哋喺香港嘅漁民嘅社會生活 係一個同佢哋喺個漁民嘅社會生活 係一個同佢哋喺"
+  },
+  {
+    "index": 722,
+    "src": "It turns out that we are depleting natural resources worth between $2 and $4 trillion at an alarming rate",
+    "tgt": "原來我哋以驚人嘅速度消耗嘅自然資源 價值高達 2 至 4 萬億美元",
+    "pred": "就係我哋喺一個警惕嘅經濟資源 喺一個警惕嘅價值 喺一個警惕嘅價值"
+  },
+  {
+    "index": 723,
+    "src": "You're pretty good!",
+    "tgt": "你都幾得噃！",
+    "pred": "你好好呀!"
+  },
+  {
+    "index": 724,
+    "src": "Pull people to seal the boat",
+    "tgt": "拉人封艇",
+    "pred": "打人喺車"
+  },
+  {
+    "index": 725,
+    "src": "Welcome to visit.",
+    "tgt": "歡迎參觀。",
+    "pred": "請大家去訪。"
+  },
+  {
+    "index": 726,
+    "src": "Culture will be wiped out completely",
+    "tgt": "文化將會全面被消滅",
+    "pred": "文化會將會放棄"
+  },
+  {
+    "index": 727,
+    "src": "The surface dish gets its name from the glass that looks like a pocket watch. In English, it is sometimes referred to as a large kind of surface vessel as a clock face vessel.",
+    "tgt": "錶面皿得名自個樣似懷錶塊玻璃。英語有時會稱大種嘅錶面皿做鍾面皿。",
+    "pred": "面菜喺玻璃嘅玻璃見到嘅名稱,係係一個紙機嘅機。"
+  },
+  {
+    "index": 728,
+    "src": "That's right. Is it just like this year? Or is it every year?",
+    "tgt": "係喇。係唔係就係好似今年嘅情況會即係咁犀利呢？定係年年都係噉？我就唔知嚹。",
+    "pred": "係係。今次係係係咁呢?或者係一年啊?"
+  },
+  {
+    "index": 729,
+    "src": "I want to learn Hong Kong Sign Language.",
+    "tgt": "我想學香港手語。",
+    "pred": "我想教香港語語語語。"
+  },
+  {
+    "index": 730,
+    "src": "The Dragon Among Men 6 Psalms of Life.",
+    "tgt": "人中之龍6生命詩篇。",
+    "pred": "老師八個字。"
+  },
+  {
+    "index": 731,
+    "src": "Once again, it was plunged into darkness",
+    "tgt": "再一次陷入黑暗之中",
+    "pred": "之後就喺暗氣"
+  },
+  {
+    "index": 732,
+    "src": "Could it be a hardware issue?",
+    "tgt": "會唔會係硬件嘅問題呢？",
+    "pred": "有冇機器問題?"
+  },
+  {
+    "index": 733,
+    "src": "A broom is placed in the corner",
+    "tgt": "掃把放喺角落頭度",
+    "pred": "一條扇屋企喺角"
+  },
+  {
+    "index": 734,
+    "src": "Then you eat two more cups of puree",
+    "tgt": "然後你又把兩杯的果茸吃了",
+    "pred": "而家你食兩個杯水"
+  },
+  {
+    "index": 735,
+    "src": "Hey, what did you say just now, you don't want to teach your school, why?",
+    "tgt": "喂，頭先呢你話乜嘢啊，唔想教呀你間學校，點解啊？",
+    "pred": "嘩,你今次講乜嘢,你唔想學學校,點解?"
+  },
+  {
+    "index": 736,
+    "src": "Out of the liars",
+    "tgt": "出老千",
+    "pred": "喺頭頭"
+  },
+  {
+    "index": 737,
+    "src": "What's this student's name?",
+    "tgt": "呢位同學叫咩名呀?",
+    "pred": "呢個學生嘅姓名係乜嘢?"
+  },
+  {
+    "index": 738,
+    "src": "But it's clear that we don't know what causes desertification, but it's the same thing, which destroys a lot of civilizations and threatens the whole world",
+    "tgt": "但好明顯係我哋唔知道乜嘢導致荒漠化 但就係依樣嘢毀滅咗好多文明 而且威脅緊全球",
+    "pred": "但係我哋唔知 , 但係係 我哋唔知 , 因為我哋唔知 , 因為我哋唔知 , 因為我哋唔知 , 因為我哋唔知"
+  },
+  {
+    "index": 739,
+    "src": "Take it cheap",
+    "tgt": "攞嚟賤",
+    "pred": "打得便宜"
+  },
+  {
+    "index": 740,
+    "src": "No. I think in Hong Kong, the business environment, the industrial environment, is different from before. First, many things on the mainland are now being moved to the mainland. Second, what about manufacturing, in particular. In the past, in fact, it absorbed the most laborers. It's manufacturing at all. Now the government has those foreign laborers, isn't it first? In this way, a lot of manufacturing industries have moved to the mainland. In this way, it is necessary to make this manufacturing industry fundamentally good, good, good is that the position is rarely won. Vacancies rarely win. And what about those people in Hong Kong, those employers at all, there is so much competition now. The products he makes are so competitive. Aren't they just not affordable to hire a Hong Kong worker at such a wage? I think that's the main reason. But it's impossible for a worker in Hong Kong to accept such a low wage for a part-time job. Because why? Hong Kong's living index is so high. If you are given 8,000 yuan a month for a worker, it is already very tense and naughty. But what about foreign workers? Three or four thousand yuan a month, isn't it first?",
+    "tgt": "唔係。我覺得喺香港呢，嗰個-嗰個商業啊、工業嗰個環境呢，同以前唔同咗啊。第一，而家大陸好多嘢都搬上喺大陸做。第二，特別係製造業呢。以前呢，其實吸納最多嘅-嘅嘅勞工。根本就係製造業吖嗎。噉而家政府又有嗰啲乜嘢外地勞工啊，係唔係先？噉呢，製造業呢又好多呢搬咗上大陸喎。噉呢，就做成呢製造業根本人手好，好，好即係嘅職位係好少囖。空缺好少囖。而且呢香港嗰啲人呢，根本嗰啲僱主，而家競爭咁大。佢製造出來嘅產品咁咁競爭咁大。噉佢哋係唔係即係afford唔起噉嘅人工去請一個香港嘅工人囖。哩個我覺得係主要原因囖。但係香港嘅工人呢又冇可能接受你一份咁低嘅人工去打哩份工喎。因為點解？香港生活指數咁高。俾你一個月一個工人八千蚊都已經好繃繃緊𡃉嚹。但係你諗下外勞呢。三、四千蚊一個月咋喎，係唔係先？",
+    "pred": "唔係。我覺得喺香港嘅經濟環境,經濟環境,經濟環境,經濟環境,經濟環境,係好,好,好,好,好,好,好,好,好,好,好,好,好"
+  },
+  {
+    "index": 741,
+    "src": "Suppose one day",
+    "tgt": "假如有一日",
+    "pred": "一晚"
+  },
+  {
+    "index": 742,
+    "src": "One phoenix on the first floor",
+    "tgt": "一樓一鳳",
+    "pred": "一門仔"
+  },
+  {
+    "index": 743,
+    "src": "Saido",
+    "tgt": "齋堂",
+    "pred": "清"
+  },
+  {
+    "index": 744,
+    "src": "This 1,000 dollar bill is fake!",
+    "tgt": "呢張一千蚊紙假㗎！",
+    "pred": "呢個百億稅係唔錯!"
+  },
+  {
+    "index": 745,
+    "src": "Is sake better or double steamed, do you think?",
+    "tgt": "清酒好飲定雙蒸好飲啊你覺得？",
+    "pred": "有冇好咁多,你諗呀?"
+  },
+  {
+    "index": 746,
+    "src": "A parliamentarian who asks for the people's lives",
+    "tgt": "為民請命嘅議員",
+    "pred": "個黨人問人嘅生活"
+  },
+  {
+    "index": 747,
+    "src": "Ban Xiao hooligan dog bites dog bones, what does he do?",
+    "tgt": "班爛仔狗咬狗骨，理佢嚟做乜？",
+    "pred": "劉阿爺狗血血,乜嘢做?"
+  },
+  {
+    "index": 748,
+    "src": "disturb",
+    "tgt": "阻",
+    "pred": "擾"
+  },
+  {
+    "index": 749,
+    "src": "You can really eat, you eat so much sushi alone!",
+    "tgt": "你真係好大食㗎，你一個人食咁多壽司！",
+    "pred": "你好食,你食咁多食呀!"
+  },
+  {
+    "index": 750,
+    "src": "Anyway, I won't be back tomorrow night, naughty.\"",
+    "tgt": "總之就聽晚就唔返啦～」",
+    "pred": "所以,我明天夜晚唔到,<0xD0>。"
+  },
+  {
+    "index": 751,
+    "src": "One year of original factory warranty",
+    "tgt": "一年原廠保養",
+    "pred": "舊廠保證"
+  },
+  {
+    "index": 752,
+    "src": "He's a good guy",
+    "tgt": "佢正一係好人",
+    "pred": "佢好人"
+  },
+  {
+    "index": 753,
+    "src": "The silver award seems to be Aaron Kwok. Is the bronze award this Zhou Huajian?",
+    "tgt": "銀獎好似係郭富城啊。銅獎係哩個周華健吖嗎。",
+    "pred": "銀獎係阿伯伯。係呢個紅獎呢個阿伯。"
+  },
+  {
+    "index": 754,
+    "src": "Tencent.com, 200 million.",
+    "tgt": "騰訊網 ， 2 億 。",
+    "pred": "百萬。com,200萬。"
+  },
+  {
+    "index": 755,
+    "src": "Stations",
+    "tgt": "監測站",
+    "pred": "站"
+  },
+  {
+    "index": 756,
+    "src": "Consider pacing",
+    "tgt": "可考慮踱步",
+    "pred": "認為同心"
+  },
+  {
+    "index": 757,
+    "src": "He has billions of crevices, and these crevices and nanoparticles lock up air molecules, so that the surface is covered with air",
+    "tgt": "佢有幾十億個罅隙 而哩啲罅隙同納米粒子鎖住空氣分子 令到表面覆蓋著空氣",
+    "pred": "佢有幾億蚊,呢啲蚊子都係水嘅,而家係水嘅"
+  },
+  {
+    "index": 758,
+    "src": "Large table",
+    "tgt": "大枱",
+    "pred": "大枱"
+  },
+  {
+    "index": 759,
+    "src": "Konjac",
+    "tgt": "曀",
+    "pred": "<0xD0>"
+  },
+  {
+    "index": 760,
+    "src": "If you can't even afford to live in a coffin room, is there anything else you can do?",
+    "tgt": "如果連棺材房都住唔起，仲有冇咩辦法？",
+    "pred": "你唔好去個泥樓,有乜嘢都唔係做啊?"
+  },
+  {
+    "index": 761,
+    "src": "It is rumored that this beauty pageant is a horse maker.",
+    "tgt": "傳聞呢次選美造馬。",
+    "pred": "呢個美麗嘅造型係個馬仔。"
+  },
+  {
+    "index": 762,
+    "src": "thief",
+    "tgt": "賊仔",
+    "pred": "賊"
+  },
+  {
+    "index": 763,
+    "src": "alliance",
+    "tgt": "盟",
+    "pred": "聯盟"
+  },
+  {
+    "index": 764,
+    "src": "Blindfolded",
+    "tgt": "眼矇矇",
+    "pred": "暗眼"
+  },
+  {
+    "index": 765,
+    "src": "Konjac",
+    "tgt": "腍",
+    "pred": "<0xD0>"
+  },
+  {
+    "index": 766,
+    "src": "One-size-fits-all",
+    "tgt": "一刀切",
+    "pred": "一身-一身"
+  },
+  {
+    "index": 767,
+    "src": "Off the hook",
+    "tgt": "甩身",
+    "pred": "落頭"
+  },
+  {
+    "index": 768,
+    "src": "They are twins, good dudes",
+    "tgt": "佢兩個孖公仔噉，好老友㗎",
+    "pred": "佢哋係兩隻,好朋友"
+  },
+  {
+    "index": 769,
+    "src": "It's probably because I haven't seen money or someone has stifled it, so it's better to talk about it.",
+    "tgt": "即係可能因為唔見過錢或者俾人扼過錢喇，不如講講哩個經過喇。",
+    "pred": "其實我唔見錢都唔見到,所以好好講。"
+  },
+  {
+    "index": 770,
+    "src": "inadequate",
+    "tgt": "未夠",
+    "pred": "不適"
+  },
+  {
+    "index": 771,
+    "src": "Li Yu (740s?) - April 10, 820), a prince of the Tang Dynasty, was the fifth child of Li Yu of the Tang Dynasty. The history books don't write down who the is.",
+    "tgt": "李逾（740年代?—820年4月10日），唐朝皇子，係唐代宗李豫嘅第五個仔。歷史書無寫低佢阿媽係邊個。",
+    "pred": "劉(740 )-年10月10號,係劉英國嘅女師,係劉英國嘅女師。歷史書唔記得佢哋。"
+  },
+  {
+    "index": 772,
+    "src": "Insignificant",
+    "tgt": "無關痛癢",
+    "pred": "有數"
+  },
+  {
+    "index": 773,
+    "src": "I'm chatting with my friends.",
+    "tgt": "我同朋友傾緊偈呀。",
+    "pred": "我同朋友聊。"
+  },
+  {
+    "index": 774,
+    "src": "They're amazing because they produce a lot of these fluorescent proteins, fluorescent molecules",
+    "tgt": "佢哋之所以不可思議係因為 佢哋產生好多 呢啲熒光蛋白質 、 熒光分子",
+    "pred": "佢哋好鍾意 因為佢哋產生咗好多光蛋白 、 光蛋白分子"
+  },
+  {
+    "index": 775,
+    "src": "envelope",
+    "tgt": "封",
+    "pred": "腳"
+  },
+  {
+    "index": 776,
+    "src": "So, let's go back to the subway station and after the design of Diet Coke came out, they made a poster",
+    "tgt": "咁 ， 我哋再返返去地鐵站 健怡可樂嘅設計出嚟之後 佢哋做咗海報",
+    "pred": "所以,我哋去鐵路站 , 就喺鐵路嘅設計嘅設計 , 佢哋喺個照片 , 佢哋喺個照片"
+  },
+  {
+    "index": 777,
+    "src": "Boiled pork liver",
+    "tgt": "烚豬潲",
+    "pred": "瀝水"
+  },
+  {
+    "index": 778,
+    "src": "Are the two of them right, key?",
+    "tgt": "佢哋兩個啱唔啱key啊？",
+    "pred": "佢哋兩個係,鍵?"
+  },
+  {
+    "index": 779,
+    "src": "The road ahead has been closed, so motorists are asked to use alternative routes.",
+    "tgt": "前面有封路，請駕駛人士使用其他替代路綫。",
+    "pred": "前路停咗,所以車企會問用 alternative路線。"
+  },
+  {
+    "index": 780,
+    "src": "None of them went.",
+    "tgt": "佢哋都唔去。",
+    "pred": "佢哋冇人去。"
+  },
+  {
+    "index": 781,
+    "src": "treasury",
+    "tgt": "財政部",
+    "pred": "公仔"
+  },
+  {
+    "index": 782,
+    "src": "First of all, let's talk about -, that story, that is, the story of \"Kong Rong Makes Pears\", many people have actually heard it, the oldest \"Kong Rong Makes Pears\". In fact, later some people reversed it, and there was a new story of \"Kong Rong Makes Pears\". Oh like this, the old one is saying, naughty, Kong Rong, naughty, why let a big pear give a big brother, and ask for a small pear yourself, so show them, it's very filial, isn't it. Is it to respect my brother like this, that is, adults eat big, and villains eat small, like this? That's it, but, later, someone was added by him and made it up. Actually, Kong Rong, took a small pear, just said, Kong Rong, after taking away a small pear, in fact, here, so happy to snicker here, why snickering? He said everywhere that he was listened to, and it turned out that a big pear was wormy, so he specialized in it, looking for his brother and him to make a big rotten pear, and he ate it himself, although he ate a small one, there were no worms. So this, the new story of \"Kong Rong Makes Pears\" is here.",
+    "tgt": "首先講個-，嗰個古仔呢，就係講《孔融讓梨》嗰個古仔來嘅，好多人呢其實都聽過嗰陣時，最古老嗰個《孔融讓梨》。其實，後來呢有啲人將佢反轉過來嘞，就有個新嘅《孔融讓梨》古仔。噉喎，舊嗰個呢就係話呢，誒，孔融，誒，點解要讓個大梨俾個大哥，自己𠻺要個細梨呢，噉啊表現佢哋呢，就好有孝心，係唔係呢。係唔係尊重哥哥噉樣樣呢，即係大人就食大個，細人就食細個，噉樣樣呢。噉，但係呢，後來呢，有人呢，俾佢加咗新編落去啊。其實呢，孔融呢，拎咗個細-，就話呢，孔融呢，拎走咗個細梨之後呢，其實喺度，好開心喺度偷笑啊，點解偷笑呢？佢周圍話俾人聽，原來個大梨係生蟲嘅，所以呢，佢就專登呢，揾佢大佬同佢鯁咗個大嗰個爛梨佢嘞，佢自己吖，雖然食個細啲呢，就冇生蟲。所以哩個呢，就《孔融讓梨》嗰個新編古仔來𡃉嘞。",
+    "pred": "第一個,我哋講-,呢個故事,係呢個話,係呢個話,係呢個話,係呢個話,係呢個話,係呢個話,係呢個話,係呢"
+  },
+  {
+    "index": 783,
+    "src": "This round is fine",
+    "tgt": "呢輪就好囉",
+    "pred": "呢個圓盤好好"
+  },
+  {
+    "index": 784,
+    "src": "At the police press conference, Jiang Yongxiang was convinced",
+    "tgt": "警方記者會時江永祥支吾以對",
+    "pred": "警察記者會上 , 劉伯仔認為"
+  },
+  {
+    "index": 785,
+    "src": "Familiarize yourself with the new environment",
+    "tgt": "熟習新環境",
+    "pred": "同新環境同你"
+  },
+  {
+    "index": 786,
+    "src": "In a moment, I realized the power of paper and paste",
+    "tgt": "響一刻令我意識到 紙張同漿糊嘅力量",
+    "pred": "喺一時間 , 我發現紙嘅力量"
+  },
+  {
+    "index": 787,
+    "src": "I did something wrong",
+    "tgt": "我做撚錯咗啲乜",
+    "pred": "我冇嘢咁"
+  },
+  {
+    "index": 788,
+    "src": "Everyone should put the sticker of the travel agency on their body.",
+    "tgt": "大家要將旅行社嘅標貼貼喺身上。",
+    "pred": "每個人會用旅行公司嘅紙袋。"
+  },
+  {
+    "index": 789,
+    "src": "In this way, naughty, is naughty. It's me, and now technology is so advanced.",
+    "tgt": "噉，誒，係囖。即係我，而家即係科技咁發達喇。",
+    "pred": "<0xD0>,<0xD0>,<0xD0>,係<0xD0>。係我,今次技術咁強。"
+  },
+  {
+    "index": 790,
+    "src": "However, it costs 1,400 yuan to buy it in Hong Kong.",
+    "tgt": "噉但係呢，就喺香港買就需要係一千四百蚊。",
+    "pred": "但係,香港賣咗幾百蚊。"
+  },
+  {
+    "index": 791,
+    "src": "The man stood on the roof for more than a clock.",
+    "tgt": "男子危站天台逾句鐘。",
+    "pred": "個人喺牆上一陣。"
+  },
+  {
+    "index": 792,
+    "src": "They crouched and waited for the referee to give the order to start.",
+    "tgt": "佢哋踎低等裁判員發令起跑。",
+    "pred": "佢哋打咗手,請問記者講定。"
+  },
+  {
+    "index": 793,
+    "src": "Wow, last time, it was amazing, the lottery was very important, there were forty-seven people who went to apply this MayWing.",
+    "tgt": "幾多位呀？嘩上次犀利嚹，抽簽啊幾緊要啊，有四十七個人去哩個apply哩個MayWing啊。",
+    "pred": "嘩,今次呢個賭場好重要,有幾多人去辦法呢個月月。"
+  },
+  {
+    "index": 794,
+    "src": "And then...",
+    "tgt": "跟住呢就…",
+    "pred": "而家..."
+  },
+  {
+    "index": 795,
+    "src": "When it's cold, I wash my body every day.",
+    "tgt": "天冷我都日日洗身。",
+    "pred": "晚啲,我洗咗腳。"
+  },
+  {
+    "index": 796,
+    "src": "I think it takes about time for these trees to convert the radioactive carbon dioxide absorbed by photosynthesis into sugar, which is then sent to the roots of the trees and then passed on to the quarantine tree",
+    "tgt": "我諗啲樹需要咁上下時間 透過光合作用吸收啲 放射性嘅二氧化碳 轉換成糖 ， 然後送到樹根 然後傳畀隔離棵樹",
+    "pred": "我覺得呢啲花園可以用時 將啲水光吸收 喺光纖體嘅水體 就會喺水面 再到到 到到流動植物"
+  },
+  {
+    "index": 797,
+    "src": "I've seen this boy on TV.",
+    "tgt": "我喺電視度見過呢個男仔㗎。",
+    "pred": "我睇呢個女仔喺TV度睇咗呢個仔。"
+  },
+  {
+    "index": 798,
+    "src": "Taking off your heels and replacing them with slippers is also a great way to soothe tired feet",
+    "tgt": "除下高跟鞋換上拖鞋也是舒緩雙腳疲勞的好方法",
+    "pred": "打腳打腳,打腳就係好好嘅方法"
+  },
+  {
+    "index": 799,
+    "src": "Before you know it, you're here",
+    "tgt": "唔經唔覺就行到咗咯",
+    "pred": "你知呢,你喺度"
+  },
+  {
+    "index": 800,
+    "src": "I guess so.",
+    "tgt": "我估都係啊。",
+    "pred": "我諗咁。"
+  },
+  {
+    "index": 801,
+    "src": "Bachelor of Electronic Engineering from City University of Hong Kong, he joined DAB in 2009 and is currently a member of the Tuen Mun District Council, the chairman of the Tuen Mun branch of DAB, and a member of the Young DAB Committee. He has been a District Councillor since 2016 and is the Deputy Chairman of the Tuen Mun Traffic and Transport Committee.",
+    "tgt": "香港城市大學電子工程系學士，喺2009年加入民建聯，依家係屯門區區議員，民建聯屯門支部主席、青年民建聯委員等職。由2016年起擔任區議員，任屯門交通及運輸委員會副主席。",
+    "pred": "大學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學學"
+  },
+  {
+    "index": 802,
+    "src": "Are these dishes right to eat?",
+    "tgt": "啲餸啱唔啱食呀？",
+    "pred": "呢啲菜係唔係食啊?"
+  },
+  {
+    "index": 803,
+    "src": "The cranes at Ocean Park are many years old.",
+    "tgt": "海洋公園嘅吊車有好多年歷史。",
+    "pred": "海灣公園嘅魚貝都幾年。"
+  },
+  {
+    "index": 804,
+    "src": "The sister-in-law wants to go to Paifeng Road in Gudong River Township to buy something",
+    "tgt": "大嫂要去古洞河上鄉排峰路嗰度買啲嘢",
+    "pred": "個女朋友想去荃灣路買嘢"
+  },
+  {
+    "index": 805,
+    "src": "At that time, there were more CD shops than there are now 1.71.",
+    "tgt": "嗰陣時啲CD舖仲多過而家啲七十一。",
+    "pred": "呢度呢度,喺今次有多 CD店。"
+  },
+  {
+    "index": 806,
+    "src": "So fast",
+    "tgt": "咁快",
+    "pred": "咁快"
+  },
+  {
+    "index": 807,
+    "src": "What is the purpose of your book club?",
+    "tgt": "你哋成立讀書會係有咩目的㗎？",
+    "pred": "你書館嘅辦法係你嘅目的?"
+  },
+  {
+    "index": 808,
+    "src": "It's really hot in the thirties every day, shouting for help",
+    "tgt": "日日三十幾度真喺熱到嗌救命",
+    "pred": "星期日都好熱,叫幫助"
+  },
+  {
+    "index": 809,
+    "src": "Kevin Barry Egan (1947 – 17 June 2018) was a Hong Kong barrister, originally from New Zealand and Australia. During the British Rule, he was the Deputy Chief Public Prosecutor of the Attorney's Chambers of Justice of the Hong Kong Government, where he was responsible for ICAC cases. Later, he went into private practice and also specialised in ICAC cases. Together with solicitor Lam Ping-cheong and former Deputy Director of Operations of the ICAC, Mr Tsui Ka-kit, they are collectively known as the \"Three Demons of Heaven, Earth and People\" of the ICAC. On June 17, 2018, he passed away due to a recurrence of esophageal cancer or laryngeal cancer at the age of 70.",
+    "tgt": "艾勤賢（Kevin Barry Egan，1947年—2018年6月17日），係香港大律師，原籍紐西蘭同澳洲。英治時期，佢做過香港政府律政署副首席檢控官，專責廉署案件。後來佢私人執業，亦專接廉署案件。同律師林炳昌及前廉署執行處副處長徐家傑被合稱為廉署「天、地、人」三魔。2018年6月17號，因食道癌或喉癌復發離世，終年70歳。",
+    "pred": "劉德德(1947年-17月17號)係香港人員,喺香港政府嘅行政官員,喺香港政府嘅行政官員,喺香港政府嘅行政官員,喺香港政府嘅行政官員,"
+  },
+  {
+    "index": 810,
+    "src": "Don't go out of the gate, close first on the platform.",
+    "tgt": "唔好出閘住，喺月台會合咗先。",
+    "pred": "唔好去門,走先先。"
+  },
+  {
+    "index": 811,
+    "src": "chemistry",
+    "tgt": "化學",
+    "pred": "學"
+  },
+  {
+    "index": 812,
+    "src": "You've been promoted to manager, you're very happy now, right?",
+    "tgt": "你升咗做經理嘛，你大晒啦而家，開心啦？",
+    "pred": "你喺公司嘅活動,你好好喜愛啊?"
+  },
+  {
+    "index": 813,
+    "src": "Ta incense",
+    "tgt": "塔香",
+    "pred": "茶酒"
+  },
+  {
+    "index": 814,
+    "src": "Leisure facilities",
+    "tgt": "休憩設施",
+    "pred": "健身設場"
+  },
+  {
+    "index": 815,
+    "src": "A computer always crashes, how do you work?",
+    "tgt": "部電腦成日死機，點做嘢啊？",
+    "pred": "一台電腦都凍咗,點做啊?"
+  },
+  {
+    "index": 816,
+    "src": "naughty",
+    "tgt": "曳",
+    "pred": "<0xD0>"
+  },
+  {
+    "index": 817,
+    "src": "shrink",
+    "tgt": "縮水",
+    "pred": "落"
+  },
+  {
+    "index": 818,
+    "src": "Credibility is important to businessmen.",
+    "tgt": "信譽對生意人嚟講好重要。",
+    "pred": "實力係好重要嘅企業。"
+  },
+  {
+    "index": 819,
+    "src": "Don't do that to me",
+    "tgt": "你唔好噉對我呀",
+    "pred": "唔好做我"
+  },
+  {
+    "index": 820,
+    "src": "How many times have you tried to say it?",
+    "tgt": "你試下講多次?",
+    "pred": "你想講乜嘢嘢?"
+  },
+  {
+    "index": 821,
+    "src": "Phew!",
+    "tgt": "我啋過你，你有病呀！",
+    "pred": "<0xD0>!"
+  },
+  {
+    "index": 822,
+    "src": "Silly",
+    "tgt": "神神地",
+    "pred": "好惡"
+  },
+  {
+    "index": 823,
+    "src": "Scorth had a chance to score, but he didn't have a chance to get his feet up",
+    "tgt": "呢球波史高斯好有機會入波,但係無機會起腳",
+    "pred": "勝球有冇机会,但係佢唔會打腳"
+  },
+  {
+    "index": 824,
+    "src": "At that time, we were shopping with my husband at a large mall in Abu Dhabi",
+    "tgt": "當時我哋同我先生一齊 喺 Abu Dhabi 嘅一間大型商場行街",
+    "pred": "呢次我喺香港大區同我哋同妻"
+  },
+  {
+    "index": 825,
+    "src": "I was humiliated by a kick in the foot.",
+    "tgt": "我隻腳俾人踢瘀咗。",
+    "pred": "我喺腳打咗一腳。"
+  },
+  {
+    "index": 826,
+    "src": "Who knows which wonton noodle restaurant on Harbour Road in North Point is the best",
+    "tgt": "邊個會知道北角海港道邊間雲吞麵最好食",
+    "pred": "邊個知道喺西灣路邊邊邊個魚仔菜係最最"
+  },
+  {
+    "index": 827,
+    "src": "Stew",
+    "tgt": "煠",
+    "pred": "喇"
+  },
+  {
+    "index": 828,
+    "src": "I think it's going to be -- it's development, and I want to teach like that now. In this way, I can teach in this way, I can teach in secondary school, and then I can, for example, I want to teach in college or junior college.",
+    "tgt": "我想係要即係-即係有得發展，我而家想教書噉樣。噉樣其實我教書噉可以教-教中學，噉第日可以，譬如我自己想就想譬如教大學或者大專嗰啲噉樣囖。",
+    "pred": "我覺得係 -- 係發展, 我想做 -- , 我可以學呢個方法 , 例如 我可以學同大學 , 例如 , 例如 我可以學同大學 ,"
+  },
+  {
+    "index": 829,
+    "src": "What kind of bus do I need to take to go to Fanling Zhifu Wai Buddhist Po Ching Nursing Home for the Elderly?",
+    "tgt": "請問我想去粉嶺置福圍佛教寶靜護理安老院要搭乜嘢車先去到",
+    "pred": "我要去沙龍灣沙灣大埔大學嘅大埔學院去邊度去?"
+  },
+  {
+    "index": 830,
+    "src": "Law firms",
+    "tgt": "律師行",
+    "pred": "法律公司"
+  },
+  {
+    "index": 831,
+    "src": "Ahh The most you can say is that you like this arrangement. That's enough for me to think.",
+    "tgt": "吓？噉又過份咗少少真係。你最多話鍾意你噉嘅噉樣嘅安排。噉已經夠嚹我諗。",
+    "pred": "哎呀你睇呢個樣樣係你咁鍾意。係我諗得。"
+  },
+  {
+    "index": 832,
+    "src": "Unpromising",
+    "tgt": "冇料",
+    "pred": "不動"
+  },
+  {
+    "index": 833,
+    "src": "No matter if you hang the No. 10 typhoon signal, you have to go to work as a firefighter or policeman.",
+    "tgt": "無論掛咗十號風球，做消防、警察都要返工。",
+    "pred": "唔係你喺10號嘅警報,你要去做警察或警察。"
+  },
+  {
+    "index": 834,
+    "src": "When you turn off the switch, the lights go out.",
+    "tgt": "當你關閉開關制 ， 燈就熄 。",
+    "pred": "你打機就打咗燈,燈走嚟。"
+  },
+  {
+    "index": 835,
+    "src": "When I drank a glass of cold beer on a hot day, the whole person was comfortable with the chirp.",
+    "tgt": "大熱天時飲番杯凍啤酒，喳喳聲成個人舒服晒。",
+    "pred": "我飲咗啲熱水嘅啤酒,個人好耐。"
+  },
+  {
+    "index": 836,
+    "src": "Eye-sharp",
+    "tgt": "眼利",
+    "pred": "眼眼"
+  },
+  {
+    "index": 837,
+    "src": "There was a lot of stuff piled up, but he moved it away with a few picks.",
+    "tgt": "積埋好多嘢，不過佢三扒兩撥就搬走晒。",
+    "pred": "有好多嘢打咗,但係佢打咗幾個隻手。"
+  },
+  {
+    "index": 838,
+    "src": "We had to rest for a while after eating before we got to work.",
+    "tgt": "我哋食完飯要唞一陣先開工。",
+    "pred": "我哋食咗一陣食完,我哋食咗一陣。"
+  },
+  {
+    "index": 839,
+    "src": "Firefighters worked overnight to prevent the fires from spreading to nearby homes.",
+    "tgt": "消防員通宵灌救，避免山火波及附近嘅民居。",
+    "pred": "消防隊早先工作喺附近街鎮防暴風。"
+  },
+  {
+    "index": 840,
+    "src": "He was made from a variety of systems that most of us don't see.",
+    "tgt": "佢系由我地大部分人都睇唔到嘅 各种系统构成嘅 。",
+    "pred": "佢喺我哋有好多系統嘅系統,我哋都唔見。"
+  },
+  {
+    "index": 841,
+    "src": "The glass cracked for him",
+    "tgt": "隻玻璃杯畀佢摼裂咗",
+    "pred": "佢嘅玻璃凍咗佢"
+  },
+  {
+    "index": 842,
+    "src": "Silly",
+    "tgt": "戇居居",
+    "pred": "好惡"
+  },
+  {
+    "index": 843,
+    "src": "He is a stunner and many men like him.",
+    "tgt": "佢係一個尤物，好多男人鍾意佢。",
+    "pred": "佢係個佬,好多人鍾意佢。"
+  },
+  {
+    "index": 844,
+    "src": "The little girl didn't have ice cream, so her face was burnt.",
+    "tgt": "個細路女冇雪糕食，所以面燶燶。",
+    "pred": "個細仔冇氣泡,佢臉凍咗。"
+  },
+  {
+    "index": 845,
+    "src": "Worked hard",
+    "tgt": "畀心機",
+    "pred": "工作好"
+  },
+  {
+    "index": 846,
+    "src": "banana",
+    "tgt": "蕉",
+    "pred": "牛"
+  },
+  {
+    "index": 847,
+    "src": "Done",
+    "tgt": "事幹",
+    "pred": "做"
+  },
+  {
+    "index": 848,
+    "src": "Eight taels of gold, Zhang Daming.",
+    "tgt": "八兩金、張達明。",
+    "pred": "八個銀,李爺。"
+  },
+  {
+    "index": 849,
+    "src": "If you are weak, you must raise your voice and fight for yourself!",
+    "tgt": "俾人蝦就一定要出聲為自己爭口氣！",
+    "pred": "你好弱,要打聲,打你嘅聲!"
+  },
+  {
+    "index": 850,
+    "src": "It's past nine o'clock, turn off the lights and go to bed",
+    "tgt": "九點幾啦，快啲熄燈瞓覺",
+    "pred": "今次九鐘,打燈走嚟"
+  },
+  {
+    "index": 851,
+    "src": "In 1916, the \"Hua Tea Company\" was established with Tang Qiaoqing's Tang family as the main body, and Tang Qiaoqing's second son Tang Jishan served as the assistant director of the \"Hua Tea Company\", and the eldest son Tang Shuji served as the manager. A few years later, Tang Jishan took on the position of manager.",
+    "tgt": "1916年，以唐翹卿嘅唐氏家族為主嘅「華茶公司」成立，唐翹卿二仔唐季珊擔任「華茶公司」協理一職，而大仔唐叔璠就擔任經理。幾年後由唐季珊出任經理職位。",
+    "pred": "1916年,「龍茶公司」係由龍龍龍嘅龍馬嘅主體,龍龍仔同龍龍仔同龍龍仔同龍龍仔同龍龍仔同龍龍仔同龍龍仔同龍龍"
+  },
+  {
+    "index": 852,
+    "src": "thereupon",
+    "tgt": "於是乎",
+    "pred": "喺度"
+  },
+  {
+    "index": 853,
+    "src": "He has studied hard for ten years in exchange for today's achievements.",
+    "tgt": "佢十年寒窗苦讀終於換來今日嘅成就。",
+    "pred": "佢今次學咗咗十年嘅成就。"
+  },
+  {
+    "index": 854,
+    "src": "hair",
+    "tgt": "髮",
+    "pred": "髮"
+  },
+  {
+    "index": 855,
+    "src": "Seek expert advice",
+    "tgt": "尋求專家嘅意見",
+    "pred": "求專業アドバイス"
+  },
+  {
+    "index": 856,
+    "src": "Panic",
+    "tgt": "倉惶失措",
+    "pred": "擾"
+  },
+  {
+    "index": 857,
+    "src": "That's right",
+    "tgt": "係噉",
+    "pred": "係咁"
+  },
+  {
+    "index": 858,
+    "src": "Tomorrow will come.",
+    "tgt": "聽日會嚟嘅。",
+    "pred": "明天會嚟。"
+  },
+  {
+    "index": 859,
+    "src": "Local farming",
+    "tgt": "本地農業",
+    "pred": "本地漁業"
+  },
+  {
+    "index": 860,
+    "src": "Key contents of the article: Interpretation No. 748 of the Judicial Yuan, Enforcement Law, Relationship Registration, Marriage Registration, Minimum Age 18, Property System Application, Civil Law, Marital Property System Relationship Invalidity and Revocation, Application of Civil Law, Relevant Provisions of the Civil Law, Relationship Dissolution, Consent, Judgment, Mediation or Reconciliation, Whether Adoption of Stepparents, Adoption, Guardianship of the Other Party, Cohabitation Obligation and Maintenance Obligation, Routine Housework, Mutual Agent, Inheritance, Mutual Legal Heirs, Rights and Obligations of Other Laws and Regulations, Applicable to Dispute Resolution, Application of the Family Matters Law, Effective Date: May 24, 2019",
+    "tgt": "條文重點 內容 法案名 司法院釋字七四八號解釋施行法 關係登記 結婚登記 最低年齡 18 財產制 準用民法夫妻財產制 關係無效及撤銷 準用民法相關規定 關係解消方式 合意、判決、調解或和解 得否收養 得繼親收養 得否為他方監護人 係 同居義務及扶養義務 有義務 日常家務 互為代理人 遺產繼承 互為法定繼承人 其他法規嘅權利義務 原則準用 爭議解決 適用家事事件法 施行日期 2019年5月24號",
+    "pred": "原文內容:《《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》《法律》"
+  },
+  {
+    "index": 861,
+    "src": "Pregnant women sometimes feel nauseous and stuffy, and eating some obscene food will make them have a better appetite.",
+    "tgt": "大肚婆有時會作嘔作悶，食啲鹹濕嘢會開胃啲。",
+    "pred": "孕婦都會覺得好痛,食啲嘢食啲嘢都會使佢哋有好嘅胃。"
+  },
+  {
+    "index": 862,
+    "src": "Pests could cause a world food crisis.",
+    "tgt": "蟲害可能會令世界糧食出現危機。",
+    "pred": "毒藥會影響世界食糧危機。"
+  },
+  {
+    "index": 863,
+    "src": "So I don't know - just good - to hear him say or do something like that.",
+    "tgt": "所以我唔知-即係好-聽到佢講都係做哩樣嘢囖。",
+    "pred": "所以我唔知-唔知-唔知-講佢講嘢咁好。"
+  },
+  {
+    "index": 864,
+    "src": "It's just that this bag of powder is enough to cook you to death, and if you have a hard mouth, you will hoe two more to attack the police and resist arrest!",
+    "tgt": "淨係呢包粉已經夠煮死你，再口硬就鋤多你兩條襲警拒捕！",
+    "pred": "係呢個袋皮好夠食你死,你有啲細嘴,你有啲細嘴,你會打兩個多去逮捕警察!"
+  },
+  {
+    "index": 865,
+    "src": "Changed",
+    "tgt": "改着",
+    "pred": "改變"
+  },
+  {
+    "index": 866,
+    "src": "He exploded.",
+    "tgt": "佢資訊爆炸。",
+    "pred": "佢落咗。"
+  },
+  {
+    "index": 867,
+    "src": "uncle",
+    "tgt": "阿叔",
+    "pred": "老仔"
+  },
+  {
+    "index": 868,
+    "src": "Free signing of the Ping An Slip service.",
+    "tgt": "免費簽立平安紙服務。",
+    "pred": "郵箱郵箱免費。"
+  },
+  {
+    "index": 869,
+    "src": "To be honest, I don't approve of him doing that.",
+    "tgt": "老實講，我唔贊成佢咁做。",
+    "pred": "唔好,我唔好承認佢做嘢。"
+  },
+  {
+    "index": 870,
+    "src": "I haven't seen you lately?",
+    "tgt": "近排唔見你蒲頭嘅？",
+    "pred": "我今次唔見你?"
+  },
+  {
+    "index": 871,
+    "src": "There are two of yours that the subordinates are cheaper than you, plus they have already done your stuff. Then your competitiveness is no longer enough for him.",
+    "tgt": "有兩個你嘅即係手下係平過你，加埋就已經做到你嘅嘢。噉你嘅競爭力就已經唔夠佢嘞。",
+    "pred": "你哋兩個你嘅主權係你,而且佢哋都唔係咁多,但係佢嘅經濟唔好。"
+  },
+  {
+    "index": 872,
+    "src": "Hakka sweet fried meat",
+    "tgt": "客家甜炸肉",
+    "pred": "牛仔雞肉"
+  },
+  {
+    "index": 873,
+    "src": "I use a lot of tricks, which is that sometimes I have to lie to you",
+    "tgt": "我會用好多嘅把戲 即係話 有時我必須要呃你",
+    "pred": "我用好多嘢,而家都會講你"
+  },
+  {
+    "index": 874,
+    "src": "I bumped into him.",
+    "tgt": "我撞咗佢一踭。",
+    "pred": "我打咗佢。"
+  },
+  {
+    "index": 875,
+    "src": "There are so many people coming to the play tonight, we can't help it, we have to take a plane.",
+    "tgt": "今晚有咁多人嚟睇戲，我哋冇辦法，要坐飛機位囉。",
+    "pred": "晚上咁多人去玩,我哋唔好幫手,我哋要去機。"
+  },
+  {
+    "index": 876,
+    "src": "He didn't know I had something to do with his dish.",
+    "tgt": "佢唔知我同佢條菜攪咗嘢。",
+    "pred": "佢唔知我食嘢做。"
+  },
+  {
+    "index": 877,
+    "src": "Democracy is not necessarily a panacea for people's livelihood problems.",
+    "tgt": "民主制度唔一定係解決民生問題嘅靈丹妙藥。",
+    "pred": "民主唔係對人嘅生活問題嘅問題。"
+  },
+  {
+    "index": 878,
+    "src": "It's a terrible thing",
+    "tgt": "呢件事真惡撠",
+    "pred": "好慘嘅嘢"
+  },
+  {
+    "index": 879,
+    "src": "Nylon rope",
+    "tgt": "尼龍繩",
+    "pred": "Nylon腳"
+  },
+  {
+    "index": 880,
+    "src": "In this process, I researched, I met doctors, scientists, and I'm here to tell you that if you want to be more productive, more inspired, and live faster, you have to get enough sleep.",
+    "tgt": "喺依個過程裡面 ， 我研究 ， 我見咗醫生 ， 科學家 ， 而我喺依度話比你聽 如果你想有更加高嘅效率 ， 更加多靈感 ， 生活得更快活 你就要有足夠嘅睡眠 。",
+    "pred": "呢個過程我研究 , 我同醫生 , 我同醫生 , 我喺度講你 , 我同醫生 , 我喺度話你需要更精靈 ,"
+  },
+  {
+    "index": 881,
+    "src": "The President invited him to his private study for an informal meeting.",
+    "tgt": "總統邀請佢去佢私人書房作一次非正式會談。",
+    "pred": "主席邀請佢同佢嘅公共研究。"
+  },
+  {
+    "index": 882,
+    "src": "The host drew my name.",
+    "tgt": "個主持抽中咗我嘅名。",
+    "pred": "個場友畀我嘅姓名。"
+  },
+  {
+    "index": 883,
+    "src": "Worship ancestors",
+    "tgt": "拜祖先",
+    "pred": "祭祖"
+  },
+  {
+    "index": 884,
+    "src": "Pre-proofreading video",
+    "tgt": "預校錄影",
+    "pred": "復刻照片"
+  },
+  {
+    "index": 885,
+    "src": "Duck into a cave.",
+    "tgt": "快啲匿入個山窿。",
+    "pred": "雞喺個洞。"
+  },
+  {
+    "index": 886,
+    "src": "Aren't you afraid that he will be angry?",
+    "tgt": "你唔驚佢嬲咩？",
+    "pred": "你唔好諗佢唔好打氣啊?"
+  },
+  {
+    "index": 887,
+    "src": "Reuse talent",
+    "tgt": "重用人才",
+    "pred": "打技"
+  },
+  {
+    "index": 888,
+    "src": "My son is in the second grade, there are three tutors, and he is still a cloud",
+    "tgt": "我仔讀二年級，有三位補習老師，佢仲係一嚿雲",
+    "pred": "我個仔係第二個學士,有三個師士,佢都係一片雲"
+  },
+  {
+    "index": 889,
+    "src": "Fall to pieces",
+    "tgt": "分崩離析",
+    "pred": "落埋"
+  },
+  {
+    "index": 890,
+    "src": "Supporters of Nazism will make Hitra a hero.",
+    "tgt": "納粹主義支持者會封希特拉做一代梟雄。",
+    "pred": "英雄嘅敵人會畀殺殺英雄。"
+  },
+  {
+    "index": 891,
+    "src": "To some extent, punishment is also corporal punishment.",
+    "tgt": "某程度上，罰抄都算係體罰㗎。",
+    "pred": "有啲情況,行為係醫生嘅。"
+  },
+  {
+    "index": 892,
+    "src": "The disease is spread by saturated pockets that have been contaminated with feces.",
+    "tgt": "呢個疾病係由畀糞便污染過嘅食水傳播。",
+    "pred": "疾病被被燒血嘅血痕,被被燒血。"
+  },
+  {
+    "index": 893,
+    "src": "Superb skills",
+    "tgt": "技藝高超",
+    "pred": "好能力"
+  },
+  {
+    "index": 894,
+    "src": "Set up a helpline",
+    "tgt": "設立求助熱線",
+    "pred": "打手"
+  },
+  {
+    "index": 895,
+    "src": "He gave birth to two children",
+    "tgt": "佢生過兩個仔女",
+    "pred": "佢畀兩個兒童"
+  },
+  {
+    "index": 896,
+    "src": "Nine Kings scrambled eggs",
+    "tgt": "九王炒蛋",
+    "pred": "三個漢仔雞"
+  },
+  {
+    "index": 897,
+    "src": "Can anyone tell you your secret?",
+    "tgt": "有無人講得出你嘅秘密呢 ？",
+    "pred": "有冇人話你嘅秘密?"
+  },
+  {
+    "index": 898,
+    "src": "By the way, I'm afraid to forget all day long.",
+    "tgt": "係喇，成日都驚唔記得𡃉。",
+    "pred": "咁樣,我都唔好好鍾意去過日。"
+  },
+  {
+    "index": 899,
+    "src": "Konjac",
+    "tgt": "欸",
+    "pred": "<0xD0>"
+  },
+  {
+    "index": 900,
+    "src": "Fill with water",
+    "tgt": "裝水",
+    "pred": "填水"
+  },
+  {
+    "index": 901,
+    "src": "Run out of steam",
+    "tgt": "筋疲力盡",
+    "pred": "打火"
+  },
+  {
+    "index": 902,
+    "src": "Abatement",
+    "tgt": "減除",
+    "pred": "惡"
+  },
+  {
+    "index": 903,
+    "src": "Although the job is very hard, my two children are the driving force behind my perseverance.",
+    "tgt": "雖然份工好辛苦，但我兩個仔就係令我堅持落去嘅原動力。",
+    "pred": "但係工作好難,我兩個女同我嘅人係我嘅動力。"
+  },
+  {
+    "index": 904,
+    "src": "I would think that this is what it is, and that is completely contrary to the spirit of the Rules of Procedure itself.",
+    "tgt": "我會認為就係呢樣嘢就係完全違反咗《議事規則》本身應該要有嘅精神。",
+    "pred": "我覺得呢個係嘢,即係係佢哋嘅法令,即係係同自己嘅信念。"
+  },
+  {
+    "index": 905,
+    "src": "During the summer vacation, he often went back to school to practice.",
+    "tgt": "暑假嗰陣，佢成日返學校練波。",
+    "pred": "暑假期間,佢常常去學校學。"
+  },
+  {
+    "index": 906,
+    "src": "Under the age of eighteen",
+    "tgt": "未滿十八歲",
+    "pred": "八歲"
+  },
+  {
+    "index": 907,
+    "src": "Open edges",
+    "tgt": "開便",
+    "pred": "開腳"
+  },
+  {
+    "index": 908,
+    "src": "What do you do?",
+    "tgt": "你做乜嘢呀",
+    "pred": "你做乜嘢?"
+  },
+  {
+    "index": 909,
+    "src": "brick",
+    "tgt": "階磚",
+    "pred": "磚"
+  },
+  {
+    "index": 910,
+    "src": "Eating those two bites is only a few hundred yuan, and the meat is indeed red.",
+    "tgt": "食嗰兩啖嘢就幾百蚊，認真肉赤。",
+    "pred": "食啲兩隻蛋都係幾百蚊,食都係好紅。"
+  },
+  {
+    "index": 911,
+    "src": "In the heart and soul of the school is located",
+    "tgt": "係學校嘅心臟同靈魂所在",
+    "pred": "學校嘅心靈都係喺"
+  },
+  {
+    "index": 912,
+    "src": "In other people's homes, you can't afford to mess around",
+    "tgt": "喺人哋屋企就唔到你亂嚟囉",
+    "pred": "喺其他人嘅屋企,你唔好唔好打住"
+  },
+  {
+    "index": 913,
+    "src": "It doesn't cost much",
+    "tgt": "花費冇幾",
+    "pred": "唔好錢"
+  },
+  {
+    "index": 914,
+    "src": "Manga fan",
+    "tgt": "漫畫迷",
+    "pred": "馬仔"
+  },
+  {
+    "index": 915,
+    "src": "Friend",
+    "tgt": "死黨",
+    "pred": "朋友"
+  },
+  {
+    "index": 916,
+    "src": "Your body is so bad, you have to take some supplements to make up for it.",
+    "tgt": "你身體咁虧，要食啲補品補吓先得。",
+    "pred": "你嘅皮膚咁糟,要食啲藥要做。"
+  },
+  {
+    "index": 917,
+    "src": "See if there's anything bent down.",
+    "tgt": "睇下有冇攋低嘢。",
+    "pred": "睇到冇乜嘢咁落。"
+  },
+  {
+    "index": 918,
+    "src": "My friends helped me a lot when I was in trouble.",
+    "tgt": "喺困難嘅時候，朋友幫咗我好多。",
+    "pred": "我朋友幫我好多啲。"
+  },
+  {
+    "index": 919,
+    "src": "I don't know the head, I don't know the road",
+    "tgt": "唔知頭唔知路",
+    "pred": "唔知頭,唔知路"
+  },
+  {
+    "index": 920,
+    "src": "Proof of things will actually change now in supermarkets and even in fast food restaurants where organic food is found",
+    "tgt": "證明啲事情其實會改變 依家響超市 甚至響快餐店都搵到有機食物",
+    "pred": "實證實嘅嘢 就係喺超市嘅大餐店 甚至喺大餐店嘅大餐店"
+  },
+  {
+    "index": 921,
+    "src": "When you grow up, just take him",
+    "tgt": "你大個，就吓佢",
+    "pred": "你食咗咗佢"
+  },
+  {
+    "index": 922,
+    "src": "He had a badge on his chest",
+    "tgt": "佢心口佗住個襟章",
+    "pred": "佢頭頭喺頭邊"
+  },
+  {
+    "index": 923,
+    "src": "or eating food contaminated with rats or rat droppings",
+    "tgt": "或食左被老鼠或老鼠屎污染左既食物",
+    "pred": "或者食食食食食食"
+  },
+  {
+    "index": 924,
+    "src": "Prostitution, gambling, drinking, swinging, blowing.",
+    "tgt": "嫖、賭、飲、蕩、吹。",
+    "pred": "賭場,賭場,食食,食食,打彈。"
+  },
+  {
+    "index": 925,
+    "src": "Always noisy and closed",
+    "tgt": "成日嘈嘈閉",
+    "pred": "好唔好落落"
+  },
+  {
+    "index": 926,
+    "src": "You and I are together, and we will only break up in the end.",
+    "tgt": "你同我啲噉嘅人一齊，最後只會分手。",
+    "pred": "你同我同我在一起,我都會繼續轉咗。"
+  },
+  {
+    "index": 927,
+    "src": "Passers-by",
+    "tgt": "途人",
+    "pred": "出手"
+  },
+  {
+    "index": 928,
+    "src": "I thought I was going to have a buffet tonight, and I didn't eat yet!",
+    "tgt": "我以為今晚食自助餐，等我仲專登唔食嘢添！",
+    "pred": "我覺得我星期日去食餐,我唔食!"
+  },
+  {
+    "index": 929,
+    "src": "So let's talk about it",
+    "tgt": "咁我哋不如傾吓啦",
+    "pred": "所以我哋講嘢"
+  },
+  {
+    "index": 930,
+    "src": "Evaporated milk",
+    "tgt": "淡奶",
+    "pred": "飽水"
+  },
+  {
+    "index": 931,
+    "src": "Here is a corner point, and the store is naturally less frequented by customers.",
+    "tgt": "呢度墮角啲，舖頭自然少客仔幫襯。",
+    "pred": "呢度係一個門口,店好常見得人。"
+  },
+  {
+    "index": 932,
+    "src": "Trouble, I would like to book a double room.",
+    "tgt": "唔該，我想訂一間雙人房。",
+    "pred": "嘩,我會想書一間二間客房。"
+  },
+  {
+    "index": 933,
+    "src": "You may want to take the test and consider.",
+    "tgt": "你可能要考一考慮。",
+    "pred": "你需要試試,考慮。"
+  },
+  {
+    "index": 934,
+    "src": "Someone is there thinking and shrinking, and I don't know what to do?",
+    "tgt": "有人喺嗰度思思縮縮，唔知攪乜嘢？",
+    "pred": "人哋有諗過,唔知點做?"
+  },
+  {
+    "index": 935,
+    "src": "Therefore, it is not conducive to the ideological education of the Chinese government",
+    "tgt": "所以不利於中國政府嘅思想教育",
+    "pred": "因此 , 係唔係由中國政府嘅政治教育"
+  },
+  {
+    "index": 936,
+    "src": "footstool",
+    "tgt": "腳骹",
+    "pred": "腳"
+  },
+  {
+    "index": 937,
+    "src": "prominent",
+    "tgt": "出位",
+    "pred": "有名"
+  },
+  {
+    "index": 938,
+    "src": "So I used a computer simulation program to calculate what atmosphere the planet needs to have the right climate to provide water and life",
+    "tgt": "所以我利用一個電腦模擬程式 去計算星球需要乜嘢大氣層 先至會有合適嘅氣候提供水同孕育生命",
+    "pred": "所以我用電子計算機 可以計算 地球嘅環境需要提供一個最完整嘅環境 可以提供水 、 生活"
+  },
+  {
+    "index": 939,
+    "src": "armpits",
+    "tgt": "胳肋底",
+    "pred": "血"
+  },
+  {
+    "index": 940,
+    "src": "There was a cool breeze blowing.",
+    "tgt": "有一𠹻涼風吹過嚟。",
+    "pred": "有熱氣吹。"
+  },
+  {
+    "index": 941,
+    "src": "The lyrics of this song contain only the first stanza and the double phrase of the original poem, and the second and third stanzas of the original poem are not included in the lyrics, and the fifth line of the lyric double sentence is \"Contra os canhões marchar, marchar!\" , which means \"Brave the fire, advance!\" but the original poem is \"Contra os Bretões marchar, marchar!\" , which means \"brave the British, forward!\"",
+    "tgt": "呢首歌嘅歌詞淨係包含孟東薩原詩入面嘅第一段以及重句，以前原詩嘅第二同第三段都冇納入歌詞入面；而歌詞重句入面嘅第五句是\"Contra os canhões marchar， marchar!\"，意為「冒著炮火前進，前進！」；但原詩係\"Contra os Bretões marchar， marchar!\"，意思係「冒著英寇前進，前進！」。",
+    "pred": "呢個歌曲嘅歌詞 有一個《 勇敢 , , 我哋嘅歌曲嘅字號 , 《 勇敢 , , 我哋嘅歌曲 , 我哋嘅"
+  },
+  {
+    "index": 942,
+    "src": "It's common sense to go out of the pool to have dinner.",
+    "tgt": "出pool要請食飯係常識吧。",
+    "pred": "有趣去餐廳食飯。"
+  },
+  {
+    "index": 943,
+    "src": "My son is at the police station now, you can get him out!",
+    "tgt": "個仔而家喺警局，你快啲保佢出嚟喇！",
+    "pred": "我個仔喺警察場,你會去佢!"
+  },
+  {
+    "index": 944,
+    "src": "I started having something to do at six o'clock.",
+    "tgt": "橫掂我六點鐘開始有嘢做。",
+    "pred": "我喺六鐘時開始做嘢做。"
+  },
+  {
+    "index": 945,
+    "src": "They seem to have other intentions,",
+    "tgt": "他們似乎別有心思，",
+    "pred": "佢哋都會有其他嘅行動,"
+  },
+  {
+    "index": 946,
+    "src": "The Chen housewife is going to go to Jilishi South Road in Hung Hom to find a friend to play mahjong with",
+    "tgt": "陳師奶要去紅磡機利士南路搵個朋友一齊打麻雀",
+    "pred": "張女仔去荃灣灣路找個朋友玩麻雀"
+  },
+  {
+    "index": 947,
+    "src": "Tattered. That's it, it's not hard to find. I'm surrounded by all these things.",
+    "tgt": "甩皮甩骨嘅。即係哩啲唔難揾吖。我身邊盡是哩啲人喇。",
+    "pred": "<0xD0>。係啊,唔好好找。我哋喺呢啲嘢都係唔好。我哋喺呢啲嘢。"
+  },
+  {
+    "index": 948,
+    "src": "Why did you do Wells?",
+    "tgt": "點解你做過威爾斯𠸏？",
+    "pred": "你做乜嘢做好呀?"
+  },
+  {
+    "index": 949,
+    "src": "Generally hungry",
+    "tgt": "麻麻哋肚餓",
+    "pred": "常食"
+  },
+  {
+    "index": 950,
+    "src": "I decided to hurry up and get the meal hot",
+    "tgt": "我決定飛快去把飯弄熱",
+    "pred": "我決定去去食飯熱"
+  },
+  {
+    "index": 951,
+    "src": "butt",
+    "tgt": "煙頭",
+    "pred": "腳"
+  },
+  {
+    "index": 952,
+    "src": "So here, I'm going to show you how we use infrared to make observations",
+    "tgt": "所以喺呢度 ， 我會畀大家睇睇 我哋用紅外線進行觀測",
+    "pred": "所以我哋會見到我哋用電視嘅實驗"
+  },
+  {
+    "index": 953,
+    "src": "The mood is okay to win.",
+    "tgt": "心境都幾好𡃉。",
+    "pred": "心情好好 <extra_id_71>。"
+  },
+  {
+    "index": 954,
+    "src": "Why don't you believe me?",
+    "tgt": "點解你唔信我嘅啫",
+    "pred": "你點解你認我?"
+  },
+  {
+    "index": 955,
+    "src": "a bowl of vegetables, a bowl of steamed fish;",
+    "tgt": "一碗菜，一碗蒸魚；",
+    "pred": "一碗水,一碗水。"
+  },
+  {
+    "index": 956,
+    "src": "Of course",
+    "tgt": "梗",
+    "pred": "好似"
+  },
+  {
+    "index": 957,
+    "src": "Cross-handed",
+    "tgt": "橫手",
+    "pred": "橫手"
+  },
+  {
+    "index": 958,
+    "src": "Are you dressed like a fancy and a clown!",
+    "tgt": "你著到花花碌碌噉，做小丑咩！",
+    "pred": "你做得好靚,好靚嘅人!"
+  },
+  {
+    "index": 959,
+    "src": "My brother lives in Ho Man Tin Royal Dragon Residence",
+    "tgt": "我老友住喺何文田御龍居",
+    "pred": "我老師住喺荃灣大灣大灣"
+  },
+  {
+    "index": 960,
+    "src": "Gold everywhere",
+    "tgt": "遍地黃金",
+    "pred": "銀"
+  },
+  {
+    "index": 961,
+    "src": "rub",
+    "tgt": "搋",
+    "pred": "打"
+  },
+  {
+    "index": 962,
+    "src": "There was an Abel who lost his wallet on Zhuyu Road at Tanwei",
+    "tgt": "有個亞伯喺潭尾竹攸路唔見左個銀包",
+    "pred": "有個阿亞喺荃灣路失咗個銀"
+  },
+  {
+    "index": 963,
+    "src": "I don't think my parents have given her enough drills",
+    "tgt": "嫌父母給她的操練不夠",
+    "pred": "我覺得我哋唔知我哋嘅媽媽會俾佢夠腳"
+  },
+  {
+    "index": 964,
+    "src": "Dead kid bag, what a thing?",
+    "tgt": "死仔包，䀹嘢呀？",
+    "pred": "死仔袋,乜嘢嘢?"
+  },
+  {
+    "index": 965,
+    "src": "When watching a movie, remember to use a phone as a vibrating machine.",
+    "tgt": "睇戲嗰陣記住將部電話較做震機。",
+    "pred": "睇電影時候,記得用手機用喇。"
+  },
+  {
+    "index": 966,
+    "src": "The room was miscellaneous",
+    "tgt": "間房好立雜",
+    "pred": "室好糟"
+  },
+  {
+    "index": 967,
+    "src": "Yours?",
+    "tgt": "你嘅咩？",
+    "pred": "你呢?"
+  },
+  {
+    "index": 968,
+    "src": "That hand is black.",
+    "tgt": "隻手整到黑嘛嘛𠻹。",
+    "pred": "呢個手係藍。"
+  },
+  {
+    "index": 969,
+    "src": "I don't want to give up even if there is only a glimmer of hope",
+    "tgt": "那怕只有一絲希望也不想放棄",
+    "pred": "我唔想做得唔好俾人"
+  },
+  {
+    "index": 970,
+    "src": "The last time I went, I went in July and August, and it took half an hour to line up a place to play",
+    "tgt": "我上次去，七八月嗰陣時去呢，排一笪地方玩啊都成半粒鐘啊",
+    "pred": "我喺月同月同月,一陣就喺月同月,一陣就係一陣去玩"
+  },
+  {
+    "index": 971,
+    "src": "Ah Song's clothes looked like they hadn't been washed for months.",
+    "tgt": "阿松啲衫褲望落好似幾個月冇洗過噉。",
+    "pred": "阿伯嘅衣服好似佢哋都唔好曬咗。"
+  },
+  {
+    "index": 972,
+    "src": "The whole thing is tight for them",
+    "tgt": "成件事畀佢哋冚實晒",
+    "pred": "呢件事好緊佢哋"
+  },
+  {
+    "index": 973,
+    "src": "On August 1st, Jasic published an article on its official website and WeChat public account, titled \"Jasic Technology, Building a Warm Home for Employees with Heart\", to promote the company's employee welfare. On August 2, the Guangdong Provincial Federation of Trade Unions, the Shenzhen Federation of Trade Unions, the Pingshan District Federation of Trade Unions, and the Longtian Street Trade Union, the four official trade unions of the Communist Party of China entered Jasic Company to organize the establishment of trade unions. That night, Jasic formed a preparatory group for the trade union, and the leader of the group was the vice chairman of the trade union in Pingshan District.",
+    "tgt": "8月1號，佳士公司喺官方網站同微信公眾號發布文章《佳士科技，用心壘起溫暖的員工之家》，內容宣傳公司嘅員工福利。8月2號，廣東省總工會、深圳市總工會、坪山區總工會、龍田街道工會四級中共官方工會進駐佳士公司，組織建立工會。當晚佳士組成工會籌備小組，組長係坪山區工會副主席。",
+    "pred": "今年1月1號,Jic喺新刊嘅網站上刊發刊,簡稱「Jic Technology,發展好嘅企業,喺香港市區,喺香港市區,香港市區,香港市區,香港"
+  },
+  {
+    "index": 974,
+    "src": "He goes to Starbucks every Sunday.",
+    "tgt": "佢個個星期日都會去Starbucks打躉。",
+    "pred": "佢每日去Starbucks。"
+  },
+  {
+    "index": 975,
+    "src": "Tough cookie",
+    "tgt": "硬頸",
+    "pred": "好細紙"
+  },
+  {
+    "index": 976,
+    "src": "Bean paste",
+    "tgt": "麵豉",
+    "pred": "雞餅"
+  },
+  {
+    "index": 977,
+    "src": "Oh, yes. Rock.",
+    "tgt": "係。搖滾。",
+    "pred": "係。喇。喇。"
+  },
+  {
+    "index": 978,
+    "src": "Acrylic racks",
+    "tgt": "克力架",
+    "pred": "鋁製板"
+  },
+  {
+    "index": 979,
+    "src": "6-8 September 2016",
+    "tgt": "二零一六年九月六至八日",
+    "pred": "2016年6月"
+  },
+  {
+    "index": 980,
+    "src": "The first car left at five o'clock",
+    "tgt": "頭車五點開出",
+    "pred": "第一車喺五鐘"
+  },
+  {
+    "index": 981,
+    "src": "Let's put some supplies on the goods first.",
+    "tgt": "擺啲物資上貨van先啦。",
+    "pred": "我哋先做啲嘢先。"
+  },
+  {
+    "index": 982,
+    "src": "More than 100 people are missing as a result of the floods.",
+    "tgt": "水災造成超過一百人失蹤。",
+    "pred": "有一百人被埋過災難。"
+  },
+  {
+    "index": 983,
+    "src": "Not long-term enough",
+    "tgt": "目光唔夠長遠",
+    "pred": "唔好"
+  },
+  {
+    "index": 984,
+    "src": "If you don't have enough money to take a taxi, you can only squeeze the car home.",
+    "tgt": "唔夠錢搭的士，唯有逼車返屋企啦。",
+    "pred": "你唔好錢去車,你都唔會打車屋企。"
+  },
+  {
+    "index": 985,
+    "src": "Actually, I've heard people say that this beach is just a sight to go.",
+    "tgt": "其實我聽人哋話呢個海灘淨係望二眼就走得㗎。",
+    "pred": "所以我聽到啲人話呢個ビーチ係好鍾意去。"
+  },
+  {
+    "index": 986,
+    "src": "The couple shouted for a moment, and they were just idle at the head of the bed, fighting at the end of the bed, and",
+    "tgt": "兩公婆嗌霎吓好閒啫床頭打交床尾和",
+    "pred": "兩個朋友講咗一陣,佢哋都係喺頭上頭,打到頭頭,打到頭頭,打到頭頭,打到頭頭,打到頭頭,打到頭頭,打到"
+  },
+  {
+    "index": 987,
+    "src": "In the end, he fell into this situation, and he still took it himself.",
+    "tgt": "佢最後淪落到呢個境地，都係自己攞嚟。",
+    "pred": "終於佢喺呢個情況,佢就係喺呢個情況。"
+  },
+  {
+    "index": 988,
+    "src": "If we go back to the Paleolithic period 50,000 years ago, at the beginning of mankind, we will find that the whole world is full of dangers, and all these dangerous forces seem to drive out humanity",
+    "tgt": "如果我哋返到五萬年前 舊石器時代嗰陣 、 人類起源嘅時候 我哋會發現 ， 成個世界充滿危險 所有呢啲危險嘅力量 都好似要趕絕人類噉",
+    "pred": "如果我哋喺人類嘅年齡 , 我哋將人類嘅歷史 , 我哋將所有嘅恐怖分子 都會帶到人類"
+  },
+  {
+    "index": 989,
+    "src": "At least I can work responsibly to him, and I don't have to worry about it.",
+    "tgt": "至少我可以放心交帶工作畀佢，唔使我擔心。",
+    "pred": "我都會做佢,唔好唔好諗。"
+  },
+  {
+    "index": 990,
+    "src": "I don't know, maybe I'll have to go another day when I go to meet the translator.",
+    "tgt": "唔知啊，可能第日要去見translator嗰陣時要去。",
+    "pred": "唔知,如果我去去讀書嘅時候,或者我會去去。"
+  },
+  {
+    "index": 991,
+    "src": "Skinny",
+    "tgt": "奀",
+    "pred": "翹"
+  },
+  {
+    "index": 992,
+    "src": "&",
+    "tgt": "&",
+    "pred": "&"
+  },
+  {
+    "index": 993,
+    "src": "So I often don't use a curved pen for shirts,",
+    "tgt": "所以我往往不恤用了曲筆，",
+    "pred": "所以我常常唔使用啲細筆衫,"
+  },
+  {
+    "index": 994,
+    "src": "If someone helps, just go with the flow",
+    "tgt": "有人幫手就順檔啲",
+    "pred": "如果人幫手,就係去到 flow"
+  },
+  {
+    "index": 995,
+    "src": "Pick him out",
+    "tgt": "摵佢出嚟",
+    "pred": "打佢"
+  },
+  {
+    "index": 996,
+    "src": "Beat him for a long time",
+    "tgt": "畀佢揼咗好耐",
+    "pred": "打佢好久"
+  },
+  {
+    "index": 997,
+    "src": "Oops, something missing.",
+    "tgt": "弊囉，唔見晒啲嘢。",
+    "pred": "嘩,嘢唔錯。"
+  },
+  {
+    "index": 998,
+    "src": "You're so capable, you must like to be a big guest.",
+    "tgt": "你咁有本事，實冧到個大客啦。",
+    "pred": "你咁好忙,你會想做大客。"
+  },
+  {
+    "index": 999,
+    "src": "Entrance to university",
+    "tgt": "考大學",
+    "pred": "學院"
+  }
+]
