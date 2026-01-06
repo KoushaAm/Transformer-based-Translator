@@ -1,6 +1,10 @@
 # **Efficient English–Cantonese Low-Resource Machine Translation via LoRA + Contrastive Decoding**
 
 ---
+## Team
+- Jason (Jie Hua Yi)
+- Kousha Amouzesh 
+- Dixon Snider
 
 ## **1. Motivation**
 
